@@ -5231,5 +5231,604 @@
         "u": "https://doi.org/10.1002/hep.28793"
       }
     ]
+  },
+  {
+    "id": 178,
+    "name": "Zopiklon",
+    "generic": "zopiklon",
+    "cat": "Psykofarmaka",
+    "sub": "Sömnmedel",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 3,75 mg. Bör prioriteras framför andra sömnmedel vid levercirros. Risk för encefalopati och förlängd halveringstid."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 3,75 mg. Tät monitorering för sedering och tecken på encefalopati."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Otillräckliga data vid svår leverdysfunktion. Använd med yttersta försiktighet om sömnmedel är absolut nödvändigt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Zolpidem",
+    "generic": "zolpidem",
+    "cat": "Psykofarmaka",
+    "sub": "Sömnmedel",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 5 mg. Föredra zopiklon om möjligt. Risk för encefalopati."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 5 mg. Föredra zopiklon. Tät monitorering för sedering och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Välj zopiklon om sömnmedel är absolut nödvändigt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Alprazolam",
+    "generic": "alprazolam",
+    "cat": "Psykofarmaka",
+    "sub": "Bensodiazepin",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Föredra oxazepam eller lorazepam. Halveringstid hos friska 12–15 timmar – förlängs vid cirros."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Föredra oxazepam eller lorazepam. Tät monitorering för sedering och encefalopati."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Undvik om möjligt – välj oxazepam eller lorazepam om bensodiazepin är oundvikligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Klometiazol",
+    "generic": "klometiazol",
+    "cat": "Psykofarmaka",
+    "sub": "Sedativum",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja vid lägre gräns av dosintervall. OBS: biotillgängligheten ökar upp till 10× hos svårt leversjuka pga kraftigt minskad first-pass-metabolism."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja vid lägre gräns av dosintervall. Markant ackumulationsrisk. Tät monitorering för sedering och andningsdepression."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Extremt oförutsägbar farmakokinetik. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Isosorbidmononitrat",
+    "generic": "isosorbidmononitrat",
+    "cat": "Hjärta/kärl",
+    "sub": "Nitrat",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs. Metaboliseras i lever men inga kliniskt relevanta farmakokinetikförändringar rapporterade vid cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Atorvastatin",
+    "generic": "atorvastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Kraftigt ökad plasmaexponering vid levercirros. Risk för dosberoende biverkningar (myopati, leverpåverkan)."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, ska undvikas. Kraftigt ökad exponering – kontraindicerat vid aktiv leversjukdom."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Desloratadin",
+    "generic": "desloratadin",
+    "cat": "Övrigt",
+    "sub": "Antihistamin",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos (2,5 mg/dag). Ingen dosjustering krävs enligt FASS, men ökad exponering förväntas. Munsönderfallande tablett (2,5 mg) finns."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos (2,5 mg/dag). Risk för ökad trötthet pga förlängd halveringstid."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Monitorera för sedering. Risk för förvärrad encefalopati vid antihistaminbehandling."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Loratadin",
+    "generic": "loratadin",
+    "cat": "Övrigt",
+    "sub": "Antihistamin",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos (5 mg/dag). Tabletten kan delas. Risk för ökad trötthet."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos (5 mg/dag) eller varannan dag. Monitorera för sedering."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos eller varannan dag. Monitorera noggrant för sedering och encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Hydroxizin",
+    "generic": "hydroxizin",
+    "cat": "Övrigt",
+    "sub": "Antihistamin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Normal dos möjlig. Beakta antikolinerg effekt – kan förvärra hepatisk encefalopati. Använd lägsta effektiva dos."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Risk för antikolinerg effekt och försämring av encefalopati. Undvik om möjligt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Undvik. Stark antikolinerg effekt kan utlösa eller förvärra encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Edoxaban",
+    "generic": "edoxaban",
+    "cat": "Koagulation",
+    "sub": "NOAK (faktor Xa-hämmare)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Normal dos kan användas vid Child-Pugh A om klar indikation finns. Monitorera för blödning. Bedöm alltid global blödningsrisk."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Otillräckliga data vid Child-Pugh B. LMWH föredras vid antikoagulationsindikation."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Kontraindicerat vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Produktresumé Lixiana (edoxaban) – leverfunktionsnedsättning",
+        "u": "https://www.ema.europa.eu"
+      },
+      {
+        "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
+        "u": "https://doi.org/10.1002/hep.28793"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Lamotrigin",
+    "generic": "lamotrigin",
+    "cat": "Övrigt",
+    "sub": "Antiepileptikum",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos vid Child-Pugh A. Clearance minskar med stigande cirrhosgrad – monitorera plasmakoncentration."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 50% av normaldos, max 50% av normaldos. Monitorera plasmakoncentration regelbundet."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Börja med 25% av normaldos, max 50% av normaldos. Tät monitorering av plasmakoncentration och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS – produktresumé",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Venlafaxin",
+    "generic": "venlafaxin",
+    "cat": "Psykofarmaka",
+    "sub": "SNRI",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Ökad exponering vid levercirros. Monitorera QT-tid, hyponatremi och blödningsrisk."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Tät monitorering. Markant ökad exponering förväntas."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Välj sertralin om antidepressivum är indicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "drugsinlivercirrhosis.org",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Paroxetin",
+    "generic": "paroxetin",
+    "cat": "Psykofarmaka",
+    "sub": "SSRI",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos möjlig vid Child-Pugh A. Monitorera för hyponatremi, QT-förlängning och blödningsrisk."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Ökad exponering. Monitorera levervärden, hyponatremi och blödningsrisk."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Välj sertralin som alternativ."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "drugsinlivercirrhosis.org",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Fluoxetin",
+    "generic": "fluoxetin",
+    "cat": "Psykofarmaka",
+    "sub": "SSRI",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldos. Lång halveringstid (4–6 dagar hos friska) förlängs ytterligare vid levercirros – risk för ackumulation. Välj sertralin om möjligt."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Kraftig ackumulationsrisk pga mycket lång halveringstid. Välj sertralin."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Kontraindicerat vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "drugsinlivercirrhosis.org",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Semaglutid",
+    "generic": "semaglutid",
+    "cat": "Diabetes",
+    "sub": "GLP-1-agonist",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos. Farmakokinetikstudier (s.c. och oralt) visar att exponering inte påverkas av leverdysfunktion. Monitorera vid snabb viktnedgång – fallrapporter om dekompensation."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos. Exponering opåverkad av leverdysfunktion. Monitorera leverfunktion och tecken på dekompensation."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsad klinisk erfarenhet vid Child-Pugh C. Farmakokinetiken är gynnsam men försiktighet rekommenderas. Monitorera noga. Insulin föredras vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Jensen et al. 2018, Diabetes Obes Metab – semaglutid s.c. vid leverdysfunktion",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/29205786/"
+      },
+      {
+        "t": "Bækdal et al. 2018, J Clin Pharmacol – oralt semaglutid vid leverdysfunktion",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/29693715/"
+      },
+      {
+        "t": "FASS – produktresumé",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Liraglutid",
+    "generic": "liraglutid",
+    "cat": "Diabetes",
+    "sub": "GLP-1-agonist",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos. Exponering ökar inte vid leverdysfunktion – data tyder på något minskad exponering med stigande cirrhosgrad."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos möjlig. Begränsad klinisk erfarenhet. Monitorera leverfunktion och kliniskt svar."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. FASS avråder vid svår leverdysfunktion pga begränsad erfarenhet. Insulin föredras vid Child-Pugh C."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Flint et al. 2010, Br J Clin Pharmacol – liraglutid vid leverdysfunktion",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/21175436/"
+      },
+      {
+        "t": "FASS – produktresumé",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Akamprosat",
+    "generic": "akamprosat",
+    "cat": "Övrigt",
+    "sub": "Alkoholberoendebehandling",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos (666 mg × 3). Genomgår ingen hepatisk metabolism. Ingen hepatotoxicitet rapporterad i 30 år av klinisk användning. Renalt utsöndrat – dosreduktion vid njursvikt (GFR <30)."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Normal dos. Säkert vid Child-Pugh B. Föredraget alternativ framför naltrexon och disulfiram vid dekompenserad cirros."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Ingen rekommendation möjligt. Inga studier vid Child-Pugh C. Teoretisk risk för försämring av leverencefalopati. Kan övervägas om njurfunktion tillåter."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "LiverTox – Acamprosate (NCBI Bookshelf)",
+        "u": "https://www.ncbi.nlm.nih.gov/books/NBK548677/"
+      },
+      {
+        "t": "Ayyala et al. 2022, Hepatol Commun – MAUD vid levercirros",
+        "u": "https://doi.org/10.1002/hep4.2063"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Disulfiram",
+    "generic": "disulfiram",
+    "cat": "Övrigt",
+    "sub": "Alkoholberoendebehandling",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Börja med 50% av normaldos. Kan erbjudas noggrant selekterade Child-Pugh A-patienter efter risk-nyttadiskussion. Ska inte ges om AST/ALT >3× övre referensgränsen eller bilirubin >3. Risk för hepatotoxicitet och oförutsägbar farmakokinetik."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, bör undvikas. Signifikant risk för läkemedelsinducerad leverskada. Välj akamprosat eller naltrexon."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Ej säker, ska undvikas. Kontraindicerat vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "AASLD – How Do I Manage Alcohol Use Disorder in Hepatology Clinic",
+        "u": "https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/how-do-i-manage-alcohol-use-disorder-hepatology"
+      },
+      {
+        "t": "Chick J. 1999, Drug Saf – disulfiram safety",
+        "u": "https://doi.org/10.2165/00002018-199920060-00001"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Naltrexon",
+    "generic": "naltrexon",
+    "cat": "Övrigt",
+    "sub": "Alkoholberoendebehandling",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas med tät monitorering av levervärden. Exponering ~5× högre än normalt pga minskad first-pass-effekt. Starta med 25 mg/dag, öka till 50 mg om tolereras. Monitorera AST/ALT."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas med mycket tät monitorering. Exponering markant ökad. Stor kohortstudie (n=3285) visade ingen DILI vid Child-Pugh B. Väg nytta mot risk individuellt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Exponering ~10× högre än normalt. Otillräckliga säkerhetsdata vid svår dekompenserad cirros. Välj akamprosat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Ayyala et al. 2024, JHEP Reports – säkerhet av naltrexon vid levercirros",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11220533/"
+      },
+      {
+        "t": "AASLD – How Do I Manage Alcohol Use Disorder in Hepatology Clinic",
+        "u": "https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/how-do-i-manage-alcohol-use-disorder-hepatology"
+      },
+      {
+        "t": "Rabiee et al. 2023, Hepatol Commun – MAUD förbättrar överlevnad vid alkoholcirros",
+        "u": "https://doi.org/10.1097/HC9.0000000000000093"
+      },
+      {
+        "t": "Bertolotti et al. 1997, J Hepatol – farmakokinetik för naltrexon vid cirros",
+        "u": "https://doi.org/10.1016/s0168-8278(97)80356-5"
+      }
+    ]
   }
 ]
