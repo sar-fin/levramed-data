@@ -1918,7 +1918,7 @@
     "name": "Domperidon",
     "generic": "domperidon",
     "cat": "Magtarm",
-    "sub": "Prokinetikum",
+    "sub": "Prokinetika",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -1947,7 +1947,7 @@
     "name": "Metoklopramid",
     "generic": "metoklopramid",
     "cat": "Magtarm",
-    "sub": "Prokinetikum",
+    "sub": "Prokinetika",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -2324,7 +2324,7 @@
     "name": "Tigecyklin",
     "generic": "tigecyklin",
     "cat": "Antibiotika",
-    "sub": "Glylcylcyklin",
+    "sub": "Glycylcyklin",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -2614,7 +2614,7 @@
     "name": "Mykofenolat mofetil",
     "generic": "mykofenolat mofetil",
     "cat": "Övrigt",
-    "sub": "Immunosuppressivum",
+    "sub": "Immunosuppressiva",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -2643,7 +2643,7 @@
     "name": "Spironolakton",
     "generic": "spironolakton",
     "cat": "Hepatologi",
-    "sub": "Diuretikum (ascites)",
+    "sub": "Diuretika (ascites)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -2676,7 +2676,7 @@
     "name": "Furosemid",
     "generic": "furosemid",
     "cat": "Hepatologi",
-    "sub": "Diuretikum (ascites)",
+    "sub": "Diuretika (ascites)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -2742,7 +2742,7 @@
     "name": "Laktulos",
     "generic": "laktulos",
     "cat": "Hepatologi",
-    "sub": "Laxativum (encefalopati)",
+    "sub": "Laxantia (encefalopati)",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -3196,7 +3196,7 @@
     "name": "Haloperidol",
     "generic": "haloperidol",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotikum (typiskt)",
+    "sub": "Antipsykotika",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3229,7 +3229,7 @@
     "name": "Risperidon",
     "generic": "risperidon",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotikum (atypiskt)",
+    "sub": "Antipsykotika (atypiska)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3262,7 +3262,7 @@
     "name": "Olanzapin",
     "generic": "olanzapin",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotikum (atypiskt)",
+    "sub": "Antipsykotika (atypiska)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3295,7 +3295,7 @@
     "name": "Quetiapin",
     "generic": "quetiapin",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotikum (atypiskt)",
+    "sub": "Antipsykotika (atypiska)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3328,7 +3328,7 @@
     "name": "Paracetamol",
     "generic": "paracetamol",
     "cat": "Analgetika",
-    "sub": "Icke-opioid analgetikum",
+    "sub": "Icke-opioid analgetika",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4662,7 +4662,7 @@
     "name": "Hydroklortiazid",
     "generic": "hydroklortiazid",
     "cat": "Hjärta/kärl",
-    "sub": "Tiaziddiuretikum",
+    "sub": "Tiaziddiuretika",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4691,7 +4691,7 @@
     "name": "Amilorid",
     "generic": "amilorid",
     "cat": "Hjärta/kärl",
-    "sub": "Kaliumsparande diuretikum",
+    "sub": "Kaliumsparande diuretika",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4720,7 +4720,7 @@
     "name": "Bumetanid",
     "generic": "bumetanid",
     "cat": "Hjärta/kärl",
-    "sub": "Loopdiuretikum",
+    "sub": "Loopdiuretika",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4749,7 +4749,7 @@
     "name": "Eplerenon",
     "generic": "eplerenon",
     "cat": "Hjärta/kärl",
-    "sub": "Kaliumsparande diuretikum",
+    "sub": "Kaliumsparande diuretika",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4894,7 +4894,7 @@
     "name": "Laktitol",
     "generic": "laktitol",
     "cat": "Magtarm",
-    "sub": "Laxativum (encefalopati)",
+    "sub": "Laxantia (encefalopati)",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4923,7 +4923,7 @@
     "name": "Bisacodyl",
     "generic": "bisacodyl",
     "cat": "Magtarm",
-    "sub": "Laxativum",
+    "sub": "Laxantia",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4952,7 +4952,7 @@
     "name": "Makrogol",
     "generic": "makrogol",
     "cat": "Magtarm",
-    "sub": "Laxativum",
+    "sub": "Laxantia",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -5039,7 +5039,7 @@
     "name": "Azatioprin",
     "generic": "azatioprin",
     "cat": "Hepatologi",
-    "sub": "Immunosuppressivum (AIH)",
+    "sub": "Immunosuppressiva (AIH)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -5324,7 +5324,7 @@
     "name": "Klometiazol",
     "generic": "klometiazol",
     "cat": "Psykofarmaka",
-    "sub": "Sedativum",
+    "sub": "Sömnmedel",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -5531,7 +5531,7 @@
     "name": "Lamotrigin",
     "generic": "lamotrigin",
     "cat": "Övrigt",
-    "sub": "Antiepileptikum",
+    "sub": "Antiepileptika",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
