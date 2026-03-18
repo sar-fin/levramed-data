@@ -1,0 +1,5235 @@
+[
+  {
+    "id": 1,
+    "name": "Benazepril",
+    "generic": "benazepril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för njurpåverkan och hypotension vid dekompenserad cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Captopril",
+    "generic": "kaptopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för hypotension och njursvikt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Enalapril",
+    "generic": "enalapril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för hypotension och njursvikt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fosinopril",
+    "generic": "fosinopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lisinopril",
+    "generic": "lisinopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Perindopril",
+    "generic": "perindopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kvinapril",
+    "generic": "kvinapril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh A. Starta försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Starta så lågt som möjligt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ramipril",
+    "generic": "ramipril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Trandolapril",
+    "generic": "trandolapril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Starta så lågt som möjligt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Zofenopril",
+    "generic": "zofenopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Starta så lågt som möjligt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Candesartan",
+    "generic": "kandesartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 4 mg en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 4 mg en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för hypotension och hepatorenal påverkan."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Eprosartan",
+    "generic": "eprosartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Irbesartan",
+    "generic": "irbesartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Losartan",
+    "generic": "losartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 12,5 mg en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 12,5 mg en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Olmesartan",
+    "generic": "olmesartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 10 mg en gång dagligen, öka till max 20 mg/dag."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 10 mg en gång dagligen, öka till max 20 mg/dag."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Telmisartan",
+    "generic": "telmisartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen, öka till max 40 mg/dag."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen, öka till max 40 mg/dag."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Valsartan",
+    "generic": "valsartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 40 mg en gång dagligen, öka till max 80 mg/dag."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 40 mg en gång dagligen, öka till max 80 mg/dag."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Bisoprolol",
+    "generic": "bisoprolol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg dagligen."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Karvedilol",
+    "generic": "karvedilol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Labetalol",
+    "generic": "labetalol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Metoprolol",
+    "generic": "metoprolol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med en tredjedel av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Propranolol",
+    "generic": "propranolol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Amlodipin",
+    "generic": "amlodipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Diltiazem",
+    "generic": "diltiazem",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Felodipin",
+    "generic": "felodipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Lacidipin",
+    "generic": "lacidipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Lerkanidipin",
+    "generic": "lerkanidipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Nifedipin",
+    "generic": "nifedipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen och fördubbla dosintervallet. Öka försiktigt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nimodipin",
+    "generic": "nimodipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Verapamil (per os)",
+    "generic": "verapamil",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 40 mg två gånger dagligen med 12 timmars dosintervall. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 40 mg två gånger dagligen med 12 timmars dosintervall. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Verapamil (IV)",
+    "generic": "verapamil",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd en tredjedel av normal underhållsdos intravenöst."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd en tredjedel av normal underhållsdos intravenöst."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Fluvastatin",
+    "generic": "fluvastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Pravastatin",
+    "generic": "pravastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 10 mg en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 10 mg en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Rosuvastatin",
+    "generic": "rosuvastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 5 mg en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 5 mg en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Simvastatin",
+    "generic": "simvastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Lomitapid",
+    "generic": "lomitapid",
+    "cat": "Hjärta/kärl",
+    "sub": "Lipidsänkare",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 5 mg en gång dagligen, öka till max 40 mg per dag."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Otillräckliga säkerhetsdata."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Bezafibrat",
+    "generic": "bezafibrat",
+    "cat": "Hjärta/kärl",
+    "sub": "Fibrat",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Gemfibrozil",
+    "generic": "gemfibrozil",
+    "cat": "Hjärta/kärl",
+    "sub": "Fibrat",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Ezetimib",
+    "generic": "ezetimib",
+    "cat": "Hjärta/kärl",
+    "sub": "Lipidsänkare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Otillräckliga säkerhetsdata vid måttlig till svår leverpåverkan."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Acetylsalicylsyra",
+    "generic": "acetylsalicylsyra",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Högre doser ökar blödningsrisken."
+    },
+    "B": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Högre doser ökar blödningsrisken."
+    },
+    "C": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Beakta ökad blödningsrisk vid dekompenserad cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Karbasalatkalsium",
+    "generic": "karbasalatkalsium",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning. Karbasalatkalsium är en prodrug till acetylsalicylsyra."
+    },
+    "B": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning."
+    },
+    "C": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning. Beakta ökad blödningsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Klopidogrel",
+    "generic": "klopidogrel",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B, men beakta ökad blödningsrisk."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad blödningsrisk vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dipyridamol",
+    "generic": "dipyridamol",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Överväg alternativ."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Prasugrel",
+    "generic": "prasugrel",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Tikagrelol",
+    "generic": "tikagrelol",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh B. Använd med försiktighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Heparin (ofraktionerat)",
+    "generic": "heparin",
+    "cat": "Koagulation",
+    "sub": "Heparin",
+    "A": {
+      "lbl": "Monitorering",
+      "c": "yellow",
+      "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Beakta ökad blödningsrisk vid levercirros."
+    },
+    "B": {
+      "lbl": "Monitorering",
+      "c": "yellow",
+      "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Beakta ökad blödningsrisk."
+    },
+    "C": {
+      "lbl": "Monitorering",
+      "c": "yellow",
+      "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Hög blödningsrisk – överväg alternativ."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Dalteparin",
+    "generic": "dalteparin",
+    "cat": "Koagulation",
+    "sub": "Lågmolekylärt heparin",
+    "A": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
+    },
+    "B": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen."
+    },
+    "C": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Enoxaparin",
+    "generic": "enoxaparin",
+    "cat": "Koagulation",
+    "sub": "Lågmolekylärt heparin",
+    "A": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
+    },
+    "B": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen."
+    },
+    "C": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Nadroparin",
+    "generic": "nadroparin",
+    "cat": "Koagulation",
+    "sub": "Lågmolekylärt heparin",
+    "A": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
+    },
+    "B": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen."
+    },
+    "C": {
+      "lbl": "Dosjustering",
+      "c": "yellow",
+      "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Acenocoumarol",
+    "generic": "acenocumarol",
+    "cat": "Koagulation",
+    "sub": "Kumarin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Fenprokumon",
+    "generic": "fenprokumon",
+    "cat": "Koagulation",
+    "sub": "Kumarin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Alfentanil",
+    "generic": "alfentanil",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B, men beakta ökad känslighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Starta med reducerad dos och monitorera noga."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Buprenorfin",
+    "generic": "buprenorfin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt. Beakta risk för hepatisk encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Fentanyl",
+    "generic": "fentanyl",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Ingen dosanpassning specificerad utöver generell försiktighet. Beakta risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Hydromorfon (per os)",
+    "generic": "hydromorfon",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Kodein",
+    "generic": "kodein",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh A. Undvik om möjligt – konverteras till morfin via CYP2D6, vilket kan vara opförutsägbart vid leverdysfunktion."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för encefalopati och andningsdepression."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kontraindicerat vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Morfin (per os)",
+    "generic": "morfin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt. Hög risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Morfin (IV)",
+    "generic": "morfin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosintervall",
+      "c": "yellow",
+      "txt": "Fördubbla dosintervallet (intravenöst). Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosintervall",
+      "c": "yellow",
+      "txt": "Fördubbla dosintervallet (intravenöst). Beakta hög risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Oxikodon",
+    "generic": "oxikodon",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen och fördubbla dosintervallet. Öka försiktigt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Petidin",
+    "generic": "petidin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B, men beakta ökad känslighet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt – aktiv metabolit (norpetidin) kan ackumuleras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Piritramid",
+    "generic": "piritramid",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle. Beakta ökad risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Tapentadol",
+    "generic": "tapentadol",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tramadol",
+    "generic": "tramadol",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50 mg var 12:e timme. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg, öka till max 100 mg var 12:e timme. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg, öka till max 100 mg var 12:e timme. Beakta risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Esomeprazol",
+    "generic": "esomeprazol",
+    "cat": "Magtarm",
+    "sub": "Protonpumpshämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 20 mg en gång dagligen."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Omeprazol",
+    "generic": "omeprazol",
+    "cat": "Magtarm",
+    "sub": "Protonpumpshämmare",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 20 mg en gång dagligen."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 20 mg en gång dagligen."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Markant ökad plasmaexponering vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Rabeprazol",
+    "generic": "rabeprazol",
+    "cat": "Magtarm",
+    "sub": "Protonpumpshämmare",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 10 mg en gång dagligen, använd max 20 mg per dag."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per dag."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Domperidon",
+    "generic": "domperidon",
+    "cat": "Magtarm",
+    "sub": "Prokinetikum",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd en tredjedel av normaldosen."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för QT-förlängning och kardiovaskulära biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Metoklopramid",
+    "generic": "metoklopramid",
+    "cat": "Magtarm",
+    "sub": "Prokinetikum",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 50% av normaldosen. Beakta risk för extrapyramidala biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Alogliptin",
+    "generic": "alogliptin",
+    "cat": "Diabetes",
+    "sub": "DPP-4-hämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Använd med försiktighet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Sitagliptin",
+    "generic": "sitagliptin",
+    "cat": "Diabetes",
+    "sub": "DPP-4-hämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Använd med försiktighet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Canagliflozin",
+    "generic": "kanagliflozin",
+    "cat": "Diabetes",
+    "sub": "SGLT2-hämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Använd med försiktighet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Dapagliflozin",
+    "generic": "dapagliflozin",
+    "cat": "Diabetes",
+    "sub": "SGLT2-hämmare",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 5 mg, öka till max 10 mg en gång dagligen. Begränsad effekt förväntas."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Glibenklamid",
+    "generic": "glibenklamid",
+    "cat": "Diabetes",
+    "sub": "Sulfonureid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi och minskad glukoneogenes."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Gliclazid",
+    "generic": "gliclazid",
+    "cat": "Diabetes",
+    "sub": "Sulfonureid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Glimepirid",
+    "generic": "glimepirid",
+    "cat": "Diabetes",
+    "sub": "Sulfonureid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Tolbutamid",
+    "generic": "tolbutamid",
+    "cat": "Diabetes",
+    "sub": "Sulfonureid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Repaglinid",
+    "generic": "repaglinid",
+    "cat": "Diabetes",
+    "sub": "Meglitinid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen, öka till max 4 mg per dag."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldosen, öka till max 4 mg per dag. Beakta risk för hypoglykemi."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Pioglitazon",
+    "generic": "pioglitazon",
+    "cat": "Diabetes",
+    "sub": "Tiazolidindion",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 15 mg en gång dagligen, öka till max 45 mg. Beakta risk för vätskeretention."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 15 mg en gång dagligen, öka till max 45 mg. Beakta risk för vätskeretention och ascites."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 15 mg en gång dagligen. Beakta hög risk för vätskeretention och ascitesförsämring."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Klindamycin",
+    "generic": "klindamycin",
+    "cat": "Antibiotika",
+    "sub": "Linkosamid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Dosintervall",
+      "c": "yellow",
+      "txt": "Använd dosintervall på 8 timmar."
+    },
+    "C": {
+      "lbl": "Dosintervall",
+      "c": "yellow",
+      "txt": "Använd dosintervall på 8 timmar. Beakta ackumulationsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Roxitromycin",
+    "generic": "roxitromycin",
+    "cat": "Antibiotika",
+    "sub": "Makrolid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 150 mg per dag."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Tigecyklin",
+    "generic": "tigecyklin",
+    "cat": "Antibiotika",
+    "sub": "Glylcylcyklin",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Reducera underhållsdos till 25 mg två gånger dagligen."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Dasabuvir",
+    "generic": "dasabuvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5B)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet – del av kombinationsregim."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Otillräckliga säkerhetsdata och risk för levertoxicitet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Elbasvir/grazoprevir",
+    "generic": "elbasvir/grazoprevir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5A/NS3-4A)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Ökad plasmaexponering och risk för levertoxicitet."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Interferon alfa-2a",
+    "generic": "interferon alfa-2a",
+    "cat": "Antivirala",
+    "sub": "Interferon",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh A. Kan utlösa leversvikt – noggrann monitorering krävs."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för leversvikt och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Interferon alfa-2b",
+    "generic": "interferon alfa-2b",
+    "cat": "Antivirala",
+    "sub": "Interferon",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh A. Kan utlösa leversvikt – noggrann monitorering krävs."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för leversvikt och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Peginterferon alfa-2a",
+    "generic": "peginterferon alfa-2a",
+    "cat": "Antivirala",
+    "sub": "Pegylerat interferon",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Noggrann monitorering av leverfunktion krävs."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för dekompensation och leversvikt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Peginterferon alfa-2b",
+    "generic": "peginterferon alfa-2b",
+    "cat": "Antivirala",
+    "sub": "Pegylerat interferon",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Noggrann monitorering av leverfunktion krävs."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för dekompensation och leversvikt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Ombitasvir/paritaprevir/ritonavir",
+    "generic": "ombitasvir/paritaprevir/ritonavir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (kombinationsregim)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet och tät monitorering."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för levertoxicitet och dekompensation."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Ribavirin",
+    "generic": "ribavirin",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (nukleosidanalog)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Beakta risk för hemolytisk anemi och leverdekompensation."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Beakta hög risk för hemolytisk anemi och leverdekompensation."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Simeprevir",
+    "generic": "simeprevir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS3-4A proteashämmare)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Markant ökad plasmaexponering."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Mykofenolat mofetil",
+    "generic": "mykofenolat mofetil",
+    "cat": "Övrigt",
+    "sub": "Immunosuppressivum",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Använd med försiktighet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Spironolakton",
+    "generic": "spironolakton",
+    "cat": "Hepatologi",
+    "sub": "Diuretikum (ascites)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 100 mg/dag. Öka vid behov till max 400 mg/dag. Monitorera elektrolyter och njurfunktion regelbundet. Risk för hyperkalemi."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 100 mg/dag. Öka försiktigt till max 400 mg/dag. Tät monitorering av elektrolyter, njurfunktion och vikt. Risk för hyperkalemi och hyponatremi."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 100 mg/dag. Mycket tät monitorering av elektrolyter och njurfunktion. Hög risk för hyperkalemi, hyponatremi och hepatorenal påverkan. Sätt ut vid AKI."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Furosemid",
+    "generic": "furosemid",
+    "cat": "Hepatologi",
+    "sub": "Diuretikum (ascites)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 40 mg/dag. Öka vid behov till max 160 mg/dag. Används ofta i kombination med spironolakton (ratio 100:40). Monitorera elektrolyter och njurfunktion."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med 40 mg/dag. Öka försiktigt till max 160 mg/dag. Tät monitorering av elektrolyter, njurfunktion och vikt. Risk för elektrolytrubbningar och prerenal AKI."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta med låg dos (20–40 mg/dag). Mycket tät monitorering. Hög risk för elektrolytrubbningar, HRS och AKI. Sätt ut vid tecken på njurpåverkan."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Rifaximin",
+    "generic": "rifaximin",
+    "cat": "Hepatologi",
+    "sub": "Tarmantibiotikum (encefalopati)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indicerat bruk. Minimal systemisk absorption. Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indicerat bruk. Rekommenderad dos: 550 mg två gånger dagligen som sekundärprofylax mot hepatisk encefalopati. Minimal systemisk absorption."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indicerat bruk. Rekommenderad dos: 550 mg två gånger dagligen. Ökad systemisk exponering möjlig vid svår leverdysfunktion – monitorera kliniskt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      },
+      {
+        "t": "Bass et al. 2010, N Engl J Med – rifaximin HE trial",
+        "u": "https://doi.org/10.1056/NEJMoa0907893"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Laktulos",
+    "generic": "laktulos",
+    "cat": "Hepatologi",
+    "sub": "Laxativum (encefalopati)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Titrera dos till 2–3 mjuka avföringar per dygn. Standardbehandling vid hepatisk encefalopati."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Titrera dos till 2–3 mjuka avföringar per dygn. Undvik överdosering (dehydrering och hypernatremi)."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Titrera dos till 2–3 mjuka avföringar per dygn. Noggrann monitorering av vätskebalans och elektrolyter."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Terlipressin",
+    "generic": "terlipressin",
+    "cat": "Hepatologi",
+    "sub": "Vasopressinanalog (HRS/varicelblödning)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indicerat bruk (HRS typ 1, varicealblödning). Startdos: 1 mg var 4:e–6:e timme IV. Monitorera för ischemiska biverkningar."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indicerat bruk. Startdos: 1 mg var 4:e–6:e timme IV. Monitorera hjärta, perifera kärl och elektrolyter. Ge i kombination med albumin vid HRS."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "yellow",
+      "txt": "Kan användas vid indicerat bruk. Startdos: 1 mg var 4:e–6:e timme IV. Noggrann monitorering för ischemiska komplikationer (hjärtischemi, tarmischemi). Ge alltid i kombination med albumin vid HRS."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      },
+      {
+        "t": "Solà et al. 2018, J Hepatol – terlipressin HRS",
+        "u": "https://doi.org/10.1016/j.jhep.2018.01.006"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Albumin (human)",
+    "generic": "humant albumin",
+    "cat": "Hepatologi",
+    "sub": "Plasmaexpander",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Indicerat vid SBP (1,5 g/kg dag 1 + 1 g/kg dag 3), stor tappning (8 g/L tappad ascites) och HRS (i kombination med terlipressin). Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Indicerat vid SBP, stor tappning och HRS. Dosering enligt indikation. Monitorera för vätskeöverbelastning och lungödem."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Indicerat vid SBP, stor tappning och HRS. Dosering enligt indikation. Tät monitorering för vätskeöverbelastning, lungödem och kardiovaskulär påverkan."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for decompensated cirrhosis 2018",
+        "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
+      },
+      {
+        "t": "Sort et al. 1999, N Engl J Med – albumin SBP",
+        "u": "https://doi.org/10.1056/NEJM199909093411101"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Ursodeoxicholsyra",
+    "generic": "ursodeoxicholsyra",
+    "cat": "Hepatologi",
+    "sub": "Gallsyraderivat (PBC/PSC)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Standardbehandling vid PBC: 13–15 mg/kg/dag fördelat på 2–3 doser. Ingen dosanpassning behövs vid kompenserad cirros."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Dosering: 13–15 mg/kg/dag. Monitorera levervärden och kliniskt svar."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsade data vid Child-Pugh C. Effekten av UDCA vid dekompenserad cirros är osäker. Fortsätt behandling om redan insatt; utvärdera nyinsättning individuellt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for PBC 2017",
+        "u": "https://doi.org/10.1016/j.jhep.2017.03.022"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Prednisolon",
+    "generic": "prednisolon",
+    "cat": "Hepatologi",
+    "sub": "Kortikosteroid (AIH/alkoholhepatit)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid indikation (AIH, svår alkoholhepatit med Maddrey ≥32). Standarddos AIH: 40–60 mg/dag med nedtrappning. Monitorera för infektion och metabola biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas vid indikation. Monitorera noggrant för infektion (ökad infektionskänslighet), hyperglykemi och njurfunktion. Uteslut infektion och GI-blödning innan insättning."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med stor försiktighet. Hög risk för allvarliga infektioner, njursvikt och sepsis. Vid svår alkoholhepatit: värdera Lille-score dag 7. Kontraindicerat vid aktiv infektion, GI-blödning eller njursvikt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines for AIH 2015",
+        "u": "https://doi.org/10.1016/j.jhep.2015.06.005"
+      },
+      {
+        "t": "EASL Clinical Practice Guidelines for alcoholic liver disease 2018",
+        "u": "https://doi.org/10.1016/j.jhep.2018.06.006"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Oxazepam",
+    "generic": "oxazepam",
+    "cat": "Psykofarmaka",
+    "sub": "Bensodiazepin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Föredragen bensodiazepin vid levercirros – genomgår enbart fas II-metabolism (glukuronidering), ingen aktiv metabolit. Starta med lägsta effektiva dos. Risk för sedering och encefalopati."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Föredragen bensodiazepin. Starta med lägsta effektiva dos och titrera försiktigt. Tät monitorering för sedering och tecken på encefalopati."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas om bensodiazepin är absolut nödvändigt. Starta med minimal dos. Hög risk för encefalopati – monitorera noggrant. Undvik vid manifest encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – oxazepam",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Lorazepam",
+    "generic": "lorazepam",
+    "cat": "Psykofarmaka",
+    "sub": "Bensodiazepin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Föredragen bensodiazepin vid levercirros – genomgår enbart fas II-metabolism (glukuronidering), ingen aktiv metabolit. Starta med lägsta effektiva dos. Risk för sedering och encefalopati."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Föredragen bensodiazepin. Starta med lägsta effektiva dos och titrera försiktigt. Monitorera för sedering och tecken på encefalopati."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas om bensodiazepin är absolut nödvändigt. Starta med minimal dos. Hög risk för encefalopati. Undvik vid manifest encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – lorazepam",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Diazepam",
+    "generic": "diazepam",
+    "cat": "Psykofarmaka",
+    "sub": "Bensodiazepin",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Undvik om möjligt – föredra oxazepam eller lorazepam. Genomgår CYP-metabolism med aktiv metabolit (desmethyldiazepam) som ackumuleras. Om nödvändigt: starta med 50% av normaldos. Undvik långtidsanvändning."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Undvik om möjligt. Om nödvändigt: starta med 25–50% av normaldos. Markant ackumulationsrisk för aktiv metabolit. Hög risk för prolongerad sedering och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Mycket hög ackumulationsrisk för aktiv metabolit. Stor risk för encefalopati, andningsdepression och koma. Använd oxazepam eller lorazepam om bensodiazepin är oundvikligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – diazepam",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Midazolam",
+    "generic": "midazolam",
+    "cat": "Psykofarmaka",
+    "sub": "Bensodiazepin",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Reducera dosen. Metaboliseras via CYP3A4, förlängd effekt vid leverdysfunktion. Vanligen acceptabelt som engångsdos vid procedursedation med noga monitorering."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Reducera dosen signifikant. Förlängd och oförutsägbar effekt. Begränsa till kortvarig procedursedation med andningsövervakning."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förlängd effekt och ackumulationsrisk. Vid oundviklig procedursedation: minimal dos med kontinuerlig andnings- och medvetandemonitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – midazolam",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Sertralin",
+    "generic": "sertralin",
+    "cat": "Psykofarmaka",
+    "sub": "SSRI",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Föredragen SSRI vid levercirros. Starta med 25–50 mg/dag (50% av normaldos). Öka försiktigt. Monitorera för hyponatremi och blödningsrisk (trombocythämning)."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg/dag. Öka till max 50–75 mg/dag med försiktighet. Monitorera levervärden, hyponatremi och blödningsrisk."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg/dag. Öka mycket försiktigt. Hög risk för hyponatremi, blödning och encefalopati. Undvik om möjligt – väg nytta mot risk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – sertraline",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Citalopram",
+    "generic": "citalopram",
+    "cat": "Psykofarmaka",
+    "sub": "SSRI",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 10–20 mg/dag. Använd max 20 mg/dag. Risk för QT-förlängning ökar vid leverdysfunktion – beakta interaktioner med andra QT-förlängande läkemedel."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 10 mg/dag, max 20 mg/dag. Tät monitorering för QT-förlängning, hyponatremi och blödningsrisk."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Markant ökad risk för QT-förlängning vid svår leverdysfunktion. Välj sertralin som alternativ om SSRI är indicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – citalopram",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Escitalopram",
+    "generic": "escitalopram",
+    "cat": "Psykofarmaka",
+    "sub": "SSRI",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 5 mg/dag, max 10 mg/dag. Risk för QT-förlängning – beakta interaktioner."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 5 mg/dag, max 10 mg/dag. Monitorera för QT-förlängning, hyponatremi och blödningsrisk."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för QT-förlängning vid svår leverdysfunktion. Välj sertralin som alternativ."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – escitalopram",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Mirtazapin",
+    "generic": "mirtazapin",
+    "cat": "Psykofarmaka",
+    "sub": "NaSSA",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 7,5–15 mg/dag. Öka försiktigt. Monitorera för sedering (förstärkt vid leverdysfunktion) och viktökning. Kan förvärra encefalopati."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 7,5 mg/dag. Öka mycket försiktigt. Markant förstärkt sedation. Monitorera noggrant för encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förstärkt sedering och ackumulationsrisk. Hög risk för encefalopati. Om nödvändigt: minimal dos med tät monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – mirtazapine",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Amitriptylin",
+    "generic": "amitriptylin",
+    "cat": "Psykofarmaka",
+    "sub": "Tricykliskt antidepressivum",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Undvik om möjligt – föredra SSRI. Starka antikolinerga effekter kan förvärra encefalopati. Om nödvändigt: starta med lägsta möjliga dos. Monitorera QT-tid och levervärden."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Antikolinerg effekt ökar risk för encefalopati. Uttalad ackumulationsrisk och QT-förlängning. Välj SSRI."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Hög risk för encefalopati, arytmi och kardiovaskulära biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – amitriptyline",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Haloperidol",
+    "generic": "haloperidol",
+    "cat": "Psykofarmaka",
+    "sub": "Antipsykotikum (typiskt)",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 50% av normaldos. Öka försiktigt. Risk för förlängd QT-tid och extrapyramidala biverkningar. Monitorera levervärden."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25–50% av normaldos. Öka mycket försiktigt. Tät monitorering för EPS, QT-förlängning och encefalopatiförsämring."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Hög ackumulationsrisk, kraftig QT-förlängning och risk för encefalopati. Om oundvikligt: minimal engångsdos med monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – haloperidol",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Risperidon",
+    "generic": "risperidon",
+    "cat": "Psykofarmaka",
+    "sub": "Antipsykotikum (atypiskt)",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 0,5 mg två gånger dagligen. Öka försiktigt. Monitorera för ortostatisk hypotension och EPS."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 0,5 mg en gång dagligen. Öka försiktigt till max 2 mg/dag. Monitorera för ortostatisk hypotension, EPS och levervärden."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad ackumulationsrisk och risk för encefalopati vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – risperidone",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Olanzapin",
+    "generic": "olanzapin",
+    "cat": "Psykofarmaka",
+    "sub": "Antipsykotikum (atypiskt)",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2,5–5 mg/dag. Öka försiktigt. Monitorera levervärden (hepatotoxicitet rapporterad). Risk för viktuppgång och metabolt syndrom."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2,5 mg/dag. Öka mycket försiktigt. Tät monitorering av levervärden, metabola parametrar och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad hepatotoxicitetsrisk och ackumulation. Hög risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – olanzapine",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Quetiapin",
+    "generic": "quetiapin",
+    "cat": "Psykofarmaka",
+    "sub": "Antipsykotikum (atypiskt)",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg/dag. Öka med 25–50 mg/dag per tillfälle. Monitorera för ortostatisk hypotension och sedering."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 25 mg/dag. Öka mycket försiktigt. Förlängd halveringstid. Monitorera för sedering, hypotension och encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förlängd halveringstid och ackumulationsrisk. Hög risk för sedering och encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "drugsinlivercirrhosis.org – quetiapine",
+        "u": "https://www.drugsinlivercirrhosis.org"
+      },
+      {
+        "t": "Weersink et al. 2018, Drug Safety",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Paracetamol",
+    "generic": "paracetamol",
+    "cat": "Analgetika",
+    "sub": "Icke-opioid analgetikum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Föredraget analgetikum vid levercirros. Max 2 g/dag vid regelbunden användning (normaldos 4 g/dag). Undvik vid aktiv alkoholkonsumtion. Engångsdoser upp till 1 g acceptabla."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Föredraget analgetikum. Max 2 g/dag. Kortvarig användning föredras. Undvik vid malnutrition och aktiv alkoholkonsumtion."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Kan användas med försiktighet. Max 1–2 g/dag i kortvariga kurer. Undvik långtidsanvändning. Inga säkra alternativ för smärtlindring vid Child-Pugh C – paracetamol i reducerad dos är ändå förstahandsval."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "NSAIDs (klass)",
+    "generic": "NSAID",
+    "cat": "Analgetika",
+    "sub": "NSAID",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik alla NSAIDs vid levercirros. Kraftigt ökad risk för njursvikt (HRS), gastrointestinal blödning och natriumretention. Gäller alla preparat i klassen (ibuprofen, naproxen, diklofenak m.fl.)."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. NSAIDs är en vanlig utlösande faktor för hepatorenal syndrom (HRS) och dekompensation vid levercirros."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Absolut kontraindicerat. Extremt hög risk för HRS, GI-blödning och akut leversvikt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe, alla NSAIDs)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "COX-2-hämmare (klass)",
+    "generic": "COX-2-hämmare",
+    "cat": "Analgetika",
+    "sub": "NSAID",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik alla COX-2-hämmare vid levercirros. Samma risker som övriga NSAIDs – ökad risk för njursvikt, ascitesutveckling och GI-blödning. Gäller celecoxib, etoricoxib m.fl."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. COX-2-hämmare ökar risk för HRS och dekompensation."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Absolut kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe, alla COX-2-hämmare)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Remifentanil",
+    "generic": "remifentanil",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Hydrolyseras av ospecifika vävnads- och plasmaesteraser oberoende av leverfunktion. Ingen dosanpassning behövs."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Metabolism opåverkad av leverdysfunktion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Föredragen opioid vid procedursedation på grund av leverfunktionsoberoende metabolism."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Sufentanil",
+    "generic": "sufentanil",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Klassificerat som säkert vid levercirros. Monitorera för förlängd effekt."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera för förlängd effekt och risk för encefalopati."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas med försiktighet. Monitorera noggrant för förlängd sedering och encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Metadon",
+    "generic": "metadon",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Undvik om möjligt – föredra kortverkande opioider. Lång och varierande halveringstid ökar ackumulationsrisken. Om nödvändigt: starta med låg dos och förlängt intervall."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Undvik om möjligt. Kraftig ackumulationsrisk och QT-förlängning. Hög risk för encefalopati och andningsdepression."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Extremt oförutsägbar farmakokinetik vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Hydromorfon (IV)",
+    "generic": "hydromorfon",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för intravenös administrering vid Child-Pugh A. Starta med reducerad dos och monitorera noggrant."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta med reducerad dos. Monitorera för sedering och encefalopati."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Undvik om möjligt. Välj remifentanil eller fentanyl vid behov av IV-opioid."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Nalbupin",
+    "generic": "nalbupin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta med reducerad dos och monitorera noggrant."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta med reducerad dos. Risk för encefalopati."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Ciprofloxacin",
+    "generic": "ciprofloxacin",
+    "cat": "Antibiotika",
+    "sub": "Kinolon",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Säkert vid levercirros. Används bl.a. som andrahandsalternativ för SBP-profylax."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion vid nedsatt njurperfusion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och QT-tid."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Norfloxacin",
+    "generic": "norfloxacin",
+    "cat": "Antibiotika",
+    "sub": "Kinolon",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Förstahandsval för SBP-profylax (400 mg/dag) vid levercirros med tidigare SBP eller lågt ascitesprotein."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Standarddos för SBP-profylax: 400 mg/dag. Minimal systemisk absorption."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Norfloxacin är förstahandsval för långtidsprofylax mot SBP vid Child-Pugh C."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Ofloxacin",
+    "generic": "ofloxacin",
+    "cat": "Antibiotika",
+    "sub": "Kinolon",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera QT-tid."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Moxifloxacin",
+    "generic": "moxifloxacin",
+    "cat": "Antibiotika",
+    "sub": "Kinolon",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Primärt hepatisk utsöndring – kraftigt förhöjd plasmaexponering vid levercirros. Hög risk för levertoxicitet och QT-förlängning."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Levofloxacin",
+    "generic": "levofloxacin",
+    "cat": "Antibiotika",
+    "sub": "Kinolon",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Kan sannolikt användas – primärt renal utsöndring. Monitorera njurfunktion och QT-tid."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Monitorera njurfunktion och QT-tid noggrant."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Välj ciprofloxacin eller norfloxacin om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Amoxicillin",
+    "generic": "amoxicillin",
+    "cat": "Antibiotika",
+    "sub": "Penicillin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Primärt renal utsöndring, minimal leverpåverkan."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och tecken på biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Amoxicillin/klavulansyra",
+    "generic": "amoxicillin/klavulansyra",
+    "cat": "Antibiotika",
+    "sub": "Penicillin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. OBS: klavulansyra har sällsynt men känd hepatotoxicitetsrisk – monitorera levervärden vid längre kurer."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera levervärden. Begränsa kurlängd om möjligt."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas, men klavulansyrans hepatotoxicitetsrisk är förhöjd vid befintlig leverdysfunktion. Välj amoxicillin enbart eller alternativt antibiotikum om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Piperacillin/tazobaktam",
+    "generic": "piperacillin/tazobaktam",
+    "cat": "Antibiotika",
+    "sub": "Penicillin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Primärt renal utsöndring."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och elektrolyter (hög natriumbelastning)."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Flukloxacillin",
+    "generic": "flukloxacillin",
+    "cat": "Antibiotika",
+    "sub": "Penicillin",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Känd risk för kolestatisk hepatit (idiosynkratisk). Monitorera levervärden vid kurer längre än 2 veckor."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Ökad risk för kolestatisk hepatit vid befintlig leverdysfunktion. Välj alternativt antibiotikum om möjligt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt pga hepatotoxicitetsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Doxycyklin",
+    "generic": "doxycyklin",
+    "cat": "Antibiotika",
+    "sub": "Tetracyklin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Primärt fekal utsöndring, minimal leverpåverkan."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera för biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Minocyklin",
+    "generic": "minocyklin",
+    "cat": "Antibiotika",
+    "sub": "Tetracyklin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera för biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Sulfametoxazol/trimetoprim",
+    "generic": "sulfametoxazol/trimetoprim",
+    "cat": "Antibiotika",
+    "sub": "Sulfonamid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion och kalium (trimetoprim kan höja S-kreatinin och kalium)."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och elektrolyter noggrant."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Tät monitorering av njurfunktion och elektrolyter."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Azitromycin",
+    "generic": "azitromycin",
+    "cat": "Antibiotika",
+    "sub": "Makrolid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera QT-tid vid kombination med andra QT-förlängande läkemedel."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera QT-tid."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera QT-tid noggrant."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Klaritromycin",
+    "generic": "klaritromycin",
+    "cat": "Antibiotika",
+    "sub": "Makrolid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. OBS: potent CYP3A4-hämmare – beakta läkemedelsinteraktioner (statiner, immunosuppressiva m.fl.)."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Beakta CYP3A4-interaktioner och monitorera QT-tid."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas men med försiktighet. Förlängd exponering möjlig. Beakta CYP3A4-interaktioner. Välj azitromycin om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Erytromycin",
+    "generic": "erytromycin",
+    "cat": "Antibiotika",
+    "sub": "Makrolid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera levervärden vid längre kurer (kolestatisk hepatit möjlig). QT-förlängningsrisk."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Begränsa kurlängd. Monitorera levervärden och QT-tid."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas kortvarigt. Föredra azitromycin. Monitorera levervärden och QT-tid."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Nitrofurantoin",
+    "generic": "nitrofurantoin",
+    "cat": "Antibiotika",
+    "sub": "Urinvägsantibiotikum",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Känd hepatotoxicitetsrisk (kronisk aktiv hepatit vid långtidsbruk). Undvik vid nedsatt njurfunktion (GFR <45 ml/min) som är vanligt vid levercirros. Välj trimetoprim eller pivmecillinam om möjligt."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik – hepatotoxicitetsrisk och ofta nedsatt njurfunktion vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Hepatotoxicitetsrisk och nedsatt njurfunktion gör nitrofurantoin olämpligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Metformin",
+    "generic": "metformin",
+    "cat": "Diabetes",
+    "sub": "Biguanid",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid kompenserad levercirros (Child-Pugh A). Klassificerat som säkert av Weersink. OBS: Kontraindicerat vid dekompensation, njursvikt (GFR <30), akut sjukdom eller alkoholmissbruk pga risk för laktacidos."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med stor försiktighet. Risk för laktacidos vid nedsatt leverfunktion och associerad njurpåverkan. Monitorera njurfunktion och laktat. Sätt ut vid dekompensation, infektion eller akut sjukdom."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Hög risk för laktacidos vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Insulin",
+    "generic": "insulin",
+    "cat": "Diabetes",
+    "sub": "Insulin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Föredraget antidiabetikum vid svår levercirros. Insulinkrav kan vara opförutsägbara – nedsatt hepatisk glukoneogenes ökar hypoglykemirisk. Tät blodsockerkontroll."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Förstahandsval vid diabetes och levercirros Child-Pugh B. Tät blodsockerkontroll – hög risk för hypoglykemi."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Förstahandsval vid Child-Pugh C. Mycket tät blodsockerkontroll krävs – extremt hög hypoglykemirisk pga kraftigt nedsatt glukoneogenes."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Acarbose",
+    "generic": "akarbos",
+    "cat": "Diabetes",
+    "sub": "Alfaglukosidashämmare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Lokalt verkande i tarmen, minimal systemisk absorption. Kan ha positiv effekt vid hepatisk encefalopati (minskar intestinal glukosabsorption och ammoniakproduktion)."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera levervärden – sällsynt hepatotoxicitet rapporterad vid höga doser."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas med försiktighet. Monitorera levervärden. Begränsad data vid Child-Pugh C."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Empagliflozin",
+    "generic": "empagliflozin",
+    "cat": "Diabetes",
+    "sub": "SGLT2-hämmare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion och tecken på biverkningar."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Begränsad effekt förväntad vid svår leverdysfunktion. Insulin föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Linagliptin",
+    "generic": "linagliptin",
+    "cat": "Diabetes",
+    "sub": "DPP-4-hämmare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Primärt enterohepatisk utsöndring, minimal renal clearance."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Fördel jämfört med andra DPP-4-hämmare: kräver ingen dosjustering vid njursvikt."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Insulin föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Saxagliptin",
+    "generic": "saxagliptin",
+    "cat": "Diabetes",
+    "sub": "DPP-4-hämmare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Insulin föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Vildagliptin",
+    "generic": "vildagliptin",
+    "cat": "Diabetes",
+    "sub": "DPP-4-hämmare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. OBS: Kontraindicerat av tillverkaren vid ALT/AST >3× ULN – beakta vid insättning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. OBS: Leverenzymstegring känd biverkan – monitorera levervärden regelbundet."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik pga leverenzymstegring som biverkan. Insulin föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Entecavir",
+    "generic": "entecavir",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleosidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Förstahandsval vid kronisk hepatit B med levercirros. Ingen dosanpassning behövs vid normal njurfunktion. Monitorera njurfunktion – dosreduktion vid GFR <50 ml/min."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Förstahandsval vid HBV-cirros. Monitorera njurfunktion och HBV-DNA."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Behandling av HBV är kritisk för att förhindra ytterligare leversvikt. Monitorera njurfunktion noggrant."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Tenofovir",
+    "generic": "tenofovir disoproxil",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleotidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Förstahandsval vid kronisk hepatit B med levercirros. Ingen dosanpassning behövs vid normal njurfunktion. Monitorera njurfunktion och fosfat regelbundet."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och fosfat. Dosreduktion vid GFR <50 ml/min."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Behandling av HBV är kritisk. Noggrann monitorering av njurfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Lamivudin",
+    "generic": "lamivudin",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleosidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Observera: hög resistensutveckling vid långtidsanvändning – entecavir eller tenofovir föredras."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion. Entecavir eller tenofovir föredras pga lägre resistensrisk."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Entecavir eller tenofovir föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Adefovir",
+    "generic": "adefovir dipivoxil",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleotidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Observera: nefrotoxicitet är känd biverkan – monitorera njurfunktion. Tenofovir eller entecavir föredras."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion noggrant."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Tenofovir eller entecavir föredras pga bättre säkerhetsprofil."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Telbivudin",
+    "generic": "telbivudin",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleosidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och CK-värden (myopati känd biverkan). Entecavir eller tenofovir föredras."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och CK."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Entecavir eller tenofovir föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Sofosbuvir",
+    "generic": "sofosbuvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5B)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Ingår i moderna pan-genotypiska regimer. Monitorera njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och behandlingssvar (SVR)."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Används i kombination (sofosbuvir/velpatasvir) även vid dekompenserad cirros. Monitorera för reaktivering av HBV."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Ledipasvir",
+    "generic": "ledipasvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5A)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Ges i kombination med sofosbuvir."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera för leverbetingad reaktivering av HBV vid HCV/HBV-koinfektion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Daklatasvir",
+    "generic": "daklatasvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5A)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera behandlingssvar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Velpatasvir",
+    "generic": "velpatasvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5A)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Sofosbuvir/velpatasvir är godkänt pan-genotypiskt regime."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Sofosbuvir/velpatasvir är förstahandsval vid HCV-cirros Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Sofosbuvir/velpatasvir ± ribavirin (med försiktighet) vid dekompenserad Child-Pugh C enligt EASL."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Atenolol",
+    "generic": "atenolol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Hydrofil – primärt renal utsöndring. Monitorera njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion – dosreduktion kan behövas vid associerad njursvikt."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion noggrant."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Sotalol",
+    "generic": "sotalol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Hydrofil, primärt renal utsöndring. Monitorera QT-tid och njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera QT-tid och njurfunktion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Tät monitorering av QT-tid och njurfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Nebivolol",
+    "generic": "nebivolol",
+    "cat": "Hjärta/kärl",
+    "sub": "Betablockerare",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftig hepatisk metabolism – markant ökad plasmaexponering vid levercirros. Ej säkert vid levercirros."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Barnidipin",
+    "generic": "barnidipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förhöjd plasmaexponering vid levercirros pga extensiv hepatisk metabolism och hög first-pass-effekt."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Isradipin",
+    "generic": "isradipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förhöjd plasmaexponering pga extensiv hepatisk metabolism. Välj amlodipin eller nifedipin med dosreduktion."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Atorvastatin",
+    "generic": "atorvastatin",
+    "cat": "Hjärta/kärl",
+    "sub": "Statin",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera levervärden. OBS: Atorvastatin är kontraindicerat vid aktiv leversjukdom – vid kompenserad cirros utan aktiv inflammation kan det användas med försiktighet."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med försiktighet. Markant ökad plasmaexponering. Starta med lägsta dos. Monitorera levervärden regelbundet. Överväg pravastatin som alternativ."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering och risk för myopati/rabdomyolys."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Hydroklortiazid",
+    "generic": "hydroklortiazid",
+    "cat": "Hjärta/kärl",
+    "sub": "Tiaziddiuretikum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera elektrolyter och njurfunktion. Risk för hypokalemi och hyponatremi."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Tät monitorering av elektrolyter och njurfunktion. Tiazider är sämre val än spironolakton/furosemid vid ascites."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med stor försiktighet. Hög risk för elektrolytrubbningar och prerenal AKI. Spironolakton och furosemid föredras vid ascites."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Amilorid",
+    "generic": "amilorid",
+    "cat": "Hjärta/kärl",
+    "sub": "Kaliumsparande diuretikum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Alternativ till spironolakton vid gynekomasti. Monitorera kalium och njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera kalium och njurfunktion noggrant – risk för hyperkalemi."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med försiktighet. Hög risk för hyperkalemi. Monitorera tätt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Bumetanid",
+    "generic": "bumetanid",
+    "cat": "Hjärta/kärl",
+    "sub": "Loopdiuretikum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Alternativ till furosemid. Monitorera elektrolyter och njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera elektrolyter och njurfunktion noggrant."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med försiktighet. Furosemid i kombination med spironolakton är förstahandsval vid ascites."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Eplerenon",
+    "generic": "eplerenon",
+    "cat": "Hjärta/kärl",
+    "sub": "Kaliumsparande diuretikum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Selektiv mineralkortikoidantagonist utan antiandrogen effekt. Monitorera kalium och njurfunktion."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera kalium och njurfunktion noggrant – risk för hyperkalemi."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Spironolakton föredras vid ascites. Monitorera tätt om eplerenon används."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Famotidin",
+    "generic": "famotidin",
+    "cat": "Magtarm",
+    "sub": "H2-receptorblockerare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Primärt renal utsöndring."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion – dosreduktion vid GFR <50 ml/min."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Ranitidin",
+    "generic": "ranitidin",
+    "cat": "Magtarm",
+    "sub": "H2-receptorblockerare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. OBS: Ranitidin är sedan 2020 draget från marknaden i EU pga NDMA-föroreningar."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. OBS: Se produktstatus i aktuell region."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Famotidin föredras som H2-blockerare."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Pantoprazol",
+    "generic": "pantoprazol",
+    "cat": "Magtarm",
+    "sub": "Protonpumpshämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga specifika data vid levercirros. Sannolikt liknande profil som omeprazol – starta med lägsta effektiva dos. Max 40 mg/dag rekommenderas."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Använd lägsta effektiva dos. Monitorera levervärden."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data för Child-Pugh C. Esomeprazol med dosbegränsning föredras vid behov av PPI."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Lansoprazol",
+    "generic": "lansoprazol",
+    "cat": "Magtarm",
+    "sub": "Protonpumpshämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga specifika data. Starta med lägsta effektiva dos (15 mg/dag). Sannolikt liknande interaktionsprofil som omeprazol."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Max 15–30 mg/dag. Esomeprazol med dosbegränsning föredras."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Esomeprazol (max 20 mg/dag) föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Laktitol",
+    "generic": "laktitol",
+    "cat": "Magtarm",
+    "sub": "Laxativum (encefalopati)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Alternativ till laktulos vid hepatisk encefalopati. Titrera till 2–3 mjuka avföringar per dygn. Bättre smakprofil än laktulos."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Titrera till 2–3 mjuka avföringar per dygn."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera vätskebalans och elektrolyter."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Bisacodyl",
+    "generic": "bisacodyl",
+    "cat": "Magtarm",
+    "sub": "Laxativum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Minimal systemisk absorption. Undvik vid elektrolytobalans."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera elektrolyter."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera elektrolyter och vätskebalans."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Makrogol",
+    "generic": "makrogol",
+    "cat": "Magtarm",
+    "sub": "Laxativum",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Osmotiskt laxativum, inte resorberat. God säkerhetsprofil."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera elektrolyter vid användning av makrogol med elektrolyttillsats."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. God säkerhetsprofil vid levercirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Kolestyramin",
+    "generic": "kolestyramin",
+    "cat": "Hjärta/kärl",
+    "sub": "Gallsyrebindare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Lokal verkan i tarmen, inte resorberat. Används vid PBC-associerad klåda. Kan minska absorption av andra läkemedel – ge andra läkemedel 1 timme före eller 4–6 timmar efter kolestyramin."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Beakta interaktioner med läkemedelsabsorption."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Beakta interaktioner och risk för malabsorption av fettlösliga vitaminer."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Kolesevelam",
+    "generic": "kolesevelam",
+    "cat": "Hjärta/kärl",
+    "sub": "Gallsyrebindare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Lokal verkan, inte resorberat. Färre interaktioner än kolestyramin."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Azatioprin",
+    "generic": "azatioprin",
+    "cat": "Hepatologi",
+    "sub": "Immunosuppressivum (AIH)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk för benmärgssuppression och hepatotoxicitet vid levercirros. Kan vara nödvändigt vid AIH-behandling. Starta med låg dos (0,5–1 mg/kg/dag). Monitorera CBC och levervärden tätt. TPMT-genotypning rekommenderas."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Ökad toxicitetsrisk. Använd om nödvändigt (AIH) med minimal dos. Tät monitorering av CBC och levervärden. Beakta mykofenolat som alternativ."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Hög risk för allvarlig benmärgssuppression och leversvikt vid svår leverdysfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "EASL Clinical Practice Guidelines for AIH 2015",
+        "u": "https://doi.org/10.1016/j.jhep.2015.06.005"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Budesonid",
+    "generic": "budesonid",
+    "cat": "Hepatologi",
+    "sub": "Kortikosteroid (AIH)",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Kan användas vid AIH utan cirros som alternativ till prednisolon (färre systemiska biverkningar). OBS: Hög first-pass-effekt förloras vid portosystemisk shuntning – kraftigt ökad systemisk exponering vid cirros. Undvik generellt vid cirros."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Portosystemisk shuntning eliminerar first-pass-effekten – budesonid beter sig som systemiskt kortison vid cirros. Prednisolon föredras om kortikosteroider är indicerade."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Prednisolon föredras vid Child-Pugh C om kortikosteroider krävs."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "EASL Clinical Practice Guidelines for AIH 2015",
+        "u": "https://doi.org/10.1016/j.jhep.2015.06.005"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Warfarin",
+    "generic": "warfarin",
+    "cat": "Koagulation",
+    "sub": "Kumarin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kan användas vid klar indikation (t.ex. mekanisk hjärtklaff, förmaksflimmer). Levercirros orsakar i sig förlängt PK(INR) – INR-värden är opålitliga som mått på antikoagulation. Starta med låg dos. Tät INR-monitorering krävs. Risk för blödning förhöjd."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Använd med stor försiktighet. INR är opålitligt vid leverdysfunktion pga nedsatt koagulationsfaktorsyntes. Tät monitorering. Överväg LMWH som alternativ vid trombos."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Extremt opålitlig farmakokinetik och INR-monitorering vid svår leverdysfunktion. LMWH föredras vid tromboembolisk behandling."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EASL Clinical Practice Guidelines: Vascular liver diseases 2016",
+        "u": "https://doi.org/10.1016/j.jhep.2015.07.040"
+      },
+      {
+        "t": "Lisman & Porte, J Hepatol 2010 – coagulopathy in cirrhosis",
+        "u": "https://doi.org/10.1016/j.jhep.2010.01.001"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Rivaroxaban",
+    "generic": "rivaroxaban",
+    "cat": "Koagulation",
+    "sub": "NOAK (faktor Xa-hämmare)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsade data vid levercirros. Kan övervägas vid Child-Pugh A om klar indikation finns. Delvis hepatisk metabolism. Monitorera för blödning."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B – markant ökad exponering förväntas. LMWH föredras vid antikoagulationsindikation."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EMA produktinformation rivaroxaban – leverfunktionsnedsättning",
+        "u": "https://www.ema.europa.eu"
+      },
+      {
+        "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
+        "u": "https://doi.org/10.1002/hep.28793"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Apixaban",
+    "generic": "apixaban",
+    "cat": "Koagulation",
+    "sub": "NOAK (faktor Xa-hämmare)",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsade data. Kan övervägas vid Child-Pugh A med klar indikation. Monitorera för blödning. Delvis hepatisk metabolism."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B. LMWH föredras."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EMA produktinformation apixaban – leverfunktionsnedsättning",
+        "u": "https://www.ema.europa.eu"
+      },
+      {
+        "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
+        "u": "https://doi.org/10.1002/hep.28793"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Dabigatran",
+    "generic": "dabigatran etexilat",
+    "cat": "Koagulation",
+    "sub": "NOAK (trombinhämmare)",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Begränsade data. Primärt renal utsöndring men prodrug-aktivering via levern. Kan övervägas vid Child-Pugh A om klar indikation. Monitorera njurfunktion och blödning."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B. LMWH föredras."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "EMA produktinformation dabigatran – leverfunktionsnedsättning",
+        "u": "https://www.ema.europa.eu"
+      },
+      {
+        "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
+        "u": "https://doi.org/10.1002/hep.28793"
+      }
+    ]
+  }
+]
