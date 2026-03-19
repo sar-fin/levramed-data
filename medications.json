@@ -1,38 +1,6 @@
 [
   {
     "id": 1,
-    "name": "Benazepril",
-    "generic": "benazepril",
-    "cat": "Hjärta/kärl",
-    "sub": "ACE-hämmare",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Ökad risk för njurpåverkan och hypotension vid dekompenserad cirros."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Cibacen"
-    ]
-  },
-  {
-    "id": 2,
     "name": "Captopril",
     "generic": "kaptopril",
     "cat": "Hjärta/kärl",
@@ -64,7 +32,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Enalapril",
     "generic": "enalapril",
     "cat": "Hjärta/kärl",
@@ -97,7 +65,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Fosinopril",
     "generic": "fosinopril",
     "cat": "Hjärta/kärl",
@@ -129,7 +97,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Lisinopril",
     "generic": "lisinopril",
     "cat": "Hjärta/kärl",
@@ -162,7 +130,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Perindopril",
     "generic": "perindopril",
     "cat": "Hjärta/kärl",
@@ -195,7 +163,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Kvinapril",
     "generic": "kvinapril",
     "cat": "Hjärta/kärl",
@@ -227,7 +195,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Ramipril",
     "generic": "ramipril",
     "cat": "Hjärta/kärl",
@@ -260,7 +228,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Trandolapril",
     "generic": "trandolapril",
     "cat": "Hjärta/kärl",
@@ -292,39 +260,7 @@
     ]
   },
   {
-    "id": 10,
-    "name": "Zofenopril",
-    "generic": "zofenopril",
-    "cat": "Hjärta/kärl",
-    "sub": "ACE-hämmare",
-    "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta försiktigt."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Känd ökad risk. Starta så lågt som möjligt."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Zofenil"
-    ]
-  },
-  {
-    "id": 11,
+    "id": 9,
     "name": "Candesartan",
     "generic": "kandesartan",
     "cat": "Hjärta/kärl",
@@ -356,7 +292,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Eprosartan",
     "generic": "eprosartan",
     "cat": "Hjärta/kärl",
@@ -388,7 +324,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 11,
     "name": "Irbesartan",
     "generic": "irbesartan",
     "cat": "Hjärta/kärl",
@@ -421,7 +357,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 12,
     "name": "Losartan",
     "generic": "losartan",
     "cat": "Hjärta/kärl",
@@ -454,7 +390,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Olmesartan",
     "generic": "olmesartan",
     "cat": "Hjärta/kärl",
@@ -486,7 +422,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "Telmisartan",
     "generic": "telmisartan",
     "cat": "Hjärta/kärl",
@@ -518,7 +454,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 15,
     "name": "Valsartan",
     "generic": "valsartan",
     "cat": "Hjärta/kärl",
@@ -551,7 +487,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 16,
     "name": "Bisoprolol",
     "generic": "bisoprolol",
     "cat": "Hjärta/kärl",
@@ -584,7 +520,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 17,
     "name": "Karvedilol",
     "generic": "karvedilol",
     "cat": "Hjärta/kärl",
@@ -616,7 +552,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 18,
     "name": "Labetalol",
     "generic": "labetalol",
     "cat": "Hjärta/kärl",
@@ -648,7 +584,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 19,
     "name": "Metoprolol",
     "generic": "metoprolol",
     "cat": "Hjärta/kärl",
@@ -682,7 +618,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 20,
     "name": "Propranolol",
     "generic": "propranolol",
     "cat": "Hjärta/kärl",
@@ -714,7 +650,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 21,
     "name": "Amlodipin",
     "generic": "amlodipin",
     "cat": "Hjärta/kärl",
@@ -747,7 +683,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 22,
     "name": "Diltiazem",
     "generic": "diltiazem",
     "cat": "Hjärta/kärl",
@@ -780,7 +716,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 23,
     "name": "Felodipin",
     "generic": "felodipin",
     "cat": "Hjärta/kärl",
@@ -813,39 +749,7 @@
     ]
   },
   {
-    "id": 26,
-    "name": "Lacidipin",
-    "generic": "lacidipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Lacipil"
-    ]
-  },
-  {
-    "id": 27,
+    "id": 24,
     "name": "Lerkanidipin",
     "generic": "lerkanidipin",
     "cat": "Hjärta/kärl",
@@ -877,7 +781,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 25,
     "name": "Nifedipin",
     "generic": "nifedipin",
     "cat": "Hjärta/kärl",
@@ -909,7 +813,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 26,
     "name": "Nimodipin",
     "generic": "nimodipin",
     "cat": "Hjärta/kärl",
@@ -941,7 +845,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 27,
     "name": "Verapamil (per os)",
     "generic": "verapamil",
     "cat": "Hjärta/kärl",
@@ -974,7 +878,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 28,
     "name": "Verapamil (IV)",
     "generic": "verapamil",
     "cat": "Hjärta/kärl",
@@ -1006,7 +910,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 29,
     "name": "Fluvastatin",
     "generic": "fluvastatin",
     "cat": "Hjärta/kärl",
@@ -1038,7 +942,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 30,
     "name": "Pravastatin",
     "generic": "pravastatin",
     "cat": "Hjärta/kärl",
@@ -1071,7 +975,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 31,
     "name": "Rosuvastatin",
     "generic": "rosuvastatin",
     "cat": "Hjärta/kärl",
@@ -1104,7 +1008,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 32,
     "name": "Simvastatin",
     "generic": "simvastatin",
     "cat": "Hjärta/kärl",
@@ -1137,7 +1041,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 33,
     "name": "Lomitapid",
     "generic": "lomitapid",
     "cat": "Hjärta/kärl",
@@ -1169,7 +1073,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 34,
     "name": "Bezafibrat",
     "generic": "bezafibrat",
     "cat": "Hjärta/kärl",
@@ -1201,7 +1105,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 35,
     "name": "Gemfibrozil",
     "generic": "gemfibrozil",
     "cat": "Hjärta/kärl",
@@ -1233,7 +1137,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 36,
     "name": "Ezetimib",
     "generic": "ezetimib",
     "cat": "Hjärta/kärl",
@@ -1265,7 +1169,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 37,
     "name": "Acetylsalicylsyra",
     "generic": "acetylsalicylsyra",
     "cat": "Koagulation",
@@ -1298,39 +1202,7 @@
     ]
   },
   {
-    "id": 41,
-    "name": "Karbasalatkalsium",
-    "generic": "karbasalatkalsium",
-    "cat": "Koagulation",
-    "sub": "Trombocythämmare",
-    "A": {
-      "lbl": "Lågdos",
-      "c": "yellow",
-      "txt": "Använd inte mer än lågdos för trombocythämning. Karbasalatkalsium är en prodrug till acetylsalicylsyra."
-    },
-    "B": {
-      "lbl": "Lågdos",
-      "c": "yellow",
-      "txt": "Använd inte mer än lågdos för trombocythämning."
-    },
-    "C": {
-      "lbl": "Lågdos",
-      "c": "yellow",
-      "txt": "Använd inte mer än lågdos för trombocythämning. Beakta ökad blödningsrisk."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Alka-Seltzer"
-    ]
-  },
-  {
-    "id": 42,
+    "id": 38,
     "name": "Klopidogrel",
     "generic": "klopidogrel",
     "cat": "Koagulation",
@@ -1362,7 +1234,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 39,
     "name": "Dipyridamol",
     "generic": "dipyridamol",
     "cat": "Koagulation",
@@ -1395,7 +1267,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 40,
     "name": "Prasugrel",
     "generic": "prasugrel",
     "cat": "Koagulation",
@@ -1427,7 +1299,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 41,
     "name": "Tikagrelol",
     "generic": "tikagrelol",
     "cat": "Koagulation",
@@ -1459,7 +1331,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 42,
     "name": "Heparin (ofraktionerat)",
     "generic": "heparin",
     "cat": "Koagulation",
@@ -1491,7 +1363,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 43,
     "name": "Dalteparin",
     "generic": "dalteparin",
     "cat": "Koagulation",
@@ -1523,7 +1395,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 44,
     "name": "Enoxaparin",
     "generic": "enoxaparin",
     "cat": "Koagulation",
@@ -1555,7 +1427,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 45,
     "name": "Nadroparin",
     "generic": "nadroparin",
     "cat": "Koagulation",
@@ -1588,39 +1460,7 @@
     ]
   },
   {
-    "id": 50,
-    "name": "Acenocoumarol",
-    "generic": "acenocumarol",
-    "cat": "Koagulation",
-    "sub": "Kumarin",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Sintrom"
-    ]
-  },
-  {
-    "id": 52,
+    "id": 46,
     "name": "Alfentanil",
     "generic": "alfentanil",
     "cat": "Analgetika",
@@ -1652,7 +1492,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 47,
     "name": "Buprenorfin",
     "generic": "buprenorfin",
     "cat": "Analgetika",
@@ -1686,7 +1526,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 48,
     "name": "Fentanyl",
     "generic": "fentanyl",
     "cat": "Analgetika",
@@ -1719,7 +1559,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 49,
     "name": "Hydromorfon (per os)",
     "generic": "hydromorfon",
     "cat": "Analgetika",
@@ -1751,7 +1591,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 50,
     "name": "Kodein",
     "generic": "kodein",
     "cat": "Analgetika",
@@ -1783,7 +1623,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 51,
     "name": "Morfin (per os)",
     "generic": "morfin",
     "cat": "Analgetika",
@@ -1815,7 +1655,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 52,
     "name": "Morfin (IV)",
     "generic": "morfin",
     "cat": "Analgetika",
@@ -1847,7 +1687,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 53,
     "name": "Oxikodon",
     "generic": "oxikodon",
     "cat": "Analgetika",
@@ -1881,7 +1721,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 54,
     "name": "Petidin",
     "generic": "petidin",
     "cat": "Analgetika",
@@ -1913,39 +1753,7 @@
     ]
   },
   {
-    "id": 61,
-    "name": "Piritramid",
-    "generic": "piritramid",
-    "cat": "Analgetika",
-    "sub": "Opioid",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Använd max 10 mg per tillfälle."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Använd max 10 mg per tillfälle."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Använd max 10 mg per tillfälle. Beakta ökad risk för encefalopati."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Dipidolor"
-    ]
-  },
-  {
-    "id": 62,
+    "id": 55,
     "name": "Tapentadol",
     "generic": "tapentadol",
     "cat": "Analgetika",
@@ -1977,7 +1785,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 56,
     "name": "Tramadol",
     "generic": "tramadol",
     "cat": "Analgetika",
@@ -2010,7 +1818,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 57,
     "name": "Esomeprazol",
     "generic": "esomeprazol",
     "cat": "Magtarm",
@@ -2043,7 +1851,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 58,
     "name": "Omeprazol",
     "generic": "omeprazol",
     "cat": "Magtarm",
@@ -2076,7 +1884,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 59,
     "name": "Rabeprazol",
     "generic": "rabeprazol",
     "cat": "Magtarm",
@@ -2108,7 +1916,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 60,
     "name": "Domperidon",
     "generic": "domperidon",
     "cat": "Magtarm",
@@ -2140,7 +1948,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 61,
     "name": "Metoklopramid",
     "generic": "metoklopramid",
     "cat": "Magtarm",
@@ -2173,7 +1981,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 62,
     "name": "Alogliptin",
     "generic": "alogliptin",
     "cat": "Diabetes",
@@ -2205,7 +2013,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 63,
     "name": "Sitagliptin",
     "generic": "sitagliptin",
     "cat": "Diabetes",
@@ -2237,7 +2045,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 64,
     "name": "Canagliflozin",
     "generic": "kanagliflozin",
     "cat": "Diabetes",
@@ -2269,7 +2077,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 65,
     "name": "Dapagliflozin",
     "generic": "dapagliflozin",
     "cat": "Diabetes",
@@ -2301,7 +2109,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 66,
     "name": "Glibenklamid",
     "generic": "glibenklamid",
     "cat": "Diabetes",
@@ -2333,7 +2141,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 67,
     "name": "Gliclazid",
     "generic": "gliclazid",
     "cat": "Diabetes",
@@ -2365,7 +2173,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 68,
     "name": "Glimepirid",
     "generic": "glimepirid",
     "cat": "Diabetes",
@@ -2397,7 +2205,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 69,
     "name": "Repaglinid",
     "generic": "repaglinid",
     "cat": "Diabetes",
@@ -2429,7 +2237,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 70,
     "name": "Pioglitazon",
     "generic": "pioglitazon",
     "cat": "Diabetes",
@@ -2461,7 +2269,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 71,
     "name": "Klindamycin",
     "generic": "klindamycin",
     "cat": "Antibiotika",
@@ -2493,7 +2301,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 72,
     "name": "Tigecyklin",
     "generic": "tigecyklin",
     "cat": "Antibiotika",
@@ -2525,39 +2333,7 @@
     ]
   },
   {
-    "id": 82,
-    "name": "Dasabuvir",
-    "generic": "dasabuvir",
-    "cat": "Antivirala",
-    "sub": "Hepatit C (NS5B)",
-    "A": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet – del av kombinationsregim."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Otillräckliga säkerhetsdata och risk för levertoxicitet."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Exviera"
-    ]
-  },
-  {
-    "id": 83,
+    "id": 73,
     "name": "Elbasvir/grazoprevir",
     "generic": "elbasvir/grazoprevir",
     "cat": "Antivirala",
@@ -2589,7 +2365,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 74,
     "name": "Interferon alfa-2a",
     "generic": "interferon alfa-2a",
     "cat": "Antivirala",
@@ -2621,7 +2397,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 75,
     "name": "Interferon alfa-2b",
     "generic": "interferon alfa-2b",
     "cat": "Antivirala",
@@ -2653,7 +2429,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 76,
     "name": "Peginterferon alfa-2a",
     "generic": "peginterferon alfa-2a",
     "cat": "Antivirala",
@@ -2685,7 +2461,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 77,
     "name": "Peginterferon alfa-2b",
     "generic": "peginterferon alfa-2b",
     "cat": "Antivirala",
@@ -2717,39 +2493,7 @@
     ]
   },
   {
-    "id": 88,
-    "name": "Ombitasvir/paritaprevir/ritonavir",
-    "generic": "ombitasvir/paritaprevir/ritonavir",
-    "cat": "Antivirala",
-    "sub": "Hepatit C (kombinationsregim)",
-    "A": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet och tät monitorering."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Risk för levertoxicitet och dekompensation."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Viekirax"
-    ]
-  },
-  {
-    "id": 89,
+    "id": 78,
     "name": "Ribavirin",
     "generic": "ribavirin",
     "cat": "Antivirala",
@@ -2782,39 +2526,7 @@
     ]
   },
   {
-    "id": 90,
-    "name": "Simeprevir",
-    "generic": "simeprevir",
-    "cat": "Antivirala",
-    "sub": "Hepatit C (NS3-4A proteashämmare)",
-    "A": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Markant ökad plasmaexponering."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Olysio"
-    ]
-  },
-  {
-    "id": 91,
+    "id": 79,
     "name": "Mykofenolat mofetil",
     "generic": "mykofenolat mofetil",
     "cat": "Övrigt",
@@ -2847,7 +2559,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 80,
     "name": "Spironolakton",
     "generic": "spironolakton",
     "cat": "Hepatologi",
@@ -2884,7 +2596,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 81,
     "name": "Furosemid",
     "generic": "furosemid",
     "cat": "Hepatologi",
@@ -2921,7 +2633,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 82,
     "name": "Rifaximin",
     "generic": "rifaximin",
     "cat": "Hepatologi",
@@ -2957,7 +2669,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 83,
     "name": "Laktulos",
     "generic": "laktulos",
     "cat": "Hepatologi",
@@ -2990,7 +2702,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 84,
     "name": "Terlipressin",
     "generic": "terlipressin",
     "cat": "Hepatologi",
@@ -3026,7 +2738,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 85,
     "name": "Albumin (human)",
     "generic": "humant albumin",
     "cat": "Hepatologi",
@@ -3063,7 +2775,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 86,
     "name": "Ursodeoxicholsyra",
     "generic": "ursodeoxicholsyra",
     "cat": "Hepatologi",
@@ -3096,7 +2808,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 87,
     "name": "Prednisolon",
     "generic": "prednisolon",
     "cat": "Hepatologi",
@@ -3132,7 +2844,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 88,
     "name": "Oxazepam",
     "generic": "oxazepam",
     "cat": "Psykofarmaka",
@@ -3169,7 +2881,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 89,
     "name": "Lorazepam",
     "generic": "lorazepam",
     "cat": "Psykofarmaka",
@@ -3206,7 +2918,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 90,
     "name": "Diazepam",
     "generic": "diazepam",
     "cat": "Psykofarmaka",
@@ -3243,7 +2955,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 91,
     "name": "Midazolam",
     "generic": "midazolam",
     "cat": "Psykofarmaka",
@@ -3279,7 +2991,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 92,
     "name": "Sertralin",
     "generic": "sertralin",
     "cat": "Psykofarmaka",
@@ -3316,7 +3028,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 93,
     "name": "Citalopram",
     "generic": "citalopram",
     "cat": "Psykofarmaka",
@@ -3353,7 +3065,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 94,
     "name": "Escitalopram",
     "generic": "escitalopram",
     "cat": "Psykofarmaka",
@@ -3390,7 +3102,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 95,
     "name": "Mirtazapin",
     "generic": "mirtazapin",
     "cat": "Psykofarmaka",
@@ -3427,7 +3139,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 96,
     "name": "Amitriptylin",
     "generic": "amitriptylin",
     "cat": "Psykofarmaka",
@@ -3464,7 +3176,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 97,
     "name": "Haloperidol",
     "generic": "haloperidol",
     "cat": "Psykofarmaka",
@@ -3500,7 +3212,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 98,
     "name": "Risperidon",
     "generic": "risperidon",
     "cat": "Psykofarmaka",
@@ -3537,7 +3249,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 99,
     "name": "Olanzapin",
     "generic": "olanzapin",
     "cat": "Psykofarmaka",
@@ -3574,7 +3286,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 100,
     "name": "Quetiapin",
     "generic": "quetiapin",
     "cat": "Psykofarmaka",
@@ -3611,7 +3323,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 101,
     "name": "Paracetamol",
     "generic": "paracetamol",
     "cat": "Analgetika",
@@ -3645,7 +3357,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 102,
     "name": "NSAIDs (klass)",
     "generic": "NSAID",
     "cat": "Analgetika",
@@ -3680,7 +3392,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 103,
     "name": "COX-2-hämmare (klass)",
     "generic": "COX-2-hämmare",
     "cat": "Analgetika",
@@ -3713,7 +3425,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 104,
     "name": "Remifentanil",
     "generic": "remifentanil",
     "cat": "Analgetika",
@@ -3745,7 +3457,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 105,
     "name": "Sufentanil",
     "generic": "sufentanil",
     "cat": "Analgetika",
@@ -3777,7 +3489,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 106,
     "name": "Metadon",
     "generic": "metadon",
     "cat": "Analgetika",
@@ -3809,7 +3521,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 107,
     "name": "Hydromorfon (IV)",
     "generic": "hydromorfon",
     "cat": "Analgetika",
@@ -3841,7 +3553,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 108,
     "name": "Ciprofloxacin",
     "generic": "ciprofloxacin",
     "cat": "Antibiotika",
@@ -3873,7 +3585,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 109,
     "name": "Norfloxacin",
     "generic": "norfloxacin",
     "cat": "Antibiotika",
@@ -3905,7 +3617,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 110,
     "name": "Ofloxacin",
     "generic": "ofloxacin",
     "cat": "Antibiotika",
@@ -3937,7 +3649,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 111,
     "name": "Moxifloxacin",
     "generic": "moxifloxacin",
     "cat": "Antibiotika",
@@ -3969,7 +3681,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 112,
     "name": "Levofloxacin",
     "generic": "levofloxacin",
     "cat": "Antibiotika",
@@ -4001,7 +3713,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 113,
     "name": "Amoxicillin",
     "generic": "amoxicillin",
     "cat": "Antibiotika",
@@ -4033,7 +3745,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 114,
     "name": "Amoxicillin/klavulansyra",
     "generic": "amoxicillin/klavulansyra",
     "cat": "Antibiotika",
@@ -4066,7 +3778,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 115,
     "name": "Piperacillin/tazobaktam",
     "generic": "piperacillin/tazobaktam",
     "cat": "Antibiotika",
@@ -4098,7 +3810,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 116,
     "name": "Flukloxacillin",
     "generic": "flukloxacillin",
     "cat": "Antibiotika",
@@ -4130,7 +3842,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 117,
     "name": "Doxycyklin",
     "generic": "doxycyklin",
     "cat": "Antibiotika",
@@ -4163,7 +3875,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 118,
     "name": "Minocyklin",
     "generic": "minocyklin",
     "cat": "Antibiotika",
@@ -4195,7 +3907,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 119,
     "name": "Sulfametoxazol/trimetoprim",
     "generic": "sulfametoxazol/trimetoprim",
     "cat": "Antibiotika",
@@ -4228,7 +3940,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 120,
     "name": "Azitromycin",
     "generic": "azitromycin",
     "cat": "Antibiotika",
@@ -4261,7 +3973,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 121,
     "name": "Klaritromycin",
     "generic": "klaritromycin",
     "cat": "Antibiotika",
@@ -4293,7 +4005,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 122,
     "name": "Erytromycin",
     "generic": "erytromycin",
     "cat": "Antibiotika",
@@ -4325,7 +4037,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 123,
     "name": "Nitrofurantoin",
     "generic": "nitrofurantoin",
     "cat": "Antibiotika",
@@ -4358,7 +4070,7 @@
     ]
   },
   {
-    "id": 137,
+    "id": 124,
     "name": "Metformin",
     "generic": "metformin",
     "cat": "Diabetes",
@@ -4391,7 +4103,7 @@
     ]
   },
   {
-    "id": 138,
+    "id": 125,
     "name": "Insulin",
     "generic": "insulin",
     "cat": "Diabetes",
@@ -4426,7 +4138,7 @@
     ]
   },
   {
-    "id": 139,
+    "id": 126,
     "name": "Acarbose",
     "generic": "akarbos",
     "cat": "Diabetes",
@@ -4458,7 +4170,7 @@
     ]
   },
   {
-    "id": 140,
+    "id": 127,
     "name": "Empagliflozin",
     "generic": "empagliflozin",
     "cat": "Diabetes",
@@ -4490,7 +4202,7 @@
     ]
   },
   {
-    "id": 141,
+    "id": 128,
     "name": "Linagliptin",
     "generic": "linagliptin",
     "cat": "Diabetes",
@@ -4522,7 +4234,7 @@
     ]
   },
   {
-    "id": 142,
+    "id": 129,
     "name": "Saxagliptin",
     "generic": "saxagliptin",
     "cat": "Diabetes",
@@ -4554,7 +4266,7 @@
     ]
   },
   {
-    "id": 143,
+    "id": 130,
     "name": "Vildagliptin",
     "generic": "vildagliptin",
     "cat": "Diabetes",
@@ -4586,7 +4298,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 131,
     "name": "Entecavir",
     "generic": "entecavir",
     "cat": "Antivirala",
@@ -4618,7 +4330,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 132,
     "name": "Tenofovir",
     "generic": "tenofovir disoproxil",
     "cat": "Antivirala",
@@ -4650,7 +4362,7 @@
     ]
   },
   {
-    "id": 146,
+    "id": 133,
     "name": "Lamivudin",
     "generic": "lamivudin",
     "cat": "Antivirala",
@@ -4683,71 +4395,7 @@
     ]
   },
   {
-    "id": 147,
-    "name": "Adefovir",
-    "generic": "adefovir dipivoxil",
-    "cat": "Antivirala",
-    "sub": "Hepatit B (nukleotidanalog)",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Observera: nefrotoxicitet är känd biverkan – monitorera njurfunktion. Tenofovir eller entecavir föredras."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion noggrant."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Tenofovir eller entecavir föredras pga bättre säkerhetsprofil."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Hepsera"
-    ]
-  },
-  {
-    "id": 148,
-    "name": "Telbivudin",
-    "generic": "telbivudin",
-    "cat": "Antivirala",
-    "sub": "Hepatit B (nukleosidanalog)",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion och CK-värden (myopati känd biverkan). Entecavir eller tenofovir föredras."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion och CK."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Entecavir eller tenofovir föredras."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Sebivo"
-    ]
-  },
-  {
-    "id": 149,
+    "id": 134,
     "name": "Sofosbuvir",
     "generic": "sofosbuvir",
     "cat": "Antivirala",
@@ -4779,7 +4427,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 135,
     "name": "Ledipasvir",
     "generic": "ledipasvir",
     "cat": "Antivirala",
@@ -4811,39 +4459,7 @@
     ]
   },
   {
-    "id": 151,
-    "name": "Daklatasvir",
-    "generic": "daklatasvir",
-    "cat": "Antivirala",
-    "sub": "Hepatit C (NS5A)",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera behandlingssvar och biverkningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Daklinza"
-    ]
-  },
-  {
-    "id": 152,
+    "id": 136,
     "name": "Velpatasvir",
     "generic": "velpatasvir",
     "cat": "Antivirala",
@@ -4875,7 +4491,7 @@
     ]
   },
   {
-    "id": 153,
+    "id": 137,
     "name": "Atenolol",
     "generic": "atenolol",
     "cat": "Hjärta/kärl",
@@ -4907,7 +4523,7 @@
     ]
   },
   {
-    "id": 154,
+    "id": 138,
     "name": "Sotalol",
     "generic": "sotalol",
     "cat": "Hjärta/kärl",
@@ -4939,7 +4555,7 @@
     ]
   },
   {
-    "id": 155,
+    "id": 139,
     "name": "Nebivolol",
     "generic": "nebivolol",
     "cat": "Hjärta/kärl",
@@ -4971,71 +4587,7 @@
     ]
   },
   {
-    "id": 156,
-    "name": "Barnidipin",
-    "generic": "barnidipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt förhöjd plasmaexponering vid levercirros pga extensiv hepatisk metabolism och hög first-pass-effekt."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Hyponidil"
-    ]
-  },
-  {
-    "id": 157,
-    "name": "Isradipin",
-    "generic": "isradipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt förhöjd plasmaexponering pga extensiv hepatisk metabolism. Välj amlodipin eller nifedipin med dosreduktion."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Lomir"
-    ]
-  },
-  {
-    "id": 158,
+    "id": 140,
     "name": "Atorvastatin",
     "generic": "atorvastatin",
     "cat": "Hjärta/kärl",
@@ -5068,7 +4620,7 @@
     ]
   },
   {
-    "id": 159,
+    "id": 141,
     "name": "Hydroklortiazid",
     "generic": "hydroklortiazid",
     "cat": "Hjärta/kärl",
@@ -5101,7 +4653,7 @@
     ]
   },
   {
-    "id": 160,
+    "id": 142,
     "name": "Amilorid",
     "generic": "amilorid",
     "cat": "Hjärta/kärl",
@@ -5133,7 +4685,7 @@
     ]
   },
   {
-    "id": 161,
+    "id": 143,
     "name": "Bumetanid",
     "generic": "bumetanid",
     "cat": "Hjärta/kärl",
@@ -5165,7 +4717,7 @@
     ]
   },
   {
-    "id": 162,
+    "id": 144,
     "name": "Eplerenon",
     "generic": "eplerenon",
     "cat": "Hjärta/kärl",
@@ -5197,7 +4749,7 @@
     ]
   },
   {
-    "id": 163,
+    "id": 145,
     "name": "Famotidin",
     "generic": "famotidin",
     "cat": "Magtarm",
@@ -5229,7 +4781,7 @@
     ]
   },
   {
-    "id": 165,
+    "id": 146,
     "name": "Pantoprazol",
     "generic": "pantoprazol",
     "cat": "Magtarm",
@@ -5262,7 +4814,7 @@
     ]
   },
   {
-    "id": 166,
+    "id": 147,
     "name": "Lansoprazol",
     "generic": "lansoprazol",
     "cat": "Magtarm",
@@ -5295,7 +4847,7 @@
     ]
   },
   {
-    "id": 167,
+    "id": 148,
     "name": "Laktitol",
     "generic": "laktitol",
     "cat": "Magtarm",
@@ -5327,7 +4879,7 @@
     ]
   },
   {
-    "id": 168,
+    "id": 149,
     "name": "Bisacodyl",
     "generic": "bisacodyl",
     "cat": "Magtarm",
@@ -5359,7 +4911,7 @@
     ]
   },
   {
-    "id": 169,
+    "id": 150,
     "name": "Makrogol",
     "generic": "makrogol",
     "cat": "Magtarm",
@@ -5392,7 +4944,7 @@
     ]
   },
   {
-    "id": 170,
+    "id": 151,
     "name": "Kolestyramin",
     "generic": "kolestyramin",
     "cat": "Hjärta/kärl",
@@ -5424,7 +4976,7 @@
     ]
   },
   {
-    "id": 171,
+    "id": 152,
     "name": "Kolesevelam",
     "generic": "kolesevelam",
     "cat": "Hjärta/kärl",
@@ -5456,7 +5008,7 @@
     ]
   },
   {
-    "id": 172,
+    "id": 153,
     "name": "Azatioprin",
     "generic": "azatioprin",
     "cat": "Hepatologi",
@@ -5492,7 +5044,7 @@
     ]
   },
   {
-    "id": 173,
+    "id": 154,
     "name": "Budesonid",
     "generic": "budesonid",
     "cat": "Hepatologi",
@@ -5529,7 +5081,7 @@
     ]
   },
   {
-    "id": 174,
+    "id": 155,
     "name": "Warfarin",
     "generic": "warfarin",
     "cat": "Koagulation",
@@ -5566,7 +5118,7 @@
     ]
   },
   {
-    "id": 175,
+    "id": 156,
     "name": "Rivaroxaban",
     "generic": "rivaroxaban",
     "cat": "Koagulation",
@@ -5602,7 +5154,7 @@
     ]
   },
   {
-    "id": 176,
+    "id": 157,
     "name": "Apixaban",
     "generic": "apixaban",
     "cat": "Koagulation",
@@ -5638,7 +5190,7 @@
     ]
   },
   {
-    "id": 177,
+    "id": 158,
     "name": "Dabigatran",
     "generic": "dabigatran etexilat",
     "cat": "Koagulation",
@@ -5674,7 +5226,7 @@
     ]
   },
   {
-    "id": 178,
+    "id": 159,
     "name": "Zopiklon",
     "generic": "zopiklon",
     "cat": "Psykofarmaka",
@@ -5707,7 +5259,7 @@
     ]
   },
   {
-    "id": 179,
+    "id": 160,
     "name": "Zolpidem",
     "generic": "zolpidem",
     "cat": "Psykofarmaka",
@@ -5740,7 +5292,7 @@
     ]
   },
   {
-    "id": 180,
+    "id": 161,
     "name": "Alprazolam",
     "generic": "alprazolam",
     "cat": "Psykofarmaka",
@@ -5772,7 +5324,7 @@
     ]
   },
   {
-    "id": 181,
+    "id": 162,
     "name": "Klometiazol",
     "generic": "klometiazol",
     "cat": "Psykofarmaka",
@@ -5804,7 +5356,7 @@
     ]
   },
   {
-    "id": 182,
+    "id": 163,
     "name": "Isosorbidmononitrat",
     "generic": "isosorbidmononitrat",
     "cat": "Hjärta/kärl",
@@ -5837,40 +5389,7 @@
     ]
   },
   {
-    "id": 183,
-    "name": "Atorvastatin",
-    "generic": "atorvastatin",
-    "cat": "Hjärta/kärl",
-    "sub": "Statin",
-    "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Ej säker, bör undvikas. Kraftigt ökad plasmaexponering vid levercirros. Risk för dosberoende biverkningar (myopati, leverpåverkan)."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Ej säker, ska undvikas. Kraftigt ökad exponering – kontraindicerat vid aktiv leversjukdom."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": [
-      "Lipitor",
-      "Atorvastatin Actavis"
-    ]
-  },
-  {
-    "id": 184,
+    "id": 164,
     "name": "Desloratadin",
     "generic": "desloratadin",
     "cat": "Övrigt",
@@ -5902,7 +5421,7 @@
     ]
   },
   {
-    "id": 185,
+    "id": 165,
     "name": "Loratadin",
     "generic": "loratadin",
     "cat": "Övrigt",
@@ -5934,7 +5453,7 @@
     ]
   },
   {
-    "id": 186,
+    "id": 166,
     "name": "Hydroxizin",
     "generic": "hydroxizin",
     "cat": "Övrigt",
@@ -5966,7 +5485,7 @@
     ]
   },
   {
-    "id": 187,
+    "id": 167,
     "name": "Edoxaban",
     "generic": "edoxaban",
     "cat": "Koagulation",
@@ -6002,7 +5521,7 @@
     ]
   },
   {
-    "id": 188,
+    "id": 168,
     "name": "Lamotrigin",
     "generic": "lamotrigin",
     "cat": "Övrigt",
@@ -6035,7 +5554,7 @@
     ]
   },
   {
-    "id": 189,
+    "id": 169,
     "name": "Venlafaxin",
     "generic": "venlafaxin",
     "cat": "Psykofarmaka",
@@ -6072,7 +5591,7 @@
     ]
   },
   {
-    "id": 190,
+    "id": 170,
     "name": "Paroxetin",
     "generic": "paroxetin",
     "cat": "Psykofarmaka",
@@ -6109,7 +5628,7 @@
     ]
   },
   {
-    "id": 191,
+    "id": 171,
     "name": "Fluoxetin",
     "generic": "fluoxetin",
     "cat": "Psykofarmaka",
@@ -6146,7 +5665,7 @@
     ]
   },
   {
-    "id": 192,
+    "id": 172,
     "name": "Semaglutid",
     "generic": "semaglutid",
     "cat": "Diabetes",
@@ -6187,7 +5706,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 173,
     "name": "Liraglutid",
     "generic": "liraglutid",
     "cat": "Diabetes",
@@ -6224,7 +5743,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 174,
     "name": "Akamprosat",
     "generic": "akamprosat",
     "cat": "Övrigt",
@@ -6260,7 +5779,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 175,
     "name": "Disulfiram",
     "generic": "disulfiram",
     "cat": "Övrigt",
@@ -6296,7 +5815,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 176,
     "name": "Naltrexon",
     "generic": "naltrexon",
     "cat": "Övrigt",
@@ -6341,7 +5860,7 @@
     ]
   },
   {
-    "id": 197,
+    "id": 177,
     "name": "Metronidazol",
     "generic": "metronidazol",
     "cat": "Antibiotika",
@@ -6377,7 +5896,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 178,
     "name": "Cefotaxim",
     "generic": "cefotaxim",
     "cat": "Antibiotika",
@@ -6409,7 +5928,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 179,
     "name": "Meropenem",
     "generic": "meropenem",
     "cat": "Antibiotika",
@@ -6445,7 +5964,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 180,
     "name": "Pivmecillinam",
     "generic": "pivmecillinam",
     "cat": "Antibiotika",
@@ -6477,7 +5996,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 181,
     "name": "Fenoximetylpenicillin",
     "generic": "fenoximetylpenicillin",
     "cat": "Antibiotika",
@@ -6509,7 +6028,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 182,
     "name": "Kloxacillin",
     "generic": "kloxacillin",
     "cat": "Antibiotika",
@@ -6541,7 +6060,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 183,
     "name": "Pankreatin",
     "generic": "pankreatin",
     "cat": "Magtarm",
@@ -6573,7 +6092,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 184,
     "name": "Sumatriptan",
     "generic": "sumatriptan",
     "cat": "Övrigt",
@@ -6605,7 +6124,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 185,
     "name": "Alfuzosin",
     "generic": "alfuzosin",
     "cat": "Övrigt",
@@ -6641,7 +6160,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 186,
     "name": "Finasterid",
     "generic": "finasterid",
     "cat": "Övrigt",
@@ -6674,7 +6193,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 187,
     "name": "Levotyroxin",
     "generic": "levotyroxin",
     "cat": "Övrigt",
@@ -6711,7 +6230,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 188,
     "name": "Takrolimus",
     "generic": "takrolimus",
     "cat": "Hepatologi",
@@ -6749,7 +6268,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 189,
     "name": "Folsyra",
     "generic": "folsyra",
     "cat": "Övrigt",
@@ -6781,7 +6300,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 190,
     "name": "Cyanokobalamin",
     "generic": "cyanokobalamin",
     "cat": "Övrigt",
@@ -6814,7 +6333,7 @@
     ]
   },
   {
-    "id": 211,
+    "id": 191,
     "name": "Järnkarboxymaltos",
     "generic": "järnkarboxymaltos",
     "cat": "Övrigt",
@@ -6846,7 +6365,7 @@
     ]
   },
   {
-    "id": 212,
+    "id": 192,
     "name": "Järnsulfat",
     "generic": "järnsulfat",
     "cat": "Övrigt",
@@ -6879,7 +6398,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 193,
     "name": "Kaliumklorid",
     "generic": "kaliumklorid",
     "cat": "Övrigt",
@@ -6912,7 +6431,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 194,
     "name": "Kalciumkarbonat",
     "generic": "kalciumkarbonat",
     "cat": "Övrigt",
@@ -6945,7 +6464,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 195,
     "name": "Bromhexin",
     "generic": "bromhexin",
     "cat": "Övrigt",
