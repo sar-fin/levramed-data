@@ -1620,36 +1620,6 @@
     ]
   },
   {
-    "id": 51,
-    "name": "Fenprokumon",
-    "generic": "fenprokumon",
-    "cat": "Koagulation",
-    "sub": "Kumarin",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": []
-  },
-  {
     "id": 52,
     "name": "Alfentanil",
     "generic": "alfentanil",
@@ -2427,36 +2397,6 @@
     ]
   },
   {
-    "id": 76,
-    "name": "Tolbutamid",
-    "generic": "tolbutamid",
-    "cat": "Diabetes",
-    "sub": "Sulfonureid",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": []
-  },
-  {
     "id": 77,
     "name": "Repaglinid",
     "generic": "repaglinid",
@@ -2551,36 +2491,6 @@
     "brands": [
       "Dalacin"
     ]
-  },
-  {
-    "id": 80,
-    "name": "Roxitromycin",
-    "generic": "roxitromycin",
-    "cat": "Antibiotika",
-    "sub": "Makrolid",
-    "A": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
-    },
-    "B": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Använd 150 mg per dag."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": []
   },
   {
     "id": 81,
@@ -3929,36 +3839,6 @@
     "brands": [
       "Palladon"
     ]
-  },
-  {
-    "id": 120,
-    "name": "Nalbupin",
-    "generic": "nalbupin",
-    "cat": "Analgetika",
-    "sub": "Opioid",
-    "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta med reducerad dos och monitorera noggrant."
-    },
-    "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta med reducerad dos. Risk för encefalopati."
-    },
-    "C": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Undvik om möjligt."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": []
   },
   {
     "id": 121,
@@ -5347,36 +5227,6 @@
     "brands": [
       "Pepcid"
     ]
-  },
-  {
-    "id": 164,
-    "name": "Ranitidin",
-    "generic": "ranitidin",
-    "cat": "Magtarm",
-    "sub": "H2-receptorblockerare",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning. OBS: Ranitidin är sedan 2020 draget från marknaden i EU pga NDMA-föroreningar."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. OBS: Se produktstatus i aktuell region."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Famotidin föredras som H2-blockerare."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "brands": []
   },
   {
     "id": 165,
