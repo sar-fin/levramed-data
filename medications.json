@@ -6339,5 +6339,642 @@
       "Naltrexon Actavis",
       "Antaxone"
     ]
+  },
+  {
+    "id": 197,
+    "name": "Metronidazol",
+    "generic": "metronidazol",
+    "cat": "Antibiotika",
+    "sub": "Nitroimidazoler",
+    "brands": [
+      "Flagyl"
+    ],
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Normal dos kan ges. Halveringstiden är förlängd – övervaka för CNS-biverkningar (yrsel, förvirring). Undvik långvarig behandling."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Reducera dosen med 50% eller förläng dosintervall till var 12:e timme. Risk för ackumulering och metronidazol-inducerad encefalopati."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt reducerat clearance, hög risk för CNS-toxicitet och encefalopati vid dekompenserad cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
+      },
+      {
+        "t": "FASS / EMA produktinformation – Metronidazol",
+        "u": "https://www.fass.se/LIF/product?userType=0&nplId=19720303000013"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Cefotaxim",
+    "generic": "cefotaxim",
+    "cat": "Antibiotika",
+    "sub": "Cefalosporiner",
+    "brands": [
+      "Claforan"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs. Förstahandsval vid spontan bakteriell peritonit (SBP). Högt terapeutiskt index trots förlängd halveringstid."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs. Kan ges i normaldos. Förstahandsval vid SBP."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs. Kan ges i normaldos trots farmakokinetiska förändringar tack vare högt terapeutiskt index."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Meropenem",
+    "generic": "meropenem",
+    "cat": "Antibiotika",
+    "sub": "Karbapenemer",
+    "brands": [
+      "Meronem"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs. Farmakokinetiken vid levercirros är inte signifikant avvikande från friska individer."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs. PK-studier visar ingen signifikant skillnad i clearance vid stabil levercirros."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Ingen dosanpassning krävs baserat på tillgängliga PK-data. Övervaka njurfunktion då njurpåverkan är vanlig vid klass C."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
+      },
+      {
+        "t": "Drusano et al. 1997, Clin Infect Dis – Meropenem pharmacokinetics in liver disease",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/9126692/"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Pivmecillinam",
+    "generic": "pivmecillinam",
+    "cat": "Antibiotika",
+    "sub": "Penicilliner",
+    "brands": [
+      "Selexid"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar. Övervaka njurfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Selexid (pivmecillinam)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Fenoximetylpenicillin",
+    "generic": "fenoximetylpenicillin",
+    "cat": "Antibiotika",
+    "sub": "Penicilliner",
+    "brands": [
+      "Kåvepenin"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar. Övervaka njurfunktion."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Kåvepenin (fenoximetylpenicillin)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Kloxacillin",
+    "generic": "kloxacillin",
+    "cat": "Antibiotika",
+    "sub": "Penicilliner",
+    "brands": [
+      "Ekvacillin"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Brett terapeutiskt index."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsad specifik data vid levercirros. Delvis gallutsöndring. Kan ges i normaldos med klinisk övervakning."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Begränsad data. Delvis gallutsöndring kan vara reducerad. Kan ges om indicerat, men övervaka noga."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Ekvacillin (kloxacillin)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Pankreatin",
+    "generic": "pankreatin",
+    "cat": "Magtarm",
+    "sub": "Enzympreparat",
+    "brands": [
+      "Creon"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Enzymet är ej systemiskt absorberat och metaboliseras inte av levern."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Creon (pankreatin)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Sumatriptan",
+    "generic": "sumatriptan",
+    "cat": "Övrigt",
+    "sub": "Migränläkemedel",
+    "brands": [
+      "Imigran"
+    ],
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Oral: max 50 mg per dos (AUC ökar ~80% vid hepatisk påverkan). Subkutan form påverkas ej av first-pass och kan ges i normaldos med försiktighet."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Oral: max 50 mg per dos. Subkutan form kan ges med försiktighet. Undvik upprepade doser."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Oral sumatriptan är kontraindicerat vid svår leversjukdom per SmPC. Subkutan form saknar tillräcklig säkerhetsdata."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Sumatriptan",
+        "u": "https://www.medicines.org.uk/emc/medicine/28252"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Alfuzosin",
+    "generic": "alfuzosin",
+    "cat": "Övrigt",
+    "sub": "Alfablockerare",
+    "brands": [
+      "Xatral"
+    ],
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Farmakokinetikstudie saknas vid Child A. Försiktighet rekommenderas. Starta lågt, övervaka för hypotension."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat per SmPC. Plasmakoncentrationen är 3–4x förhöjd vid Child B/C på grund av reducerat CYP3A4-clearance."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat per SmPC."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Alfuzosin",
+        "u": "https://www.fass.se"
+      },
+      {
+        "t": "FDA Prescribing Information – Alfuzosin ER",
+        "u": "https://www.accessdata.fda.gov/spl/data/30d5b17c-5c6f-4668-9aef-c3a4db167532/30d5b17c-5c6f-4668-9aef-c3a4db167532.xml"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Finasterid",
+    "generic": "finasterid",
+    "cat": "Övrigt",
+    "sub": "5-alfareduktashämmare",
+    "brands": [
+      "Proscar",
+      "Propecia"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Kan ges. Extensivt hepatiskt metaboliserat men inga specifika kontraindikationer vid kompenserad cirros."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Försiktighet. Extensiv levermetabolism – ökad systemisk exponering förväntas. Ingen Child-Pugh-specifik dosrekommendation finns."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Otillräcklig data vid dekompenserad cirros. Undvik om möjligt. Om behandling krävs, starta lågt och övervaka."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Proscar/Propecia (finasterid)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Levotyroxin",
+    "generic": "levotyroxin",
+    "cat": "Övrigt",
+    "sub": "Tyreoideahormoner",
+    "brands": [
+      "Levaxin",
+      "Euthyrox"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. TSH-monitorering rekommenderas – cirros ökar TBG och kan höja levotyroxinbehovet."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. TSH-monitorering viktig. Levotyroxinbehovet kan vara ökat vid försämrad leverfunktion."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Täta TSH-kontroller rekommenderas. Ökad proteinbindning kan kräva dosökning."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Levaxin (levotyroxin)",
+        "u": "https://www.fass.se"
+      },
+      {
+        "t": "Liwanpo & Hershman 2009, J Clin Endocrinol Metab – Conditions altering levothyroxine absorption",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/29720960/"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Takrolimus",
+    "generic": "takrolimus",
+    "cat": "Hepatologi",
+    "sub": "Immunsuppressiva",
+    "brands": [
+      "Prograf",
+      "Advagraf",
+      "Modigraf"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Kan ges i normaldos. Terapeutisk läkemedelsmonitorering (TDM) av helblodsnivåer obligat."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Reducerat clearance. Lägre startdos rekommenderas. Tät TDM – risk för toxicitet vid förhöjda dalvärden."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kraftigt reducerat clearance (Child-Pugh ≥10). Dosreduktion krävs. Tät TDM obligat. Risk för nefrotoxicitet vid ackumulering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FDA Prescribing Information – Prograf (tacrolimus)",
+        "u": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/050708s052lbl.pdf"
+      },
+      {
+        "t": "StatPearls – Tacrolimus (NCBI Bookshelf)",
+        "u": "https://www.ncbi.nlm.nih.gov/books/NBK544318/"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Folsyra",
+    "generic": "folsyra",
+    "cat": "Övrigt",
+    "sub": "Vitaminer och mineraler",
+    "brands": [
+      "Folacin"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Folatbrist är vanlig vid levercirros – substitution ofta indicerat."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Folacin (folsyra)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Cyanokobalamin",
+    "generic": "cyanokobalamin",
+    "cat": "Övrigt",
+    "sub": "Vitaminer och mineraler",
+    "brands": [
+      "Betolvex",
+      "Behepan"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. B12-brist är vanlig vid alkoholrelaterad levercirros."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Betolvex (cyanokobalamin)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Järnkarboxymaltos",
+    "generic": "järnkarboxymaltos",
+    "cat": "Övrigt",
+    "sub": "Järnpreparat",
+    "brands": [
+      "Ferinject"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Metaboliseras retikuloendotelialt, ej hepatiskt. Kan ges intravenöst i normaldos."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Kontrollera att järnbrist är bekräftad – järnöverbelastning kan förekomma vid avancerad cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Ferinject (järnkarboxymaltos)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Järnsulfat",
+    "generic": "järnsulfat",
+    "cat": "Övrigt",
+    "sub": "Järnpreparat",
+    "brands": [
+      "Duroferon",
+      "Niferex"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Absorption kan vara variabel vid portalhypertension."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Oral absorption kan vara nedsatt – IV-beredning kan övervägas vid otillräckligt svar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Vid avancerad cirros, bekräfta järnbrist innan behandling."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Duroferon (järnsulfat)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Kaliumklorid",
+    "generic": "kaliumklorid",
+    "cat": "Övrigt",
+    "sub": "Elektrolyter",
+    "brands": [
+      "Kaleorid",
+      "Kay-Cee-L"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Regelbunden kontroll av S-kalium rekommenderas, särskilt vid diuretikabehandling."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Tät elektrolytmonitorering viktig – hypo- och hyperkalemi är båda möjliga beroende på samtidig behandling."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Övervaka S-kalium noggrant – hyperkalemi kan förvärra hepatisk encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Kaleorid (kaliumklorid)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Kalciumkarbonat",
+    "generic": "kalciumkarbonat",
+    "cat": "Övrigt",
+    "sub": "Vitaminer och mineraler",
+    "brands": [
+      "Kalcipos",
+      "Calcichew"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Kalcipos (kalciumkarbonat)",
+        "u": "https://www.fass.se"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Bromhexin",
+    "generic": "bromhexin",
+    "cat": "Övrigt",
+    "sub": "Mukolytika",
+    "brands": [
+      "Mollipect",
+      "Bisolvon"
+    ],
+    "A": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Trots extensiv first-pass-metabolism är systemisk exponering låg och inga cirros-specifika risker är dokumenterade."
+    },
+    "B": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar."
+    },
+    "C": {
+      "lbl": "Inga kända risker",
+      "c": "green",
+      "txt": "Inga kända dosanpassningar. Begränsad specifik data – undvik långvarig behandling vid svår leverpåverkan."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "FASS / EMA produktinformation – Mollipect (bromhexin)",
+        "u": "https://www.fass.se"
+      }
+    ]
   }
 ]
