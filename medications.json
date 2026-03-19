@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "name": "Benazepril",
+    "generic": "benazepril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Ökad risk för njurpåverkan och hypotension vid dekompenserad cirros."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C09AA07"
+  },
+  {
+    "id": 2,
     "name": "Captopril",
     "generic": "kaptopril",
     "cat": "Hjärta/kärl",
@@ -27,12 +57,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Capoten"
-    ]
+    "atc": "C09AA01"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Enalapril",
     "generic": "enalapril",
     "cat": "Hjärta/kärl",
@@ -59,13 +87,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Renitec",
-      "Enalapril HEXAL"
-    ]
+    "atc": "C09AA02"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Fosinopril",
     "generic": "fosinopril",
     "cat": "Hjärta/kärl",
@@ -92,12 +117,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Staril"
-    ]
+    "atc": "C09AA09"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Lisinopril",
     "generic": "lisinopril",
     "cat": "Hjärta/kärl",
@@ -124,13 +147,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zestril",
-      "Icombo"
-    ]
+    "atc": "C09AA03"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Perindopril",
     "generic": "perindopril",
     "cat": "Hjärta/kärl",
@@ -157,13 +177,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Coversyl",
-      "Coversum"
-    ]
+    "atc": "C09AA04"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Kvinapril",
     "generic": "kvinapril",
     "cat": "Hjärta/kärl",
@@ -190,12 +207,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Accupro"
-    ]
+    "atc": "C09AA06"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Ramipril",
     "generic": "ramipril",
     "cat": "Hjärta/kärl",
@@ -222,13 +237,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Triatec",
-      "Ramipril Actavis"
-    ]
+    "atc": "C09AA05"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Trandolapril",
     "generic": "trandolapril",
     "cat": "Hjärta/kärl",
@@ -255,12 +267,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Gopten"
-    ]
+    "atc": "C09AA10"
   },
   {
-    "id": 9,
+    "id": 10,
+    "name": "Zofenopril",
+    "generic": "zofenopril",
+    "cat": "Hjärta/kärl",
+    "sub": "ACE-hämmare",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk. Starta så lågt som möjligt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C09AA15"
+  },
+  {
+    "id": 11,
     "name": "Candesartan",
     "generic": "kandesartan",
     "cat": "Hjärta/kärl",
@@ -287,12 +327,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Atacand"
-    ]
+    "atc": "C09CA06"
   },
   {
-    "id": 10,
+    "id": 12,
+    "name": "Eprosartan",
+    "generic": "eprosartan",
+    "cat": "Hjärta/kärl",
+    "sub": "ARB",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C09CA02"
+  },
+  {
+    "id": 13,
     "name": "Irbesartan",
     "generic": "irbesartan",
     "cat": "Hjärta/kärl",
@@ -319,13 +387,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Aprovel",
-      "Karvea"
-    ]
+    "atc": "C09CA04"
   },
   {
-    "id": 11,
+    "id": 14,
     "name": "Losartan",
     "generic": "losartan",
     "cat": "Hjärta/kärl",
@@ -352,13 +417,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Cozaar",
-      "Losartan HEXAL"
-    ]
+    "atc": "C09CA01"
   },
   {
-    "id": 12,
+    "id": 15,
     "name": "Olmesartan",
     "generic": "olmesartan",
     "cat": "Hjärta/kärl",
@@ -385,12 +447,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Olmetec"
-    ]
+    "atc": "C09CA08"
   },
   {
-    "id": 13,
+    "id": 16,
     "name": "Telmisartan",
     "generic": "telmisartan",
     "cat": "Hjärta/kärl",
@@ -417,12 +477,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Micardis"
-    ]
+    "atc": "C09CA07"
   },
   {
-    "id": 14,
+    "id": 17,
     "name": "Valsartan",
     "generic": "valsartan",
     "cat": "Hjärta/kärl",
@@ -449,13 +507,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Diovan",
-      "Valsartan Actavis"
-    ]
+    "atc": "C09CA03"
   },
   {
-    "id": 15,
+    "id": 18,
     "name": "Bisoprolol",
     "generic": "bisoprolol",
     "cat": "Hjärta/kärl",
@@ -482,13 +537,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Emconcor",
-      "Bisoprolol Actavis"
-    ]
+    "atc": "C07AB07"
   },
   {
-    "id": 16,
+    "id": 19,
     "name": "Karvedilol",
     "generic": "karvedilol",
     "cat": "Hjärta/kärl",
@@ -515,12 +567,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Kredex"
-    ]
+    "atc": "C07AG02"
   },
   {
-    "id": 17,
+    "id": 20,
     "name": "Labetalol",
     "generic": "labetalol",
     "cat": "Hjärta/kärl",
@@ -547,12 +597,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Trandate"
-    ]
+    "atc": "C07AG01"
   },
   {
-    "id": 18,
+    "id": 21,
     "name": "Metoprolol",
     "generic": "metoprolol",
     "cat": "Hjärta/kärl",
@@ -579,14 +627,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Seloken",
-      "Metoprolol Actavis",
-      "Logimax"
-    ]
+    "atc": "C07AB02"
   },
   {
-    "id": 19,
+    "id": 22,
     "name": "Propranolol",
     "generic": "propranolol",
     "cat": "Hjärta/kärl",
@@ -613,12 +657,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Inderal"
-    ]
+    "atc": "C07AA05"
   },
   {
-    "id": 20,
+    "id": 23,
     "name": "Amlodipin",
     "generic": "amlodipin",
     "cat": "Hjärta/kärl",
@@ -645,13 +687,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Norvasc",
-      "Amlodipin Actavis"
-    ]
+    "atc": "C08CA01"
   },
   {
-    "id": 21,
+    "id": 24,
     "name": "Diltiazem",
     "generic": "diltiazem",
     "cat": "Hjärta/kärl",
@@ -678,13 +717,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Cardizem",
-      "Dilzem"
-    ]
+    "atc": "C08DB01"
   },
   {
-    "id": 22,
+    "id": 25,
     "name": "Felodipin",
     "generic": "felodipin",
     "cat": "Hjärta/kärl",
@@ -711,13 +747,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Plendil",
-      "Felodipin Actavis"
-    ]
+    "atc": "C08CA02"
   },
   {
-    "id": 23,
+    "id": 26,
+    "name": "Lacidipin",
+    "generic": "lacidipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C08CA09"
+  },
+  {
+    "id": 27,
     "name": "Lerkanidipin",
     "generic": "lerkanidipin",
     "cat": "Hjärta/kärl",
@@ -744,12 +807,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zanidip"
-    ]
+    "atc": "C08CA13"
   },
   {
-    "id": 24,
+    "id": 28,
     "name": "Nifedipin",
     "generic": "nifedipin",
     "cat": "Hjärta/kärl",
@@ -776,12 +837,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Adalat"
-    ]
+    "atc": "C08CA05"
   },
   {
-    "id": 25,
+    "id": 29,
     "name": "Nimodipin",
     "generic": "nimodipin",
     "cat": "Hjärta/kärl",
@@ -808,12 +867,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Nimotop"
-    ]
+    "atc": "C08CA06"
   },
   {
-    "id": 26,
+    "id": 30,
     "name": "Verapamil (per os)",
     "generic": "verapamil",
     "cat": "Hjärta/kärl",
@@ -840,13 +897,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Isoptin",
-      "Verapamil Actavis"
-    ]
+    "atc": "C08DA01"
   },
   {
-    "id": 27,
+    "id": 31,
     "name": "Verapamil (IV)",
     "generic": "verapamil",
     "cat": "Hjärta/kärl",
@@ -873,12 +927,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Isoptin"
-    ]
+    "atc": "C08DA01"
   },
   {
-    "id": 28,
+    "id": 32,
     "name": "Fluvastatin",
     "generic": "fluvastatin",
     "cat": "Hjärta/kärl",
@@ -905,12 +957,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Lescol"
-    ]
+    "atc": "C10AA04"
   },
   {
-    "id": 29,
+    "id": 33,
     "name": "Pravastatin",
     "generic": "pravastatin",
     "cat": "Hjärta/kärl",
@@ -937,13 +987,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Pravachol",
-      "Pravastatin Actavis"
-    ]
+    "atc": "C10AA03"
   },
   {
-    "id": 30,
+    "id": 34,
     "name": "Rosuvastatin",
     "generic": "rosuvastatin",
     "cat": "Hjärta/kärl",
@@ -970,13 +1017,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Crestor",
-      "Rosuvastatin Actavis"
-    ]
+    "atc": "C10AA07"
   },
   {
-    "id": 31,
+    "id": 35,
     "name": "Simvastatin",
     "generic": "simvastatin",
     "cat": "Hjärta/kärl",
@@ -1003,13 +1047,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zocord",
-      "Simvastatin Actavis"
-    ]
+    "atc": "C10AA01"
   },
   {
-    "id": 32,
+    "id": 36,
     "name": "Lomitapid",
     "generic": "lomitapid",
     "cat": "Hjärta/kärl",
@@ -1036,12 +1077,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Lojuxta"
-    ]
+    "atc": "C10AX12"
   },
   {
-    "id": 33,
+    "id": 37,
     "name": "Bezafibrat",
     "generic": "bezafibrat",
     "cat": "Hjärta/kärl",
@@ -1068,12 +1107,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Bezalip"
-    ]
+    "atc": "C10AB02"
   },
   {
-    "id": 34,
+    "id": 38,
     "name": "Gemfibrozil",
     "generic": "gemfibrozil",
     "cat": "Hjärta/kärl",
@@ -1100,12 +1137,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Lopid"
-    ]
+    "atc": "C10AB04"
   },
   {
-    "id": 35,
+    "id": 39,
     "name": "Ezetimib",
     "generic": "ezetimib",
     "cat": "Hjärta/kärl",
@@ -1132,12 +1167,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Ezetrol"
-    ]
+    "atc": "C10AX09"
   },
   {
-    "id": 36,
+    "id": 40,
     "name": "Acetylsalicylsyra",
     "generic": "acetylsalicylsyra",
     "cat": "Koagulation",
@@ -1164,13 +1197,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Albyl-E",
-      "Trombyl"
-    ]
+    "atc": "B01AC06"
   },
   {
-    "id": 37,
+    "id": 41,
+    "name": "Karbasalatkalsium",
+    "generic": "karbasalatkalsium",
+    "cat": "Koagulation",
+    "sub": "Trombocythämmare",
+    "A": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning. Karbasalatkalsium är en prodrug till acetylsalicylsyra."
+    },
+    "B": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning."
+    },
+    "C": {
+      "lbl": "Lågdos",
+      "c": "yellow",
+      "txt": "Använd inte mer än lågdos för trombocythämning. Beakta ökad blödningsrisk."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "B01AC06"
+  },
+  {
+    "id": 42,
     "name": "Klopidogrel",
     "generic": "klopidogrel",
     "cat": "Koagulation",
@@ -1197,12 +1257,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Plavix"
-    ]
+    "atc": "B01AC04"
   },
   {
-    "id": 38,
+    "id": 43,
     "name": "Dipyridamol",
     "generic": "dipyridamol",
     "cat": "Koagulation",
@@ -1229,13 +1287,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Persantin",
-      "Dipyridamol Actavis"
-    ]
+    "atc": "B01AC07"
   },
   {
-    "id": 39,
+    "id": 44,
     "name": "Prasugrel",
     "generic": "prasugrel",
     "cat": "Koagulation",
@@ -1262,12 +1317,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Efient"
-    ]
+    "atc": "B01AC22"
   },
   {
-    "id": 40,
+    "id": 45,
     "name": "Tikagrelol",
     "generic": "tikagrelol",
     "cat": "Koagulation",
@@ -1294,12 +1347,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Brilique"
-    ]
+    "atc": "B01AC24"
   },
   {
-    "id": 41,
+    "id": 46,
     "name": "Heparin (ofraktionerat)",
     "generic": "heparin",
     "cat": "Koagulation",
@@ -1326,12 +1377,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Heparin LEO"
-    ]
+    "atc": "B01AB01"
   },
   {
-    "id": 42,
+    "id": 47,
     "name": "Dalteparin",
     "generic": "dalteparin",
     "cat": "Koagulation",
@@ -1358,12 +1407,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Fragmin"
-    ]
+    "atc": "B01AB04"
   },
   {
-    "id": 43,
+    "id": 48,
     "name": "Enoxaparin",
     "generic": "enoxaparin",
     "cat": "Koagulation",
@@ -1390,12 +1437,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Klexane"
-    ]
+    "atc": "B01AB05"
   },
   {
-    "id": 44,
+    "id": 49,
     "name": "Nadroparin",
     "generic": "nadroparin",
     "cat": "Koagulation",
@@ -1422,13 +1467,70 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Fraxiparin",
-      "Fraxodi"
-    ]
+    "atc": "B01AB06"
   },
   {
-    "id": 45,
+    "id": 50,
+    "name": "Acenocoumarol",
+    "generic": "acenocumarol",
+    "cat": "Koagulation",
+    "sub": "Kumarin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "B01AA07"
+  },
+  {
+    "id": 51,
+    "name": "Fenprokumon",
+    "generic": "fenprokumon",
+    "cat": "Koagulation",
+    "sub": "Kumarin",
+    "A": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
+    },
+    "C": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "B01AA04"
+  },
+  {
+    "id": 52,
     "name": "Alfentanil",
     "generic": "alfentanil",
     "cat": "Analgetika",
@@ -1455,12 +1557,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Rapifen"
-    ]
+    "atc": "N01AH02"
   },
   {
-    "id": 46,
+    "id": 53,
     "name": "Buprenorfin",
     "generic": "buprenorfin",
     "cat": "Analgetika",
@@ -1487,14 +1587,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Temgesic",
-      "Norspan",
-      "Suboxone"
-    ]
+    "atc": "N02AE01"
   },
   {
-    "id": 47,
+    "id": 54,
     "name": "Fentanyl",
     "generic": "fentanyl",
     "cat": "Analgetika",
@@ -1521,13 +1617,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Durogesic",
-      "Fentanyl Actavis"
-    ]
+    "atc": "N01AH01"
   },
   {
-    "id": 48,
+    "id": 55,
     "name": "Hydromorfon (per os)",
     "generic": "hydromorfon",
     "cat": "Analgetika",
@@ -1554,12 +1647,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Palladon"
-    ]
+    "atc": "N02AA03"
   },
   {
-    "id": 49,
+    "id": 56,
     "name": "Kodein",
     "generic": "kodein",
     "cat": "Analgetika",
@@ -1586,12 +1677,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Kodein Recip"
-    ]
+    "atc": "N02AA59"
   },
   {
-    "id": 50,
+    "id": 57,
     "name": "Morfin (per os)",
     "generic": "morfin",
     "cat": "Analgetika",
@@ -1618,12 +1707,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Morfin Meda"
-    ]
+    "atc": "N02AA01"
   },
   {
-    "id": 51,
+    "id": 58,
     "name": "Morfin (IV)",
     "generic": "morfin",
     "cat": "Analgetika",
@@ -1650,12 +1737,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Morfin Meda"
-    ]
+    "atc": "N02AA01"
   },
   {
-    "id": 52,
+    "id": 59,
     "name": "Oxikodon",
     "generic": "oxikodon",
     "cat": "Analgetika",
@@ -1682,14 +1767,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "OxyContin",
-      "OxyNorm",
-      "Oxikodon Actavis"
-    ]
+    "atc": "N02AA05"
   },
   {
-    "id": 53,
+    "id": 60,
     "name": "Petidin",
     "generic": "petidin",
     "cat": "Analgetika",
@@ -1716,12 +1797,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Petidin Meda"
-    ]
+    "atc": "N02AB02"
   },
   {
-    "id": 54,
+    "id": 61,
+    "name": "Piritramid",
+    "generic": "piritramid",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd max 10 mg per tillfälle. Beakta ökad risk för encefalopati."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "N02AC03"
+  },
+  {
+    "id": 62,
     "name": "Tapentadol",
     "generic": "tapentadol",
     "cat": "Analgetika",
@@ -1748,12 +1857,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Palexia"
-    ]
+    "atc": "N02AX06"
   },
   {
-    "id": 55,
+    "id": 63,
     "name": "Tramadol",
     "generic": "tramadol",
     "cat": "Analgetika",
@@ -1780,13 +1887,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tradolan",
-      "Tramadol Actavis"
-    ]
+    "atc": "N02AX02"
   },
   {
-    "id": 56,
+    "id": 64,
     "name": "Esomeprazol",
     "generic": "esomeprazol",
     "cat": "Magtarm",
@@ -1813,13 +1917,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Nexium",
-      "Esomeprazol Actavis"
-    ]
+    "atc": "A02BC05"
   },
   {
-    "id": 57,
+    "id": 65,
     "name": "Omeprazol",
     "generic": "omeprazol",
     "cat": "Magtarm",
@@ -1846,13 +1947,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Losec",
-      "Omeprazol Actavis"
-    ]
+    "atc": "A02BC01"
   },
   {
-    "id": 58,
+    "id": 66,
     "name": "Rabeprazol",
     "generic": "rabeprazol",
     "cat": "Magtarm",
@@ -1879,16 +1977,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Pariet"
-    ]
+    "atc": "A02BC04"
   },
   {
-    "id": 59,
+    "id": 67,
     "name": "Domperidon",
     "generic": "domperidon",
     "cat": "Magtarm",
-    "sub": "Prokinetika",
+    "sub": "Prokinetikum",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -1911,16 +2007,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Motilium"
-    ]
+    "atc": "A03FA03"
   },
   {
-    "id": 60,
+    "id": 68,
     "name": "Metoklopramid",
     "generic": "metoklopramid",
     "cat": "Magtarm",
-    "sub": "Prokinetika",
+    "sub": "Prokinetikum",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -1943,13 +2037,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Primperan",
-      "Metoklopramid Meda"
-    ]
+    "atc": "A03FA01"
   },
   {
-    "id": 61,
+    "id": 69,
     "name": "Alogliptin",
     "generic": "alogliptin",
     "cat": "Diabetes",
@@ -1976,12 +2067,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Vipidia"
-    ]
+    "atc": "A10BH04"
   },
   {
-    "id": 62,
+    "id": 70,
     "name": "Sitagliptin",
     "generic": "sitagliptin",
     "cat": "Diabetes",
@@ -2008,12 +2097,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Januvia"
-    ]
+    "atc": "A10BH01"
   },
   {
-    "id": 63,
+    "id": 71,
     "name": "Canagliflozin",
     "generic": "kanagliflozin",
     "cat": "Diabetes",
@@ -2040,12 +2127,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Invokana"
-    ]
+    "atc": "A10BK02"
   },
   {
-    "id": 64,
+    "id": 72,
     "name": "Dapagliflozin",
     "generic": "dapagliflozin",
     "cat": "Diabetes",
@@ -2072,12 +2157,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Forxiga"
-    ]
+    "atc": "A10BK01"
   },
   {
-    "id": 65,
+    "id": 73,
     "name": "Glibenklamid",
     "generic": "glibenklamid",
     "cat": "Diabetes",
@@ -2104,12 +2187,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Daonil"
-    ]
+    "atc": "A10BB01"
   },
   {
-    "id": 66,
+    "id": 74,
     "name": "Gliclazid",
     "generic": "gliclazid",
     "cat": "Diabetes",
@@ -2136,12 +2217,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Mindiab"
-    ]
+    "atc": "A10BB09"
   },
   {
-    "id": 67,
+    "id": 75,
     "name": "Glimepirid",
     "generic": "glimepirid",
     "cat": "Diabetes",
@@ -2168,12 +2247,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Amaryl"
-    ]
+    "atc": "A10BB12"
   },
   {
-    "id": 68,
+    "id": 76,
+    "name": "Tolbutamid",
+    "generic": "tolbutamid",
+    "cat": "Diabetes",
+    "sub": "Sulfonureid",
+    "A": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
+    },
+    "B": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Öka försiktigt."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "A10BB03"
+  },
+  {
+    "id": 77,
     "name": "Repaglinid",
     "generic": "repaglinid",
     "cat": "Diabetes",
@@ -2200,12 +2307,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "NovoNorm"
-    ]
+    "atc": "A10BX02"
   },
   {
-    "id": 69,
+    "id": 78,
     "name": "Pioglitazon",
     "generic": "pioglitazon",
     "cat": "Diabetes",
@@ -2232,12 +2337,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Actos"
-    ]
+    "atc": "A10BG03"
   },
   {
-    "id": 70,
+    "id": 79,
     "name": "Klindamycin",
     "generic": "klindamycin",
     "cat": "Antibiotika",
@@ -2264,16 +2367,44 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Dalacin"
-    ]
+    "atc": "J01FF01"
   },
   {
-    "id": 71,
+    "id": 80,
+    "name": "Roxitromycin",
+    "generic": "roxitromycin",
+    "cat": "Antibiotika",
+    "sub": "Makrolid",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh B."
+    },
+    "C": {
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd 150 mg per dag."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J01FA06"
+  },
+  {
+    "id": 81,
     "name": "Tigecyklin",
     "generic": "tigecyklin",
     "cat": "Antibiotika",
-    "sub": "Glycylcyklin",
+    "sub": "Glylcylcyklin",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -2296,12 +2427,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tygacil"
-    ]
+    "atc": "J01AA12"
   },
   {
-    "id": 72,
+    "id": 82,
+    "name": "Dasabuvir",
+    "generic": "dasabuvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5B)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet – del av kombinationsregim."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Otillräckliga säkerhetsdata och risk för levertoxicitet."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AX63"
+  },
+  {
+    "id": 83,
     "name": "Elbasvir/grazoprevir",
     "generic": "elbasvir/grazoprevir",
     "cat": "Antivirala",
@@ -2328,12 +2487,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zepatier"
-    ]
+    "atc": "J05AP09"
   },
   {
-    "id": 73,
+    "id": 84,
     "name": "Interferon alfa-2a",
     "generic": "interferon alfa-2a",
     "cat": "Antivirala",
@@ -2360,12 +2517,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Roferon-A"
-    ]
+    "atc": "L03AB04"
   },
   {
-    "id": 74,
+    "id": 85,
     "name": "Interferon alfa-2b",
     "generic": "interferon alfa-2b",
     "cat": "Antivirala",
@@ -2392,12 +2547,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Intron A"
-    ]
+    "atc": "L03AB05"
   },
   {
-    "id": 75,
+    "id": 86,
     "name": "Peginterferon alfa-2a",
     "generic": "peginterferon alfa-2a",
     "cat": "Antivirala",
@@ -2424,12 +2577,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Pegasys"
-    ]
+    "atc": "L03AB11"
   },
   {
-    "id": 76,
+    "id": 87,
     "name": "Peginterferon alfa-2b",
     "generic": "peginterferon alfa-2b",
     "cat": "Antivirala",
@@ -2456,12 +2607,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "PegIntron"
-    ]
+    "atc": "L03AB10"
   },
   {
-    "id": 77,
+    "id": 88,
+    "name": "Ombitasvir/paritaprevir/ritonavir",
+    "generic": "ombitasvir/paritaprevir/ritonavir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (kombinationsregim)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet och tät monitorering."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Risk för levertoxicitet och dekompensation."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AP05"
+  },
+  {
+    "id": 89,
     "name": "Ribavirin",
     "generic": "ribavirin",
     "cat": "Antivirala",
@@ -2488,17 +2667,44 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Copegus",
-      "Rebetol"
-    ]
+    "atc": "J05AB04"
   },
   {
-    "id": 78,
+    "id": 90,
+    "name": "Simeprevir",
+    "generic": "simeprevir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS3-4A proteashämmare)",
+    "A": {
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Markant ökad plasmaexponering."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AE14"
+  },
+  {
+    "id": 91,
     "name": "Mykofenolat mofetil",
     "generic": "mykofenolat mofetil",
     "cat": "Övrigt",
-    "sub": "Immunosuppressiva",
+    "sub": "Immunosuppressivum",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -2521,17 +2727,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "CellCept",
-      "Myfenax"
-    ]
+    "atc": "L04AA06"
   },
   {
-    "id": 79,
+    "id": 92,
     "name": "Spironolakton",
     "generic": "spironolakton",
     "cat": "Hepatologi",
-    "sub": "Diuretika (ascites)",
+    "sub": "Diuretikum (ascites)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -2558,17 +2761,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Spironolakton Actavis",
-      "Aldactone"
-    ]
+    "atc": "C03DA01"
   },
   {
-    "id": 80,
+    "id": 93,
     "name": "Furosemid",
     "generic": "furosemid",
     "cat": "Hepatologi",
-    "sub": "Diuretika (ascites)",
+    "sub": "Diuretikum (ascites)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -2595,13 +2795,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Furix",
-      "Furosemid Actavis"
-    ]
+    "atc": "C03CA01"
   },
   {
-    "id": 81,
+    "id": 94,
     "name": "Rifaximin",
     "generic": "rifaximin",
     "cat": "Hepatologi",
@@ -2632,16 +2829,14 @@
         "u": "https://doi.org/10.1056/NEJMoa0907893"
       }
     ],
-    "brands": [
-      "Xifaxan"
-    ]
+    "atc": "A07AA11"
   },
   {
-    "id": 82,
+    "id": 95,
     "name": "Laktulos",
     "generic": "laktulos",
     "cat": "Hepatologi",
-    "sub": "Laxantia (encefalopati)",
+    "sub": "Laxativum (encefalopati)",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -2664,13 +2859,10 @@
         "u": "https://easl.eu/publication/management-of-patients-with-decompensated-cirrhosis/"
       }
     ],
-    "brands": [
-      "Laktulos Actavis",
-      "Duphalac"
-    ]
+    "atc": "A06AD11"
   },
   {
-    "id": 83,
+    "id": 96,
     "name": "Terlipressin",
     "generic": "terlipressin",
     "cat": "Hepatologi",
@@ -2701,12 +2893,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2018.01.006"
       }
     ],
-    "brands": [
-      "Glypressin"
-    ]
+    "atc": "H01BA04"
   },
   {
-    "id": 84,
+    "id": 97,
     "name": "Albumin (human)",
     "generic": "humant albumin",
     "cat": "Hepatologi",
@@ -2737,13 +2927,10 @@
         "u": "https://doi.org/10.1056/NEJM199909093411101"
       }
     ],
-    "brands": [
-      "Albunorm",
-      "Alburex"
-    ]
+    "atc": "B05AA01"
   },
   {
-    "id": 85,
+    "id": 98,
     "name": "Ursodeoxicholsyra",
     "generic": "ursodeoxicholsyra",
     "cat": "Hepatologi",
@@ -2770,13 +2957,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2017.03.022"
       }
     ],
-    "brands": [
-      "Ursofalk",
-      "Ursodeoxicholsyra Actavis"
-    ]
+    "atc": "A05AA02"
   },
   {
-    "id": 86,
+    "id": 99,
     "name": "Prednisolon",
     "generic": "prednisolon",
     "cat": "Hepatologi",
@@ -2807,12 +2991,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2018.06.006"
       }
     ],
-    "brands": [
-      "Prednisolon Actavis"
-    ]
+    "atc": "H02AB06"
   },
   {
-    "id": 87,
+    "id": 100,
     "name": "Oxazepam",
     "generic": "oxazepam",
     "cat": "Psykofarmaka",
@@ -2843,13 +3025,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Sobril",
-      "Oxazepam Actavis"
-    ]
+    "atc": "N05BA04"
   },
   {
-    "id": 88,
+    "id": 101,
     "name": "Lorazepam",
     "generic": "lorazepam",
     "cat": "Psykofarmaka",
@@ -2880,13 +3059,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Temesta",
-      "Lorazepam Actavis"
-    ]
+    "atc": "N05BA06"
   },
   {
-    "id": 89,
+    "id": 102,
     "name": "Diazepam",
     "generic": "diazepam",
     "cat": "Psykofarmaka",
@@ -2917,13 +3093,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Stesolid",
-      "Valium"
-    ]
+    "atc": "N05BA01"
   },
   {
-    "id": 90,
+    "id": 103,
     "name": "Midazolam",
     "generic": "midazolam",
     "cat": "Psykofarmaka",
@@ -2954,12 +3127,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Midazolam Actavis"
-    ]
+    "atc": "N05CD08"
   },
   {
-    "id": 91,
+    "id": 104,
     "name": "Sertralin",
     "generic": "sertralin",
     "cat": "Psykofarmaka",
@@ -2990,13 +3161,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zoloft",
-      "Sertralin Actavis"
-    ]
+    "atc": "N06AB06"
   },
   {
-    "id": 92,
+    "id": 105,
     "name": "Citalopram",
     "generic": "citalopram",
     "cat": "Psykofarmaka",
@@ -3027,13 +3195,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Cipramil",
-      "Citalopram Actavis"
-    ]
+    "atc": "N06AB04"
   },
   {
-    "id": 93,
+    "id": 106,
     "name": "Escitalopram",
     "generic": "escitalopram",
     "cat": "Psykofarmaka",
@@ -3064,13 +3229,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Cipralex",
-      "Escitalopram Actavis"
-    ]
+    "atc": "N06AB10"
   },
   {
-    "id": 94,
+    "id": 107,
     "name": "Mirtazapin",
     "generic": "mirtazapin",
     "cat": "Psykofarmaka",
@@ -3101,13 +3263,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Remeron",
-      "Mirtazapin Actavis"
-    ]
+    "atc": "N06AX11"
   },
   {
-    "id": 95,
+    "id": 108,
     "name": "Amitriptylin",
     "generic": "amitriptylin",
     "cat": "Psykofarmaka",
@@ -3138,17 +3297,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Saroten",
-      "Tryptizol"
-    ]
+    "atc": "N06AA09"
   },
   {
-    "id": 96,
+    "id": 109,
     "name": "Haloperidol",
     "generic": "haloperidol",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotika",
+    "sub": "Antipsykotikum (typiskt)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3175,16 +3331,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Haldol"
-    ]
+    "atc": "N05AD01"
   },
   {
-    "id": 97,
+    "id": 110,
     "name": "Risperidon",
     "generic": "risperidon",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotika (atypiska)",
+    "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3211,17 +3365,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Risperdal",
-      "Risperidon Actavis"
-    ]
+    "atc": "N05AX08"
   },
   {
-    "id": 98,
+    "id": 111,
     "name": "Olanzapin",
     "generic": "olanzapin",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotika (atypiska)",
+    "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3248,17 +3399,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Zyprexa",
-      "Olanzapin Actavis"
-    ]
+    "atc": "N05AH03"
   },
   {
-    "id": 99,
+    "id": 112,
     "name": "Quetiapin",
     "generic": "quetiapin",
     "cat": "Psykofarmaka",
-    "sub": "Antipsykotika (atypiska)",
+    "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -3285,17 +3433,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Seroquel",
-      "Quetiapin Actavis"
-    ]
+    "atc": "N05AH04"
   },
   {
-    "id": 100,
+    "id": 113,
     "name": "Paracetamol",
     "generic": "paracetamol",
     "cat": "Analgetika",
-    "sub": "Icke-opioid analgetika",
+    "sub": "Icke-opioid analgetikum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -3318,14 +3463,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Alvedon",
-      "Panodil",
-      "Paracetamol Actavis"
-    ]
+    "atc": "N02BE01"
   },
   {
-    "id": 101,
+    "id": 114,
     "name": "NSAIDs (klass)",
     "generic": "NSAID",
     "cat": "Analgetika",
@@ -3352,15 +3493,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Brufen",
-      "Diklofenak Actavis",
-      "Naproxen Actavis",
-      "Ibuprofen Actavis"
-    ]
+    "atc": "M01A"
   },
   {
-    "id": 102,
+    "id": 115,
     "name": "COX-2-hämmare (klass)",
     "generic": "COX-2-hämmare",
     "cat": "Analgetika",
@@ -3387,13 +3523,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Celebrex",
-      "Arcoxia"
-    ]
+    "atc": "M01AH"
   },
   {
-    "id": 103,
+    "id": 116,
     "name": "Remifentanil",
     "generic": "remifentanil",
     "cat": "Analgetika",
@@ -3420,12 +3553,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Ultiva"
-    ]
+    "atc": "N01AH06"
   },
   {
-    "id": 104,
+    "id": 117,
     "name": "Sufentanil",
     "generic": "sufentanil",
     "cat": "Analgetika",
@@ -3452,12 +3583,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Sufenta"
-    ]
+    "atc": "N01AH03"
   },
   {
-    "id": 105,
+    "id": 118,
     "name": "Metadon",
     "generic": "metadon",
     "cat": "Analgetika",
@@ -3484,12 +3613,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Metadon Abcur"
-    ]
+    "atc": "N07BC02"
   },
   {
-    "id": 106,
+    "id": 119,
     "name": "Hydromorfon (IV)",
     "generic": "hydromorfon",
     "cat": "Analgetika",
@@ -3516,12 +3643,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Palladon"
-    ]
+    "atc": "N02AA03"
   },
   {
-    "id": 107,
+    "id": 120,
+    "name": "Nalbupin",
+    "generic": "nalbupin",
+    "cat": "Analgetika",
+    "sub": "Opioid",
+    "A": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta med reducerad dos och monitorera noggrant."
+    },
+    "B": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Starta med reducerad dos. Risk för encefalopati."
+    },
+    "C": {
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Undvik om möjligt."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "N02AF02"
+  },
+  {
+    "id": 121,
     "name": "Ciprofloxacin",
     "generic": "ciprofloxacin",
     "cat": "Antibiotika",
@@ -3548,12 +3703,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Ciprofloxacin Actavis"
-    ]
+    "atc": "J01MA02"
   },
   {
-    "id": 108,
+    "id": 122,
     "name": "Norfloxacin",
     "generic": "norfloxacin",
     "cat": "Antibiotika",
@@ -3580,12 +3733,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Norfloxacin Actavis"
-    ]
+    "atc": "J01MA06"
   },
   {
-    "id": 109,
+    "id": 123,
     "name": "Ofloxacin",
     "generic": "ofloxacin",
     "cat": "Antibiotika",
@@ -3612,12 +3763,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tarivid"
-    ]
+    "atc": "J01MA01"
   },
   {
-    "id": 110,
+    "id": 124,
     "name": "Moxifloxacin",
     "generic": "moxifloxacin",
     "cat": "Antibiotika",
@@ -3644,12 +3793,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Avelox"
-    ]
+    "atc": "J01MA14"
   },
   {
-    "id": 111,
+    "id": 125,
     "name": "Levofloxacin",
     "generic": "levofloxacin",
     "cat": "Antibiotika",
@@ -3676,12 +3823,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tavanic"
-    ]
+    "atc": "J01MA12"
   },
   {
-    "id": 112,
+    "id": 126,
     "name": "Amoxicillin",
     "generic": "amoxicillin",
     "cat": "Antibiotika",
@@ -3708,12 +3853,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Amoxicillin Actavis"
-    ]
+    "atc": "J01CA04"
   },
   {
-    "id": 113,
+    "id": 127,
     "name": "Amoxicillin/klavulansyra",
     "generic": "amoxicillin/klavulansyra",
     "cat": "Antibiotika",
@@ -3740,13 +3883,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Amimox",
-      "Spektramox"
-    ]
+    "atc": "J01CR02"
   },
   {
-    "id": 114,
+    "id": 128,
     "name": "Piperacillin/tazobaktam",
     "generic": "piperacillin/tazobaktam",
     "cat": "Antibiotika",
@@ -3773,12 +3913,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tazocin"
-    ]
+    "atc": "J01CR05"
   },
   {
-    "id": 115,
+    "id": 129,
     "name": "Flukloxacillin",
     "generic": "flukloxacillin",
     "cat": "Antibiotika",
@@ -3805,12 +3943,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Flukloxacillin Actavis"
-    ]
+    "atc": "J01CF05"
   },
   {
-    "id": 116,
+    "id": 130,
     "name": "Doxycyklin",
     "generic": "doxycyklin",
     "cat": "Antibiotika",
@@ -3837,13 +3973,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Doxyferm",
-      "Doxycyklin Actavis"
-    ]
+    "atc": "J01AA02"
   },
   {
-    "id": 117,
+    "id": 131,
     "name": "Minocyklin",
     "generic": "minocyklin",
     "cat": "Antibiotika",
@@ -3870,12 +4003,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Minocyclin"
-    ]
+    "atc": "J01AA08"
   },
   {
-    "id": 118,
+    "id": 132,
     "name": "Sulfametoxazol/trimetoprim",
     "generic": "sulfametoxazol/trimetoprim",
     "cat": "Antibiotika",
@@ -3902,13 +4033,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Bactrim",
-      "Eusaprim"
-    ]
+    "atc": "J01EE01"
   },
   {
-    "id": 119,
+    "id": 133,
     "name": "Azitromycin",
     "generic": "azitromycin",
     "cat": "Antibiotika",
@@ -3935,13 +4063,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Azitromax",
-      "Azitromycin Actavis"
-    ]
+    "atc": "J01FA10"
   },
   {
-    "id": 120,
+    "id": 134,
     "name": "Klaritromycin",
     "generic": "klaritromycin",
     "cat": "Antibiotika",
@@ -3968,12 +4093,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Klacid"
-    ]
+    "atc": "J01FA09"
   },
   {
-    "id": 121,
+    "id": 135,
     "name": "Erytromycin",
     "generic": "erytromycin",
     "cat": "Antibiotika",
@@ -4000,12 +4123,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Abboticin"
-    ]
+    "atc": "J01FA01"
   },
   {
-    "id": 122,
+    "id": 136,
     "name": "Nitrofurantoin",
     "generic": "nitrofurantoin",
     "cat": "Antibiotika",
@@ -4032,13 +4153,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Furadantin",
-      "Nitrofurantoin Actavis"
-    ]
+    "atc": "J01XE01"
   },
   {
-    "id": 123,
+    "id": 137,
     "name": "Metformin",
     "generic": "metformin",
     "cat": "Diabetes",
@@ -4065,13 +4183,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Glucophage",
-      "Metformin Actavis"
-    ]
+    "atc": "A10BA02"
   },
   {
-    "id": 124,
+    "id": 138,
     "name": "Insulin",
     "generic": "insulin",
     "cat": "Diabetes",
@@ -4098,15 +4213,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Actrapid",
-      "NovoRapid",
-      "Lantus",
-      "Levemir"
-    ]
+    "atc": "A10A"
   },
   {
-    "id": 125,
+    "id": 139,
     "name": "Acarbose",
     "generic": "akarbos",
     "cat": "Diabetes",
@@ -4133,12 +4243,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Glucobay"
-    ]
+    "atc": "A10BF01"
   },
   {
-    "id": 126,
+    "id": 140,
     "name": "Empagliflozin",
     "generic": "empagliflozin",
     "cat": "Diabetes",
@@ -4165,12 +4273,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Jardiance"
-    ]
+    "atc": "A10BK03"
   },
   {
-    "id": 127,
+    "id": 141,
     "name": "Linagliptin",
     "generic": "linagliptin",
     "cat": "Diabetes",
@@ -4197,12 +4303,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Trajenta"
-    ]
+    "atc": "A10BH05"
   },
   {
-    "id": 128,
+    "id": 142,
     "name": "Saxagliptin",
     "generic": "saxagliptin",
     "cat": "Diabetes",
@@ -4229,12 +4333,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Onglyza"
-    ]
+    "atc": "A10BH03"
   },
   {
-    "id": 129,
+    "id": 143,
     "name": "Vildagliptin",
     "generic": "vildagliptin",
     "cat": "Diabetes",
@@ -4261,12 +4363,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Galvus"
-    ]
+    "atc": "A10BH02"
   },
   {
-    "id": 130,
+    "id": 144,
     "name": "Entecavir",
     "generic": "entecavir",
     "cat": "Antivirala",
@@ -4293,12 +4393,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Baraclude"
-    ]
+    "atc": "J05AF10"
   },
   {
-    "id": 131,
+    "id": 145,
     "name": "Tenofovir",
     "generic": "tenofovir disoproxil",
     "cat": "Antivirala",
@@ -4325,12 +4423,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Viread"
-    ]
+    "atc": "J05AF07"
   },
   {
-    "id": 132,
+    "id": 146,
     "name": "Lamivudin",
     "generic": "lamivudin",
     "cat": "Antivirala",
@@ -4357,13 +4453,70 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Epivir",
-      "Zeffix"
-    ]
+    "atc": "J05AF05"
   },
   {
-    "id": 133,
+    "id": 147,
+    "name": "Adefovir",
+    "generic": "adefovir dipivoxil",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleotidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Observera: nefrotoxicitet är känd biverkan – monitorera njurfunktion. Tenofovir eller entecavir föredras."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion noggrant."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Tenofovir eller entecavir föredras pga bättre säkerhetsprofil."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AF08"
+  },
+  {
+    "id": 148,
+    "name": "Telbivudin",
+    "generic": "telbivudin",
+    "cat": "Antivirala",
+    "sub": "Hepatit B (nukleosidanalog)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och CK-värden (myopati känd biverkan). Entecavir eller tenofovir föredras."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera njurfunktion och CK."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Entecavir eller tenofovir föredras."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AF11"
+  },
+  {
+    "id": 149,
     "name": "Sofosbuvir",
     "generic": "sofosbuvir",
     "cat": "Antivirala",
@@ -4390,12 +4543,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Sovaldi"
-    ]
+    "atc": "J05AX65"
   },
   {
-    "id": 134,
+    "id": 150,
     "name": "Ledipasvir",
     "generic": "ledipasvir",
     "cat": "Antivirala",
@@ -4422,12 +4573,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Harvoni"
-    ]
+    "atc": "J05AX67"
   },
   {
-    "id": 135,
+    "id": 151,
+    "name": "Daklatasvir",
+    "generic": "daklatasvir",
+    "cat": "Antivirala",
+    "sub": "Hepatit C (NS5A)",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Monitorera behandlingssvar och biverkningar."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "J05AX66"
+  },
+  {
+    "id": 152,
     "name": "Velpatasvir",
     "generic": "velpatasvir",
     "cat": "Antivirala",
@@ -4454,12 +4633,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Velpatasvir"
-    ]
+    "atc": "J05AX69"
   },
   {
-    "id": 136,
+    "id": 153,
     "name": "Atenolol",
     "generic": "atenolol",
     "cat": "Hjärta/kärl",
@@ -4486,12 +4663,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Tenormin"
-    ]
+    "atc": "C07AB03"
   },
   {
-    "id": 137,
+    "id": 154,
     "name": "Sotalol",
     "generic": "sotalol",
     "cat": "Hjärta/kärl",
@@ -4518,12 +4693,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Sotacor"
-    ]
+    "atc": "C07AA07"
   },
   {
-    "id": 138,
+    "id": 155,
     "name": "Nebivolol",
     "generic": "nebivolol",
     "cat": "Hjärta/kärl",
@@ -4550,12 +4723,70 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Nebilet"
-    ]
+    "atc": "C07AB12"
   },
   {
-    "id": 139,
+    "id": 156,
+    "name": "Barnidipin",
+    "generic": "barnidipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förhöjd plasmaexponering vid levercirros pga extensiv hepatisk metabolism och hög first-pass-effekt."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C08CA12"
+  },
+  {
+    "id": 157,
+    "name": "Isradipin",
+    "generic": "isradipin",
+    "cat": "Hjärta/kärl",
+    "sub": "Ca-antagonist",
+    "A": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Undvik. Kraftigt förhöjd plasmaexponering pga extensiv hepatisk metabolism. Välj amlodipin eller nifedipin med dosreduktion."
+    },
+    "B": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "C": {
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "C08CA03"
+  },
+  {
+    "id": 158,
     "name": "Atorvastatin",
     "generic": "atorvastatin",
     "cat": "Hjärta/kärl",
@@ -4582,17 +4813,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Lipitor",
-      "Atorvastatin Actavis"
-    ]
+    "atc": "C10AA05"
   },
   {
-    "id": 140,
+    "id": 159,
     "name": "Hydroklortiazid",
     "generic": "hydroklortiazid",
     "cat": "Hjärta/kärl",
-    "sub": "Tiaziddiuretika",
+    "sub": "Tiaziddiuretikum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4615,17 +4843,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Esidrex",
-      "Hydroklortiazid Actavis"
-    ]
+    "atc": "C03AA03"
   },
   {
-    "id": 141,
+    "id": 160,
     "name": "Amilorid",
     "generic": "amilorid",
     "cat": "Hjärta/kärl",
-    "sub": "Kaliumsparande diuretika",
+    "sub": "Kaliumsparande diuretikum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4648,16 +4873,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Amilorid Actavis"
-    ]
+    "atc": "C03DB01"
   },
   {
-    "id": 142,
+    "id": 161,
     "name": "Bumetanid",
     "generic": "bumetanid",
     "cat": "Hjärta/kärl",
-    "sub": "Loopdiuretika",
+    "sub": "Loopdiuretikum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4680,16 +4903,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Burinex"
-    ]
+    "atc": "C03CA02"
   },
   {
-    "id": 143,
+    "id": 162,
     "name": "Eplerenon",
     "generic": "eplerenon",
     "cat": "Hjärta/kärl",
-    "sub": "Kaliumsparande diuretika",
+    "sub": "Kaliumsparande diuretikum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4712,12 +4933,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Inspra"
-    ]
+    "atc": "C03DA04"
   },
   {
-    "id": 144,
+    "id": 163,
     "name": "Famotidin",
     "generic": "famotidin",
     "cat": "Magtarm",
@@ -4744,12 +4963,40 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Pepcid"
-    ]
+    "atc": "A02BA03"
   },
   {
-    "id": 145,
+    "id": 164,
+    "name": "Ranitidin",
+    "generic": "ranitidin",
+    "cat": "Magtarm",
+    "sub": "H2-receptorblockerare",
+    "A": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. OBS: Ranitidin är sedan 2020 draget från marknaden i EU pga NDMA-föroreningar."
+    },
+    "B": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. OBS: Se produktstatus i aktuell region."
+    },
+    "C": {
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas. Famotidin föredras som H2-blockerare."
+    },
+    "mech": "",
+    "refs": [
+      {
+        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
+        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      }
+    ],
+    "atc": "A02BA02"
+  },
+  {
+    "id": 165,
     "name": "Pantoprazol",
     "generic": "pantoprazol",
     "cat": "Magtarm",
@@ -4776,13 +5023,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Pantoloc",
-      "Pantoprazol Actavis"
-    ]
+    "atc": "A02BC02"
   },
   {
-    "id": 146,
+    "id": 166,
     "name": "Lansoprazol",
     "generic": "lansoprazol",
     "cat": "Magtarm",
@@ -4809,17 +5053,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Lanzo",
-      "Lansoprazol Actavis"
-    ]
+    "atc": "A02BC03"
   },
   {
-    "id": 147,
+    "id": 167,
     "name": "Laktitol",
     "generic": "laktitol",
     "cat": "Magtarm",
-    "sub": "Laxantia (encefalopati)",
+    "sub": "Laxativum (encefalopati)",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4842,16 +5083,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Importal"
-    ]
+    "atc": "A06AD12"
   },
   {
-    "id": 148,
+    "id": 168,
     "name": "Bisacodyl",
     "generic": "bisacodyl",
     "cat": "Magtarm",
-    "sub": "Laxantia",
+    "sub": "Laxativum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4874,16 +5113,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Dulcolax"
-    ]
+    "atc": "A06AB02"
   },
   {
-    "id": 149,
+    "id": 169,
     "name": "Makrogol",
     "generic": "makrogol",
     "cat": "Magtarm",
-    "sub": "Laxantia",
+    "sub": "Laxativum",
     "A": {
       "lbl": "Kan användas",
       "c": "green",
@@ -4906,13 +5143,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Movicol",
-      "Laxabon"
-    ]
+    "atc": "A06AD15"
   },
   {
-    "id": 150,
+    "id": 170,
     "name": "Kolestyramin",
     "generic": "kolestyramin",
     "cat": "Hjärta/kärl",
@@ -4939,12 +5173,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Questran"
-    ]
+    "atc": "C10AC01"
   },
   {
-    "id": 151,
+    "id": 171,
     "name": "Kolesevelam",
     "generic": "kolesevelam",
     "cat": "Hjärta/kärl",
@@ -4971,16 +5203,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Cholestagel"
-    ]
+    "atc": "C10AC04"
   },
   {
-    "id": 152,
+    "id": 172,
     "name": "Azatioprin",
     "generic": "azatioprin",
     "cat": "Hepatologi",
-    "sub": "Immunosuppressiva (AIH)",
+    "sub": "Immunosuppressivum (AIH)",
     "A": {
       "lbl": "Försiktighet",
       "c": "yellow",
@@ -5007,12 +5237,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2015.06.005"
       }
     ],
-    "brands": [
-      "Imurel"
-    ]
+    "atc": "L04AX01"
   },
   {
-    "id": 153,
+    "id": 173,
     "name": "Budesonid",
     "generic": "budesonid",
     "cat": "Hepatologi",
@@ -5043,13 +5271,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2015.06.005"
       }
     ],
-    "brands": [
-      "Entocort",
-      "Budesonid Actavis"
-    ]
+    "atc": "H02AB09"
   },
   {
-    "id": 154,
+    "id": 174,
     "name": "Warfarin",
     "generic": "warfarin",
     "cat": "Koagulation",
@@ -5080,13 +5305,10 @@
         "u": "https://doi.org/10.1016/j.jhep.2010.01.001"
       }
     ],
-    "brands": [
-      "Warfarin Orion",
-      "Waran"
-    ]
+    "atc": "B01AA03"
   },
   {
-    "id": 155,
+    "id": 175,
     "name": "Rivaroxaban",
     "generic": "rivaroxaban",
     "cat": "Koagulation",
@@ -5117,12 +5339,10 @@
         "u": "https://doi.org/10.1002/hep.28793"
       }
     ],
-    "brands": [
-      "Xarelto"
-    ]
+    "atc": "B01AF01"
   },
   {
-    "id": 156,
+    "id": 176,
     "name": "Apixaban",
     "generic": "apixaban",
     "cat": "Koagulation",
@@ -5153,12 +5373,10 @@
         "u": "https://doi.org/10.1002/hep.28793"
       }
     ],
-    "brands": [
-      "Eliquis"
-    ]
+    "atc": "B01AF02"
   },
   {
-    "id": 157,
+    "id": 177,
     "name": "Dabigatran",
     "generic": "dabigatran etexilat",
     "cat": "Koagulation",
@@ -5189,12 +5407,10 @@
         "u": "https://doi.org/10.1002/hep.28793"
       }
     ],
-    "brands": [
-      "Pradaxa"
-    ]
+    "atc": "B01AE07"
   },
   {
-    "id": 158,
+    "id": 178,
     "name": "Zopiklon",
     "generic": "zopiklon",
     "cat": "Psykofarmaka",
@@ -5221,13 +5437,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Imovane",
-      "Zopiklon Actavis"
-    ]
+    "atc": "N05CF01"
   },
   {
-    "id": 159,
+    "id": 179,
     "name": "Zolpidem",
     "generic": "zolpidem",
     "cat": "Psykofarmaka",
@@ -5254,13 +5467,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Stilnoct",
-      "Zolpidem Actavis"
-    ]
+    "atc": "N05CF02"
   },
   {
-    "id": 160,
+    "id": 180,
     "name": "Alprazolam",
     "generic": "alprazolam",
     "cat": "Psykofarmaka",
@@ -5287,16 +5497,14 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Xanor"
-    ]
+    "atc": "N05BA12"
   },
   {
-    "id": 161,
+    "id": 181,
     "name": "Klometiazol",
     "generic": "klometiazol",
     "cat": "Psykofarmaka",
-    "sub": "Sömnmedel",
+    "sub": "Sedativum",
     "A": {
       "lbl": "Dosreduktion",
       "c": "yellow",
@@ -5319,12 +5527,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Heminevrin"
-    ]
+    "atc": "N05CM02"
   },
   {
-    "id": 162,
+    "id": 182,
     "name": "Isosorbidmononitrat",
     "generic": "isosorbidmononitrat",
     "cat": "Hjärta/kärl",
@@ -5351,13 +5557,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Imdur",
-      "Ismo"
-    ]
+    "atc": "C01DA14"
   },
   {
-    "id": 163,
+    "id": 184,
     "name": "Desloratadin",
     "generic": "desloratadin",
     "cat": "Övrigt",
@@ -5384,12 +5587,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Aerius"
-    ]
+    "atc": "R06AX27"
   },
   {
-    "id": 164,
+    "id": 185,
     "name": "Loratadin",
     "generic": "loratadin",
     "cat": "Övrigt",
@@ -5416,12 +5617,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Clarityn"
-    ]
+    "atc": "R06AX13"
   },
   {
-    "id": 165,
+    "id": 186,
     "name": "Hydroxizin",
     "generic": "hydroxizin",
     "cat": "Övrigt",
@@ -5448,12 +5647,10 @@
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
       }
     ],
-    "brands": [
-      "Atarax"
-    ]
+    "atc": "N05BB01"
   },
   {
-    "id": 166,
+    "id": 187,
     "name": "Edoxaban",
     "generic": "edoxaban",
     "cat": "Koagulation",
@@ -5484,16 +5681,14 @@
         "u": "https://doi.org/10.1002/hep.28793"
       }
     ],
-    "brands": [
-      "Lixiana"
-    ]
+    "atc": "B01AF03"
   },
   {
-    "id": 167,
+    "id": 188,
     "name": "Lamotrigin",
     "generic": "lamotrigin",
     "cat": "Övrigt",
-    "sub": "Antiepileptika",
+    "sub": "Antiepileptikum",
     "A": {
       "lbl": "Ingen dosanpassning",
       "c": "green",
@@ -5516,13 +5711,10 @@
         "u": "https://www.fass.se"
       }
     ],
-    "brands": [
-      "Lamictal",
-      "Lamotrigin Actavis"
-    ]
+    "atc": "N03AX09"
   },
   {
-    "id": 168,
+    "id": 189,
     "name": "Venlafaxin",
     "generic": "venlafaxin",
     "cat": "Psykofarmaka",
@@ -5553,13 +5745,10 @@
         "u": "https://www.drugsinlivercirrhosis.org"
       }
     ],
-    "brands": [
-      "Efexor",
-      "Venlafaxin Actavis"
-    ]
+    "atc": "N06AX16"
   },
   {
-    "id": 169,
+    "id": 190,
     "name": "Paroxetin",
     "generic": "paroxetin",
     "cat": "Psykofarmaka",
@@ -5590,13 +5779,10 @@
         "u": "https://www.drugsinlivercirrhosis.org"
       }
     ],
-    "brands": [
-      "Seroxat",
-      "Paroxetin Actavis"
-    ]
+    "atc": "N06AB05"
   },
   {
-    "id": 170,
+    "id": 191,
     "name": "Fluoxetin",
     "generic": "fluoxetin",
     "cat": "Psykofarmaka",
@@ -5627,13 +5813,10 @@
         "u": "https://www.drugsinlivercirrhosis.org"
       }
     ],
-    "brands": [
-      "Fontex",
-      "Fluoxetin Actavis"
-    ]
+    "atc": "N06AB03"
   },
   {
-    "id": 171,
+    "id": 192,
     "name": "Semaglutid",
     "generic": "semaglutid",
     "cat": "Diabetes",
@@ -5668,13 +5851,10 @@
         "u": "https://www.fass.se"
       }
     ],
-    "brands": [
-      "Ozempic",
-      "Rybelsus"
-    ]
+    "atc": "A10BJ06"
   },
   {
-    "id": 172,
+    "id": 193,
     "name": "Liraglutid",
     "generic": "liraglutid",
     "cat": "Diabetes",
@@ -5705,13 +5885,10 @@
         "u": "https://www.fass.se"
       }
     ],
-    "brands": [
-      "Victoza",
-      "Saxenda"
-    ]
+    "atc": "A10BJ02"
   },
   {
-    "id": 173,
+    "id": 194,
     "name": "Akamprosat",
     "generic": "akamprosat",
     "cat": "Övrigt",
@@ -5742,12 +5919,10 @@
         "u": "https://doi.org/10.1002/hep4.2063"
       }
     ],
-    "brands": [
-      "Campral"
-    ]
+    "atc": "N07BB03"
   },
   {
-    "id": 174,
+    "id": 195,
     "name": "Disulfiram",
     "generic": "disulfiram",
     "cat": "Övrigt",
@@ -5778,12 +5953,10 @@
         "u": "https://doi.org/10.2165/00002018-199920060-00001"
       }
     ],
-    "brands": [
-      "Antabus"
-    ]
+    "atc": "N07BB01"
   },
   {
-    "id": 175,
+    "id": 196,
     "name": "Naltrexon",
     "generic": "naltrexon",
     "cat": "Övrigt",
@@ -5822,646 +5995,6 @@
         "u": "https://doi.org/10.1016/s0168-8278(97)80356-5"
       }
     ],
-    "brands": [
-      "Naltrexon Actavis",
-      "Antaxone"
-    ]
-  },
-  {
-    "id": 176,
-    "name": "Metronidazol",
-    "generic": "metronidazol",
-    "cat": "Antibiotika",
-    "sub": "Nitroimidazoler",
-    "brands": [
-      "Flagyl"
-    ],
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Normal dos kan ges. Halveringstiden är förlängd – övervaka för CNS-biverkningar (yrsel, förvirring). Undvik långvarig behandling."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Reducera dosen med 50% eller förläng dosintervall till var 12:e timme. Risk för ackumulering och metronidazol-inducerad encefalopati."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt reducerat clearance, hög risk för CNS-toxicitet och encefalopati vid dekompenserad cirros."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
-      },
-      {
-        "t": "FASS / EMA produktinformation – Metronidazol",
-        "u": "https://www.fass.se/LIF/product?userType=0&nplId=19720303000013"
-      }
-    ]
-  },
-  {
-    "id": 177,
-    "name": "Cefotaxim",
-    "generic": "cefotaxim",
-    "cat": "Antibiotika",
-    "sub": "Cefalosporiner",
-    "brands": [
-      "Claforan"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs. Förstahandsval vid spontan bakteriell peritonit (SBP). Högt terapeutiskt index trots förlängd halveringstid."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs. Kan ges i normaldos. Förstahandsval vid SBP."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs. Kan ges i normaldos trots farmakokinetiska förändringar tack vare högt terapeutiskt index."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
-      }
-    ]
-  },
-  {
-    "id": 178,
-    "name": "Meropenem",
-    "generic": "meropenem",
-    "cat": "Antibiotika",
-    "sub": "Karbapenemer",
-    "brands": [
-      "Meronem"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs. Farmakokinetiken vid levercirros är inte signifikant avvikande från friska individer."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs. PK-studier visar ingen signifikant skillnad i clearance vid stabil levercirros."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Ingen dosanpassning krävs baserat på tillgängliga PK-data. Övervaka njurfunktion då njurpåverkan är vanlig vid klass C."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Zoratti et al. 2021, Antibiotics – Antibiotics and Liver Cirrhosis",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772826/"
-      },
-      {
-        "t": "Drusano et al. 1997, Clin Infect Dis – Meropenem pharmacokinetics in liver disease",
-        "u": "https://pubmed.ncbi.nlm.nih.gov/9126692/"
-      }
-    ]
-  },
-  {
-    "id": 179,
-    "name": "Pivmecillinam",
-    "generic": "pivmecillinam",
-    "cat": "Antibiotika",
-    "sub": "Penicilliner",
-    "brands": [
-      "Selexid"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar. Övervaka njurfunktion."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Selexid (pivmecillinam)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 180,
-    "name": "Fenoximetylpenicillin",
-    "generic": "fenoximetylpenicillin",
-    "cat": "Antibiotika",
-    "sub": "Penicilliner",
-    "brands": [
-      "Kåvepenin"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Renal utsöndring dominerar. Övervaka njurfunktion."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Kåvepenin (fenoximetylpenicillin)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 181,
-    "name": "Kloxacillin",
-    "generic": "kloxacillin",
-    "cat": "Antibiotika",
-    "sub": "Penicilliner",
-    "brands": [
-      "Ekvacillin"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Brett terapeutiskt index."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Begränsad specifik data vid levercirros. Delvis gallutsöndring. Kan ges i normaldos med klinisk övervakning."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Begränsad data. Delvis gallutsöndring kan vara reducerad. Kan ges om indicerat, men övervaka noga."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Ekvacillin (kloxacillin)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 182,
-    "name": "Pankreatin",
-    "generic": "pankreatin",
-    "cat": "Magtarm",
-    "sub": "Enzympreparat",
-    "brands": [
-      "Creon"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Enzymet är ej systemiskt absorberat och metaboliseras inte av levern."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Creon (pankreatin)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 183,
-    "name": "Sumatriptan",
-    "generic": "sumatriptan",
-    "cat": "Övrigt",
-    "sub": "Migränläkemedel",
-    "brands": [
-      "Imigran"
-    ],
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Oral: max 50 mg per dos (AUC ökar ~80% vid hepatisk påverkan). Subkutan form påverkas ej av first-pass och kan ges i normaldos med försiktighet."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Oral: max 50 mg per dos. Subkutan form kan ges med försiktighet. Undvik upprepade doser."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Oral sumatriptan är kontraindicerat vid svår leversjukdom per SmPC. Subkutan form saknar tillräcklig säkerhetsdata."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Sumatriptan",
-        "u": "https://www.medicines.org.uk/emc/medicine/28252"
-      }
-    ]
-  },
-  {
-    "id": 184,
-    "name": "Alfuzosin",
-    "generic": "alfuzosin",
-    "cat": "Övrigt",
-    "sub": "Alfablockerare",
-    "brands": [
-      "Xatral"
-    ],
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Farmakokinetikstudie saknas vid Child A. Försiktighet rekommenderas. Starta lågt, övervaka för hypotension."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat per SmPC. Plasmakoncentrationen är 3–4x förhöjd vid Child B/C på grund av reducerat CYP3A4-clearance."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat per SmPC."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Alfuzosin",
-        "u": "https://www.fass.se"
-      },
-      {
-        "t": "FDA Prescribing Information – Alfuzosin ER",
-        "u": "https://www.accessdata.fda.gov/spl/data/30d5b17c-5c6f-4668-9aef-c3a4db167532/30d5b17c-5c6f-4668-9aef-c3a4db167532.xml"
-      }
-    ]
-  },
-  {
-    "id": 185,
-    "name": "Finasterid",
-    "generic": "finasterid",
-    "cat": "Övrigt",
-    "sub": "5-alfareduktashämmare",
-    "brands": [
-      "Proscar",
-      "Propecia"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Kan ges. Extensivt hepatiskt metaboliserat men inga specifika kontraindikationer vid kompenserad cirros."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Försiktighet. Extensiv levermetabolism – ökad systemisk exponering förväntas. Ingen Child-Pugh-specifik dosrekommendation finns."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Otillräcklig data vid dekompenserad cirros. Undvik om möjligt. Om behandling krävs, starta lågt och övervaka."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Proscar/Propecia (finasterid)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 186,
-    "name": "Levotyroxin",
-    "generic": "levotyroxin",
-    "cat": "Övrigt",
-    "sub": "Tyreoideahormoner",
-    "brands": [
-      "Levaxin",
-      "Euthyrox"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. TSH-monitorering rekommenderas – cirros ökar TBG och kan höja levotyroxinbehovet."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. TSH-monitorering viktig. Levotyroxinbehovet kan vara ökat vid försämrad leverfunktion."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Täta TSH-kontroller rekommenderas. Ökad proteinbindning kan kräva dosökning."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Levaxin (levotyroxin)",
-        "u": "https://www.fass.se"
-      },
-      {
-        "t": "Liwanpo & Hershman 2009, J Clin Endocrinol Metab – Conditions altering levothyroxine absorption",
-        "u": "https://pubmed.ncbi.nlm.nih.gov/29720960/"
-      }
-    ]
-  },
-  {
-    "id": 187,
-    "name": "Takrolimus",
-    "generic": "takrolimus",
-    "cat": "Hepatologi",
-    "sub": "Immunsuppressiva",
-    "brands": [
-      "Prograf",
-      "Advagraf",
-      "Modigraf"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Kan ges i normaldos. Terapeutisk läkemedelsmonitorering (TDM) av helblodsnivåer obligat."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Reducerat clearance. Lägre startdos rekommenderas. Tät TDM – risk för toxicitet vid förhöjda dalvärden."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Kraftigt reducerat clearance (Child-Pugh ≥10). Dosreduktion krävs. Tät TDM obligat. Risk för nefrotoxicitet vid ackumulering."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FDA Prescribing Information – Prograf (tacrolimus)",
-        "u": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/050708s052lbl.pdf"
-      },
-      {
-        "t": "StatPearls – Tacrolimus (NCBI Bookshelf)",
-        "u": "https://www.ncbi.nlm.nih.gov/books/NBK544318/"
-      }
-    ]
-  },
-  {
-    "id": 188,
-    "name": "Folsyra",
-    "generic": "folsyra",
-    "cat": "Övrigt",
-    "sub": "Vitaminer och mineraler",
-    "brands": [
-      "Folacin"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Folatbrist är vanlig vid levercirros – substitution ofta indicerat."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Folacin (folsyra)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 189,
-    "name": "Cyanokobalamin",
-    "generic": "cyanokobalamin",
-    "cat": "Övrigt",
-    "sub": "Vitaminer och mineraler",
-    "brands": [
-      "Betolvex",
-      "Behepan"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. B12-brist är vanlig vid alkoholrelaterad levercirros."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Betolvex (cyanokobalamin)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 190,
-    "name": "Järnkarboxymaltos",
-    "generic": "järnkarboxymaltos",
-    "cat": "Övrigt",
-    "sub": "Järnpreparat",
-    "brands": [
-      "Ferinject"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Metaboliseras retikuloendotelialt, ej hepatiskt. Kan ges intravenöst i normaldos."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Kontrollera att järnbrist är bekräftad – järnöverbelastning kan förekomma vid avancerad cirros."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Ferinject (järnkarboxymaltos)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 191,
-    "name": "Järnsulfat",
-    "generic": "järnsulfat",
-    "cat": "Övrigt",
-    "sub": "Järnpreparat",
-    "brands": [
-      "Duroferon",
-      "Niferex"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Absorption kan vara variabel vid portalhypertension."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Oral absorption kan vara nedsatt – IV-beredning kan övervägas vid otillräckligt svar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Vid avancerad cirros, bekräfta järnbrist innan behandling."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Duroferon (järnsulfat)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 192,
-    "name": "Kaliumklorid",
-    "generic": "kaliumklorid",
-    "cat": "Övrigt",
-    "sub": "Elektrolyter",
-    "brands": [
-      "Kaleorid",
-      "Kay-Cee-L"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Regelbunden kontroll av S-kalium rekommenderas, särskilt vid diuretikabehandling."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Tät elektrolytmonitorering viktig – hypo- och hyperkalemi är båda möjliga beroende på samtidig behandling."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Övervaka S-kalium noggrant – hyperkalemi kan förvärra hepatisk encefalopati."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Kaleorid (kaliumklorid)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 193,
-    "name": "Kalciumkarbonat",
-    "generic": "kalciumkarbonat",
-    "cat": "Övrigt",
-    "sub": "Vitaminer och mineraler",
-    "brands": [
-      "Kalcipos",
-      "Calcichew"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Kalcipos (kalciumkarbonat)",
-        "u": "https://www.fass.se"
-      }
-    ]
-  },
-  {
-    "id": 194,
-    "name": "Bromhexin",
-    "generic": "bromhexin",
-    "cat": "Övrigt",
-    "sub": "Mukolytika",
-    "brands": [
-      "Mollipect",
-      "Bisolvon"
-    ],
-    "A": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Trots extensiv first-pass-metabolism är systemisk exponering låg och inga cirros-specifika risker är dokumenterade."
-    },
-    "B": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar."
-    },
-    "C": {
-      "lbl": "Inga kända risker",
-      "c": "green",
-      "txt": "Inga kända dosanpassningar. Begränsad specifik data – undvik långvarig behandling vid svår leverpåverkan."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "FASS / EMA produktinformation – Mollipect (bromhexin)",
-        "u": "https://www.fass.se"
-      }
-    ]
+    "atc": "N07BB04"
   }
 ]
