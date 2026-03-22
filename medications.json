@@ -1033,7 +1033,7 @@
     "B": {
       "lbl": "Försiktighet",
       "c": "yellow",
-      "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt."
+      "txt": "Max 20 mg/dag vid Child-Pugh B. Simvastatin 40 mg ger ~2% risk för rabdomyolys vid Child-Pugh B – ca 40 gånger högre än hos friska. Lägre dos (20 mg) eller byte till pravastatin/rosuvastatin rekommenderas. Monitorera CK och levervärden."
     },
     "C": {
       "lbl": "Okänd säkerhet",
@@ -1045,6 +1045,10 @@
       {
         "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
+      },
+      {
+        "t": "Semmler et al. 2021, BMC Gastroenterol – statiner vid levercirros, farmakokinetik och säkerhet",
+        "u": "https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-021-01704-w"
       }
     ],
     "atc": "C10AA01"
@@ -5314,19 +5318,19 @@
     "cat": "Koagulation",
     "sub": "NOAK (faktor Xa-hämmare)",
     "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Begränsade data vid levercirros. Kan övervägas vid Child-Pugh A om klar indikation finns. Delvis hepatisk metabolism. Monitorera för blödning."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända enligt systematisk genomgång (Diesveld et al. 2024). Monitorera för blödning vid antikoagulationsindikation."
     },
     "B": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B – markant ökad exponering förväntas. LMWH föredras vid antikoagulationsindikation."
+      "txt": "Kontraindicerat. Markant ökad exponering vid Child-Pugh B – klassificerat som osäkert i samtliga systematiska genomgångar. LMWH föredras vid antikoagulationsindikation."
     },
     "C": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Kontraindicerat."
+      "txt": "Kontraindicerat. Otillräckliga data och uttalad PK-förändring. LMWH föredras."
     },
     "mech": "",
     "refs": [
@@ -5337,6 +5341,10 @@
       {
         "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
         "u": "https://doi.org/10.1002/hep.28793"
+      },
+      {
+        "t": "Diesveld, Jacobs-Pijnenburg, Weersink et al. 2024, Eur J Clin Pharmacol – DOAC vid levercirros",
+        "u": "https://doi.org/10.1007/s00228-024-03648-y"
       }
     ],
     "atc": "B01AF01"
@@ -5348,19 +5356,19 @@
     "cat": "Koagulation",
     "sub": "NOAK (faktor Xa-hämmare)",
     "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Begränsade data. Kan övervägas vid Child-Pugh A med klar indikation. Monitorera för blödning. Delvis hepatisk metabolism."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända. Färre biverkningar rapporterade vid cirros jämfört med övriga DOAC:er."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B. LMWH föredras."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh B. Klassificerat som inga extra risker kända i systematisk genomgång (Diesveld et al. 2024). Monitorera noga för blödning. Föredras framför rivaroxaban vid DOAC-indikation."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh C. Kan inte rekommenderas. LMWH föredras vid antikoagulationsindikation."
     },
     "mech": "",
     "refs": [
@@ -5371,6 +5379,10 @@
       {
         "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
         "u": "https://doi.org/10.1002/hep.28793"
+      },
+      {
+        "t": "Diesveld, Jacobs-Pijnenburg, Weersink et al. 2024, Eur J Clin Pharmacol – DOAC vid levercirros",
+        "u": "https://doi.org/10.1007/s00228-024-03648-y"
       }
     ],
     "atc": "B01AF02"
@@ -5382,19 +5394,19 @@
     "cat": "Koagulation",
     "sub": "NOAK (trombinhämmare)",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Begränsade data. Primärt renal utsöndring men prodrug-aktivering via levern. Kan övervägas vid Child-Pugh A om klar indikation. Monitorera njurfunktion och blödning."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända. Primärt renal utsöndring – levercirros påverkar farmakokinetiken i lägre grad än för övriga DOAC:er."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Inte studerat vid Child-Pugh B. LMWH föredras."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh B. Klassificerat som inga extra risker kända (Diesveld et al. 2024) – PK-profilen påverkas relativt lite av cirrossvårighetsgrad. Monitorera njurfunktion och blödningsrisk."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh C. Kan inte rekommenderas. LMWH föredras vid antikoagulationsindikation."
     },
     "mech": "",
     "refs": [
@@ -5405,6 +5417,10 @@
       {
         "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
         "u": "https://doi.org/10.1002/hep.28793"
+      },
+      {
+        "t": "Diesveld, Jacobs-Pijnenburg, Weersink et al. 2024, Eur J Clin Pharmacol – DOAC vid levercirros",
+        "u": "https://doi.org/10.1007/s00228-024-03648-y"
       }
     ],
     "atc": "B01AE07"
@@ -5656,19 +5672,19 @@
     "cat": "Koagulation",
     "sub": "NOAK (faktor Xa-hämmare)",
     "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Normal dos kan användas vid Child-Pugh A om klar indikation finns. Monitorera för blödning. Bedöm alltid global blödningsrisk."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända. Färre biverkningar vid cirros jämfört med övriga DOAC:er."
     },
     "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Ingen rekommendation möjligt. Otillräckliga data vid Child-Pugh B. LMWH föredras vid antikoagulationsindikation."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh B. Klassificerat som inga extra risker kända (Diesveld et al. 2024). Monitorera för blödning."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Ej säker, bör undvikas. Kontraindicerat vid svår leverdysfunktion."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh C. Kan inte rekommenderas. LMWH föredras vid antikoagulationsindikation."
     },
     "mech": "",
     "refs": [
@@ -5679,6 +5695,10 @@
       {
         "t": "Intagliata et al. 2016, Hepatology – anticoagulation in cirrhosis",
         "u": "https://doi.org/10.1002/hep.28793"
+      },
+      {
+        "t": "Diesveld, Jacobs-Pijnenburg, Weersink et al. 2024, Eur J Clin Pharmacol – DOAC vid levercirros",
+        "u": "https://doi.org/10.1007/s00228-024-03648-y"
       }
     ],
     "atc": "B01AF03"
