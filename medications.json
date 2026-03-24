@@ -2475,9 +2475,9 @@
       "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Ökad plasmaexponering och risk för levertoxicitet."
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kända biverkningar vid Child-Pugh B. Ökad plasmaexponering. Använd med försiktighet och tät monitorering av levervärden om behandling bedöms nödvändig."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -2685,9 +2685,9 @@
       "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Markant ökad plasmaexponering."
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kända biverkningar vid Child-Pugh B. Markant ökad plasmaexponering. Använd med försiktighet och tät monitorering om behandling bedöms nödvändig."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -3082,9 +3082,9 @@
       "txt": "Undvik om möjligt. Om nödvändigt: starta med 25–50% av normaldos. Markant ackumulationsrisk för aktiv metabolit. Hög risk för prolongerad sedering och encefalopati."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Mycket hög ackumulationsrisk för aktiv metabolit. Stor risk för encefalopati, andningsdepression och koma. Använd oxazepam eller lorazepam om bensodiazepin är oundvikligt."
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Undvik om möjligt – föredra oxazepam eller lorazepam. Om absolut nödvändigt: starta med 25% av normaldos. Mycket hög ackumulationsrisk för aktiv metabolit. Stor risk för encefalopati."
     },
     "mech": "",
     "refs": [
@@ -3116,9 +3116,9 @@
       "txt": "Reducera dosen signifikant. Förlängd och oförutsägbar effekt. Begränsa till kortvarig procedursedation med andningsövervakning."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt förlängd effekt och ackumulationsrisk. Vid oundviklig procedursedation: minimal dos med kontinuerlig andnings- och medvetandemonitorering."
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Undvik om möjligt. Om nödvändigt (t.ex. procedursedering): kraftigt reducerad dos. Kraftigt förlängd effekt och ackumulationsrisk vid svår leverdysfunktion."
     },
     "mech": "",
     "refs": [
@@ -3776,19 +3776,19 @@
     "cat": "Antibiotika",
     "sub": "Kinolon",
     "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Primärt hepatisk utsöndring – kraftigt förhöjd plasmaexponering vid levercirros. Hög risk för levertoxicitet och QT-förlängning."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Klassificerat som inga extra risker kända vid levercirros. Ingen dosreduktion krävs baserat på leverfunktion."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Klassificerat som inga extra risker kända vid levercirros. Ingen dosreduktion krävs baserat på leverfunktion."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Kan användas utan dosanpassning. Klassificerat som inga extra risker kända vid levercirros. Ingen dosreduktion krävs baserat på leverfunktion."
     },
     "mech": "",
     "refs": [
@@ -4146,9 +4146,9 @@
       "txt": "Otillräckliga data. Undvik – hepatotoxicitetsrisk och ofta nedsatt njurfunktion vid Child-Pugh B."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Hepatotoxicitetsrisk och nedsatt njurfunktion gör nitrofurantoin olämpligt."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh C. Klassificerat som okänd säkerhet. Hepatotoxicitetsrisk och ofta nedsatt njurfunktion gör nitrofurantoin olämpligt i de flesta fall – välj alternativ."
     },
     "mech": "",
     "refs": [
@@ -4171,14 +4171,14 @@
       "txt": "Kan användas vid kompenserad levercirros (Child-Pugh A). Klassificerat som säkert av Weersink. OBS: Kontraindicerat vid dekompensation, njursvikt (GFR <30), akut sjukdom eller alkoholmissbruk pga risk för laktacidos."
     },
     "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Använd med stor försiktighet. Risk för laktacidos vid nedsatt leverfunktion och associerad njurpåverkan. Monitorera njurfunktion och laktat. Sätt ut vid dekompensation, infektion eller akut sjukdom."
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh B. Säker vid kompenserad levercirros om inga riskfaktorer för laktacidos föreligger (njurdysfunktion, aktivt alkoholbruk). Ingen dosreduktion krävs."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat. Hög risk för laktacidos vid svår leverdysfunktion."
+      "lbl": "Dosreduktion",
+      "c": "yellow",
+      "txt": "Använd med stor försiktighet vid Child-Pugh C. Välj hellre säkrare alternativ. Om metformin används: 50% av normaldosen. Hög risk för laktacidos – kräver tätt monitorering."
     },
     "mech": "",
     "refs": [
@@ -5226,9 +5226,9 @@
       "txt": "Ökad toxicitetsrisk. Använd om nödvändigt (AIH) med minimal dos. Tät monitorering av CBC och levervärden. Beakta mykofenolat som alternativ."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Hög risk för allvarlig benmärgssuppression och leversvikt vid svår leverdysfunktion."
+      "lbl": "Försiktighet",
+      "c": "yellow",
+      "txt": "Kända biverkningar vid alla Child-Pugh-klasser. Ökad risk för benmärgssuppression och hepatotoxicitet. Använd om nödvändigt (AIH) med minimal dos och tät monitorering av blodstatus."
     },
     "mech": "",
     "refs": [
@@ -5250,9 +5250,9 @@
     "cat": "Hepatologi",
     "sub": "Kortikosteroid (AIH)",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Kan användas vid AIH utan cirros som alternativ till prednisolon (färre systemiska biverkningar). OBS: Hög first-pass-effekt förloras vid portosystemisk shuntning – kraftigt ökad systemisk exponering vid cirros. Undvik generellt vid cirros."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Portosystemisk shuntning eliminerar first-pass-effekten – budesonid beter sig som systemiskt kortikosteroid och ger allvarliga biverkningar. Prednisolon föredras vid alla Child-Pugh-klasser."
     },
     "B": {
       "lbl": "Kontraindicerat",
@@ -5361,9 +5361,9 @@
       "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända. Färre biverkningar rapporterade vid cirros jämfört med övriga DOAC:er."
     },
     "B": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Kan användas vid Child-Pugh B. Klassificerat som inga extra risker kända i systematisk genomgång (Diesveld et al. 2024). Monitorera noga för blödning. Föredras framför rivaroxaban vid DOAC-indikation."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh B. Klassificerat som okänd säkerhet. Kan inte rekommenderas rutinmässigt. LMWH föredras vid antikoagulation vid levercirros."
     },
     "C": {
       "lbl": "Okänd säkerhet",
@@ -5462,14 +5462,14 @@
     "cat": "Psykofarmaka",
     "sub": "Sömnmedel",
     "A": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Börja med 5 mg. Föredra zopiklon om möjligt. Risk för encefalopati."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Välj zopiklon om sömnmedel är absolut nödvändigt."
     },
     "B": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Börja med 5 mg. Föredra zopiklon. Tät monitorering för sedering och encefalopati."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Välj zopiklon om sömnmedel är absolut nödvändigt."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -5677,9 +5677,9 @@
       "txt": "Kan användas vid Child-Pugh A. Inga extra risker kända. Färre biverkningar vid cirros jämfört med övriga DOAC:er."
     },
     "B": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Kan användas vid Child-Pugh B. Klassificerat som inga extra risker kända (Diesveld et al. 2024). Monitorera för blödning."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh B. Klassificerat som okänd säkerhet. Kan inte rekommenderas rutinmässigt. LMWH föredras vid antikoagulation vid levercirros."
     },
     "C": {
       "lbl": "Okänd säkerhet",
@@ -5982,14 +5982,14 @@
     "cat": "Övrigt",
     "sub": "Alkoholberoendebehandling",
     "A": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Kan användas med tät monitorering av levervärden. Exponering ~5× högre än normalt pga minskad first-pass-effekt. Starta med 25 mg/dag, öka till 50 mg om tolereras. Monitorera AST/ALT."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Exponering ~5× högre än normalt. Hög risk för leverskada."
     },
     "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Kan användas med mycket tät monitorering. Exponering markant ökad. Stor kohortstudie (n=3285) visade ingen DILI vid Child-Pugh B. Väg nytta mot risk individuellt."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Markant ökad exponering och leverskaderisk."
     },
     "C": {
       "lbl": "Kontraindicerat",
