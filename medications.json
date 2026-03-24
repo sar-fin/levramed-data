@@ -186,9 +186,9 @@
     "cat": "Hjärta/kärl",
     "sub": "ACE-hämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data för Child-Pugh A. Starta försiktigt."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Otillräckliga direkt data för Child-Pugh A, men klassificerat som \"nadelige effecten bekend\" vid Child-Pugh B. Starta med lägsta möjliga dos och titrera försiktigt. Monitorera blodtryck och njurfunktion."
     },
     "B": {
       "lbl": "Försiktighet",
@@ -246,9 +246,9 @@
     "cat": "Hjärta/kärl",
     "sub": "ACE-hämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta försiktigt."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Otillräckliga direkt data för Child-Pugh A, men klassificerat som \"nadelige effecten bekend\" vid Child-Pugh B. Starta med lägsta möjliga dos och titrera försiktigt. Monitorera blodtryck och njurfunktion."
     },
     "B": {
       "lbl": "Försiktighet",
@@ -276,9 +276,9 @@
     "cat": "Hjärta/kärl",
     "sub": "ACE-hämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta försiktigt."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Otillräckliga direkt data för Child-Pugh A, men klassificerat som \"nadelige effecten bekend\" vid Child-Pugh B. Starta med lägsta möjliga dos och titrera försiktigt. Monitorera blodtryck och njurfunktion."
     },
     "B": {
       "lbl": "Försiktighet",
@@ -1300,14 +1300,14 @@
     "cat": "Koagulation",
     "sub": "Trombocythämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Använd med försiktighet."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Inga extra risker kända vid Child-Pugh A. Ingen dosanpassning krävs. Beakta blödningsrisk hos cirrotiska patienter – väg trombos- mot blödningsrisk individuellt."
     },
     "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Använd med försiktighet."
+      "lbl": "Ingen dosanpassning",
+      "c": "green",
+      "txt": "Inga extra risker kända vid Child-Pugh B. Ingen dosanpassning krävs. Beakta blödningsrisk – individuell avvägning rekommenderas."
     },
     "C": {
       "lbl": "Okänd säkerhet",
@@ -1840,14 +1840,14 @@
     "cat": "Analgetika",
     "sub": "Opioid",
     "A": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh A. Klassificerat som okänd säkerhet. Starta med reducerad dos (50 mg max var 8:e timme) och titrera försiktigt."
     },
     "B": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data vid Child-Pugh B. Klassificerat som okänd säkerhet. Starta med 50 mg max var 8:e timme eller 50 mg en gång dagligen. Välj hellre alternativ opioid med bättre dokumentation."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -4266,9 +4266,9 @@
       "txt": "Kan användas utan dosanpassning. Monitorera njurfunktion och tecken på biverkningar."
     },
     "C": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data för Child-Pugh C. Begränsad effekt förväntad vid svår leverdysfunktion. Insulin föredras."
+      "lbl": "Kan användas",
+      "c": "green",
+      "txt": "Kan användas vid Child-Pugh C. Klassificerat som inga extra risker kända vid alla Child-Pugh-klasser. Ingen dosanpassning krävs. Begränsade data vid CTP-C, monitorera vid behov."
     },
     "mech": "",
     "refs": [
