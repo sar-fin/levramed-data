@@ -7,12 +7,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -37,12 +37,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -67,12 +67,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -97,12 +97,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -127,12 +127,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -157,12 +157,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -192,7 +192,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Starta så lågt som möjligt."
     },
     "C": {
@@ -217,12 +217,12 @@
     "sub": "ACE-hämmare",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -252,7 +252,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Starta så lågt som möjligt."
     },
     "C": {
@@ -282,7 +282,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Starta så lågt som möjligt."
     },
     "C": {
@@ -307,12 +307,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 4 mg en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 4 mg en gång dagligen. Öka försiktigt."
     },
     "C": {
@@ -337,12 +337,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "C": {
@@ -367,12 +367,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "C": {
@@ -397,12 +397,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 12,5 mg en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 12,5 mg en gång dagligen. Öka försiktigt."
     },
     "C": {
@@ -427,12 +427,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg en gång dagligen, öka till max 20 mg/dag."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg en gång dagligen, öka till max 20 mg/dag."
     },
     "C": {
@@ -457,12 +457,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 20 mg en gång dagligen, öka till max 40 mg/dag."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 20 mg en gång dagligen, öka till max 40 mg/dag."
     },
     "C": {
@@ -487,12 +487,12 @@
     "sub": "ARB",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg en gång dagligen, öka till max 80 mg/dag."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg en gång dagligen, öka till max 80 mg/dag."
     },
     "C": {
@@ -527,7 +527,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 10 mg dagligen."
     },
     "mech": "",
@@ -552,12 +552,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -577,17 +577,17 @@
     "sub": "Betablockerare",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -612,7 +612,7 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med en tredjedel av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -637,17 +637,17 @@
     "sub": "Betablockerare",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med max 20 mg tre gånger dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -672,12 +672,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -697,17 +697,17 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -727,12 +727,12 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -757,17 +757,17 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "mech": "",
@@ -817,17 +817,17 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen och fördubbla dosintervallet. Öka försiktigt."
     },
     "mech": "",
@@ -847,17 +847,17 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 30 mg tre gånger dagligen (per os). Öka försiktigt."
     },
     "mech": "",
@@ -877,12 +877,12 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg två gånger dagligen med 12 timmars dosintervall. Öka försiktigt."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg två gånger dagligen med 12 timmars dosintervall. Öka försiktigt."
     },
     "C": {
@@ -907,12 +907,12 @@
     "sub": "Ca-antagonist",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd en tredjedel av normal underhållsdos intravenöst."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd en tredjedel av normal underhållsdos intravenöst."
     },
     "C": {
@@ -937,12 +937,12 @@
     "sub": "Statin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
@@ -967,12 +967,12 @@
     "sub": "Statin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg en gång dagligen. Öka försiktigt."
     },
     "C": {
@@ -997,12 +997,12 @@
     "sub": "Statin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg en gång dagligen. Öka försiktigt."
     },
     "C": {
@@ -1027,12 +1027,12 @@
     "sub": "Statin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 20 mg en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Max 20 mg/dag vid Child-Pugh B. Simvastatin 40 mg ger ~2% risk för rabdomyolys vid Child-Pugh B – ca 40 gånger högre än hos friska. Lägre dos (20 mg) eller byte till pravastatin/rosuvastatin rekommenderas. Monitorera CK och levervärden."
     },
     "C": {
@@ -1061,7 +1061,7 @@
     "sub": "Lipidsänkare",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg en gång dagligen, öka till max 40 mg per dag."
     },
     "B": {
@@ -1181,17 +1181,17 @@
     "sub": "Trombocythämmare",
     "A": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Högre doser ökar blödningsrisken."
     },
     "B": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Högre doser ökar blödningsrisken."
     },
     "C": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning (75–160 mg/dag). Beakta ökad blödningsrisk vid dekompenserad cirros."
     },
     "mech": "",
@@ -1211,17 +1211,17 @@
     "sub": "Trombocythämmare",
     "A": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning. Karbasalatkalsium är en prodrug till acetylsalicylsyra."
     },
     "B": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning."
     },
     "C": {
       "lbl": "Lågdos",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd inte mer än lågdos för trombocythämning. Beakta ökad blödningsrisk."
     },
     "mech": "",
@@ -1276,12 +1276,12 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Överväg alternativ."
     },
     "mech": "",
@@ -1361,17 +1361,17 @@
     "sub": "Heparin",
     "A": {
       "lbl": "Monitorering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Beakta ökad blödningsrisk vid levercirros."
     },
     "B": {
       "lbl": "Monitorering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Beakta ökad blödningsrisk."
     },
     "C": {
       "lbl": "Monitorering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Eftersträva aPTT 1,5–2,5 gånger förlängt. Hög blödningsrisk – överväg alternativ."
     },
     "mech": "",
@@ -1391,17 +1391,17 @@
     "sub": "Lågmolekylärt heparin",
     "A": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
     },
     "B": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen."
     },
     "C": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
     },
     "mech": "",
@@ -1421,17 +1421,17 @@
     "sub": "Lågmolekylärt heparin",
     "A": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
     },
     "B": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen."
     },
     "C": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
     },
     "mech": "",
@@ -1451,17 +1451,17 @@
     "sub": "Lågmolekylärt heparin",
     "A": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen (istället för en gång dagligen)."
     },
     "B": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen."
     },
     "C": {
       "lbl": "Dosjustering",
-      "c": "yellow",
+      "c": "green",
       "txt": "Vid terapeutisk dos: ge två gånger dagligen. Beakta hög blödningsrisk."
     },
     "mech": "",
@@ -1481,17 +1481,17 @@
     "sub": "Kumarin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 4 mg eller 3 mg; dag 2: 2 mg; dag 3: 1 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
     },
     "mech": "",
@@ -1511,17 +1511,17 @@
     "sub": "Kumarin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
     },
     "mech": "",
@@ -1576,12 +1576,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt. Beakta risk för hepatisk encefalopati."
     },
     "mech": "",
@@ -1601,17 +1601,17 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Ingen dosanpassning specificerad utöver generell försiktighet. Beakta risk för encefalopati."
     },
     "mech": "",
@@ -1631,12 +1631,12 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt."
     },
     "C": {
@@ -1661,7 +1661,7 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh A. Undvik om möjligt – konverteras till morfin via CYP2D6, vilket kan vara opförutsägbart vid leverdysfunktion."
     },
     "B": {
@@ -1696,12 +1696,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen (per os). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25% av normaldosen (per os). Öka försiktigt. Hög risk för encefalopati."
     },
     "mech": "",
@@ -1726,12 +1726,12 @@
     },
     "B": {
       "lbl": "Dosintervall",
-      "c": "yellow",
+      "c": "green",
       "txt": "Fördubbla dosintervallet (intravenöst). Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosintervall",
-      "c": "yellow",
+      "c": "green",
       "txt": "Fördubbla dosintervallet (intravenöst). Beakta hög risk för encefalopati."
     },
     "mech": "",
@@ -1751,17 +1751,17 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen och fördubbla dosintervallet. Öka försiktigt."
     },
     "mech": "",
@@ -1811,17 +1811,17 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 10 mg per tillfälle."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 10 mg per tillfälle."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 10 mg per tillfälle. Beakta ökad risk för encefalopati."
     },
     "mech": "",
@@ -1841,12 +1841,12 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50 mg var 12:e timme eller 50 mg retard en gång dagligen. Öka försiktigt."
     },
     "C": {
@@ -1871,17 +1871,17 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50 mg var 12:e timme. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25 mg, öka till max 100 mg var 12:e timme. Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25 mg, öka till max 100 mg var 12:e timme. Beakta risk för encefalopati."
     },
     "mech": "",
@@ -1911,7 +1911,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 20 mg en gång dagligen."
     },
     "mech": "",
@@ -1931,12 +1931,12 @@
     "sub": "Protonpumpshämmare",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 20 mg en gång dagligen."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 20 mg en gång dagligen."
     },
     "C": {
@@ -1961,12 +1961,12 @@
     "sub": "Protonpumpshämmare",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg en gång dagligen, använd max 20 mg per dag."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd max 10 mg per dag."
     },
     "C": {
@@ -1996,7 +1996,7 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd en tredjedel av normaldosen."
     },
     "C": {
@@ -2026,12 +2026,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldosen. Beakta risk för extrapyramidala biverkningar."
     },
     "mech": "",
@@ -2151,7 +2151,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg, öka till max 10 mg en gång dagligen. Begränsad effekt förväntas."
     },
     "mech": "",
@@ -2171,17 +2171,17 @@
     "sub": "Sulfonureid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi och minskad glukoneogenes."
     },
     "mech": "",
@@ -2201,17 +2201,17 @@
     "sub": "Sulfonureid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
     },
     "mech": "",
@@ -2231,17 +2231,17 @@
     "sub": "Sulfonureid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
     },
     "mech": "",
@@ -2261,17 +2261,17 @@
     "sub": "Sulfonureid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Öka försiktigt."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
     },
     "mech": "",
@@ -2291,17 +2291,17 @@
     "sub": "Meglitinid",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen. Öka försiktigt efter kliniskt svar och biverkningar."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen, öka till max 4 mg per dag."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldosen, öka till max 4 mg per dag. Beakta risk för hypoglykemi."
     },
     "mech": "",
@@ -2321,17 +2321,17 @@
     "sub": "Tiazolidindion",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 15 mg en gång dagligen, öka till max 45 mg. Beakta risk för vätskeretention."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 15 mg en gång dagligen, öka till max 45 mg. Beakta risk för vätskeretention och ascites."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 15 mg en gång dagligen. Beakta hög risk för vätskeretention och ascitesförsämring."
     },
     "mech": "",
@@ -2356,12 +2356,12 @@
     },
     "B": {
       "lbl": "Dosintervall",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd dosintervall på 8 timmar."
     },
     "C": {
       "lbl": "Dosintervall",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd dosintervall på 8 timmar. Beakta ackumulationsrisk."
     },
     "mech": "",
@@ -2391,7 +2391,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 150 mg per dag."
     },
     "mech": "",
@@ -2421,7 +2421,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Reducera underhållsdos till 25 mg två gånger dagligen."
     },
     "mech": "",
@@ -2446,7 +2446,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet – del av kombinationsregim."
     },
     "C": {
@@ -2476,7 +2476,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kända biverkningar vid Child-Pugh B. Ökad plasmaexponering. Använd med försiktighet och tät monitorering av levervärden om behandling bedöms nödvändig."
     },
     "C": {
@@ -2501,7 +2501,7 @@
     "sub": "Interferon",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh A. Kan utlösa leversvikt – noggrann monitorering krävs."
     },
     "B": {
@@ -2531,7 +2531,7 @@
     "sub": "Interferon",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh A. Kan utlösa leversvikt – noggrann monitorering krävs."
     },
     "B": {
@@ -2561,7 +2561,7 @@
     "sub": "Pegylerat interferon",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Noggrann monitorering av leverfunktion krävs."
     },
     "B": {
@@ -2591,7 +2591,7 @@
     "sub": "Pegylerat interferon",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Noggrann monitorering av leverfunktion krävs."
     },
     "B": {
@@ -2626,7 +2626,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk vid Child-Pugh B. Använd med försiktighet och tät monitorering."
     },
     "C": {
@@ -2656,12 +2656,12 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Beakta risk för hemolytisk anemi och leverdekompensation."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Beakta hög risk för hemolytisk anemi och leverdekompensation."
     },
     "mech": "",
@@ -2686,7 +2686,7 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kända biverkningar vid Child-Pugh B. Markant ökad plasmaexponering. Använd med försiktighet och tät monitorering om behandling bedöms nödvändig."
     },
     "C": {
@@ -2741,17 +2741,17 @@
     "sub": "Diuretikum (ascites)",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 100 mg/dag. Öka vid behov till max 400 mg/dag. Monitorera elektrolyter och njurfunktion regelbundet. Risk för hyperkalemi."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 100 mg/dag. Öka försiktigt till max 400 mg/dag. Tät monitorering av elektrolyter, njurfunktion och vikt. Risk för hyperkalemi och hyponatremi."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 100 mg/dag. Mycket tät monitorering av elektrolyter och njurfunktion. Hög risk för hyperkalemi, hyponatremi och hepatorenal påverkan. Sätt ut vid AKI."
     },
     "mech": "",
@@ -2775,17 +2775,17 @@
     "sub": "Diuretikum (ascites)",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg/dag. Öka vid behov till max 160 mg/dag. Används ofta i kombination med spironolakton (ratio 100:40). Monitorera elektrolyter och njurfunktion."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 40 mg/dag. Öka försiktigt till max 160 mg/dag. Tät monitorering av elektrolyter, njurfunktion och vikt. Risk för elektrolytrubbningar och prerenal AKI."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med låg dos (20–40 mg/dag). Mycket tät monitorering. Hög risk för elektrolytrubbningar, HRS och AKI. Sätt ut vid tecken på njurpåverkan."
     },
     "mech": "",
@@ -2883,7 +2883,7 @@
     },
     "C": {
       "lbl": "Kan användas",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas vid indicerat bruk. Startdos: 1 mg var 4:e–6:e timme IV. Noggrann monitorering för ischemiska komplikationer (hjärtischemi, tarmischemi). Ge alltid i kombination med albumin vid HRS."
     },
     "mech": "",
@@ -2951,7 +2951,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Begränsade data vid Child-Pugh C. Effekten av UDCA vid dekompenserad cirros är osäker. Fortsätt behandling om redan insatt; utvärdera nyinsättning individuellt."
     },
     "mech": "",
@@ -2976,12 +2976,12 @@
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas vid indikation. Monitorera noggrant för infektion (ökad infektionskänslighet), hyperglykemi och njurfunktion. Uteslut infektion och GI-blödning innan insättning."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med stor försiktighet. Hög risk för allvarliga infektioner, njursvikt och sepsis. Vid svår alkoholhepatit: värdera Lille-score dag 7. Kontraindicerat vid aktiv infektion, GI-blödning eller njursvikt."
     },
     "mech": "",
@@ -3005,17 +3005,17 @@
     "sub": "Bensodiazepin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Föredragen bensodiazepin vid levercirros – genomgår enbart fas II-metabolism (glukuronidering), ingen aktiv metabolit. Starta med lägsta effektiva dos. Risk för sedering och encefalopati."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Föredragen bensodiazepin. Starta med lägsta effektiva dos och titrera försiktigt. Tät monitorering för sedering och tecken på encefalopati."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas om bensodiazepin är absolut nödvändigt. Starta med minimal dos. Hög risk för encefalopati – monitorera noggrant. Undvik vid manifest encefalopati."
     },
     "mech": "",
@@ -3039,17 +3039,17 @@
     "sub": "Bensodiazepin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Föredragen bensodiazepin vid levercirros – genomgår enbart fas II-metabolism (glukuronidering), ingen aktiv metabolit. Starta med lägsta effektiva dos. Risk för sedering och encefalopati."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Föredragen bensodiazepin. Starta med lägsta effektiva dos och titrera försiktigt. Monitorera för sedering och tecken på encefalopati."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas om bensodiazepin är absolut nödvändigt. Starta med minimal dos. Hög risk för encefalopati. Undvik vid manifest encefalopati."
     },
     "mech": "",
@@ -3073,17 +3073,17 @@
     "sub": "Bensodiazepin",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt – föredra oxazepam eller lorazepam. Genomgår CYP-metabolism med aktiv metabolit (desmethyldiazepam) som ackumuleras. Om nödvändigt: starta med 50% av normaldos. Undvik långtidsanvändning."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt. Om nödvändigt: starta med 25–50% av normaldos. Markant ackumulationsrisk för aktiv metabolit. Hög risk för prolongerad sedering och encefalopati."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt – föredra oxazepam eller lorazepam. Om absolut nödvändigt: starta med 25% av normaldos. Mycket hög ackumulationsrisk för aktiv metabolit. Stor risk för encefalopati."
     },
     "mech": "",
@@ -3107,17 +3107,17 @@
     "sub": "Bensodiazepin",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Reducera dosen. Metaboliseras via CYP3A4, förlängd effekt vid leverdysfunktion. Vanligen acceptabelt som engångsdos vid procedursedation med noga monitorering."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Reducera dosen signifikant. Förlängd och oförutsägbar effekt. Begränsa till kortvarig procedursedation med andningsövervakning."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt. Om nödvändigt (t.ex. procedursedering): kraftigt reducerad dos. Kraftigt förlängd effekt och ackumulationsrisk vid svår leverdysfunktion."
     },
     "mech": "",
@@ -3141,18 +3141,18 @@
     "sub": "SSRI",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Föredragen SSRI vid levercirros. Starta med 25–50 mg/dag (50% av normaldos). Öka försiktigt. Monitorera för hyponatremi och blödningsrisk (trombocythämning)."
     },
     "B": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta med 25 mg/dag. Öka till max 50–75 mg/dag med försiktighet. Monitorera levervärden, hyponatremi och blödningsrisk."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid Child-Pugh B+C. Kraftigt ökad exponering – välj citalopram eller escitalopram med halverad dos."
     },
     "C": {
-      "lbl": "Dosreduktion",
-      "c": "yellow",
-      "txt": "Starta med 25 mg/dag. Öka mycket försiktigt. Hög risk för hyponatremi, blödning och encefalopati. Undvik om möjligt – väg nytta mot risk."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid Child-Pugh B+C. Kraftigt ökad exponering – välj citalopram eller escitalopram med halverad dos."
     },
     "mech": "",
     "refs": [
@@ -3175,18 +3175,18 @@
     "sub": "SSRI",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10–20 mg/dag. Använd max 20 mg/dag. Risk för QT-förlängning ökar vid leverdysfunktion – beakta interaktioner med andra QT-förlängande läkemedel."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 10 mg/dag, max 20 mg/dag. Tät monitorering för QT-förlängning, hyponatremi och blödningsrisk."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Markant ökad risk för QT-förlängning vid svår leverdysfunktion. Välj sertralin som alternativ om SSRI är indicerat."
+      "lbl": "Dosreduktion",
+      "c": "green",
+      "txt": "Inga extra risker kända. Halvera dosen vid Child-Pugh B+C (50% av normaldosen). Välj citalopram eller escitalopram som förstahandsval bland SSRI vid levercirros."
     },
     "mech": "",
     "refs": [
@@ -3209,18 +3209,18 @@
     "sub": "SSRI",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg/dag, max 10 mg/dag. Risk för QT-förlängning – beakta interaktioner."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 5 mg/dag, max 10 mg/dag. Monitorera för QT-förlängning, hyponatremi och blödningsrisk."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Ökad risk för QT-förlängning vid svår leverdysfunktion. Välj sertralin som alternativ."
+      "lbl": "Dosreduktion",
+      "c": "green",
+      "txt": "Inga extra risker kända. Halvera dosen vid Child-Pugh B+C (50% av normaldosen). Välj citalopram eller escitalopram som förstahandsval bland SSRI vid levercirros."
     },
     "mech": "",
     "refs": [
@@ -3243,12 +3243,12 @@
     "sub": "NaSSA",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 7,5–15 mg/dag. Öka försiktigt. Monitorera för sedering (förstärkt vid leverdysfunktion) och viktökning. Kan förvärra encefalopati."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 7,5 mg/dag. Öka mycket försiktigt. Markant förstärkt sedation. Monitorera noggrant för encefalopati."
     },
     "C": {
@@ -3277,7 +3277,7 @@
     "sub": "Tricykliskt antidepressivum",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt – föredra SSRI. Starka antikolinerga effekter kan förvärra encefalopati. Om nödvändigt: starta med lägsta möjliga dos. Monitorera QT-tid och levervärden."
     },
     "B": {
@@ -3311,18 +3311,18 @@
     "sub": "Antipsykotikum (typiskt)",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 50% av normaldos. Öka försiktigt. Risk för förlängd QT-tid och extrapyramidala biverkningar. Monitorera levervärden."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25–50% av normaldos. Öka mycket försiktigt. Tät monitorering för EPS, QT-förlängning och encefalopatiförsämring."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Hög ackumulationsrisk, kraftig QT-förlängning och risk för encefalopati. Om oundvikligt: minimal engångsdos med monitorering."
+      "lbl": "Dosreduktion",
+      "c": "green",
+      "txt": "Inga extra risker kända. Starta med 25% av normaldosen vid Child-Pugh C. Monitorera för extrapyramidala biverkningar och sedering."
     },
     "mech": "",
     "refs": [
@@ -3345,12 +3345,12 @@
     "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 0,5 mg två gånger dagligen. Öka försiktigt. Monitorera för ortostatisk hypotension och EPS."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 0,5 mg en gång dagligen. Öka försiktigt till max 2 mg/dag. Monitorera för ortostatisk hypotension, EPS och levervärden."
     },
     "C": {
@@ -3379,12 +3379,12 @@
     "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 2,5–5 mg/dag. Öka försiktigt. Monitorera levervärden (hepatotoxicitet rapporterad). Risk för viktuppgång och metabolt syndrom."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 2,5 mg/dag. Öka mycket försiktigt. Tät monitorering av levervärden, metabola parametrar och encefalopati."
     },
     "C": {
@@ -3413,12 +3413,12 @@
     "sub": "Antipsykotikum (atypiskt)",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25 mg/dag. Öka med 25–50 mg/dag per tillfälle. Monitorera för ortostatisk hypotension och sedering."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Starta med 25 mg/dag. Öka mycket försiktigt. Förlängd halveringstid. Monitorera för sedering, hypotension och encefalopati."
     },
     "C": {
@@ -3457,7 +3457,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas med försiktighet. Max 1–2 g/dag i kortvariga kurer. Undvik långtidsanvändning. Inga säkra alternativ för smärtlindring vid Child-Pugh C – paracetamol i reducerad dos är ändå förstahandsval."
     },
     "mech": "",
@@ -3597,18 +3597,18 @@
     "sub": "Opioid",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk. Undvik om möjligt – föredra kortverkande opioider. Lång och varierande halveringstid ökar ackumulationsrisken. Om nödvändigt: starta med låg dos och förlängt intervall."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Undvik om möjligt. Kraftig ackumulationsrisk och QT-förlängning. Hög risk för encefalopati och andningsdepression."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Extremt oförutsägbar farmakokinetik vid svår leverdysfunktion."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Kända biverkningar vid alla Child-Pugh-klasser. Ingen dosanpassning krävs baserat på leverfunktion men tät monitorering rekommenderas."
     },
     "mech": "",
     "refs": [
@@ -3877,7 +3877,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas, men klavulansyrans hepatotoxicitetsrisk är förhöjd vid befintlig leverdysfunktion. Välj amoxicillin enbart eller alternativt antibiotikum om möjligt."
     },
     "mech": "",
@@ -3956,19 +3956,19 @@
     "cat": "Antibiotika",
     "sub": "Tetracyklin",
     "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning. Primärt fekal utsöndring, minimal leverpåverkan."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera för biverkningar."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "mech": "",
     "refs": [
@@ -3986,19 +3986,19 @@
     "cat": "Antibiotika",
     "sub": "Tetracyklin",
     "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera för biverkningar."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
     },
     "mech": "",
     "refs": [
@@ -4087,7 +4087,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas men med försiktighet. Förlängd exponering möjlig. Beakta CYP3A4-interaktioner. Välj azitromycin om möjligt."
     },
     "mech": "",
@@ -4117,7 +4117,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas kortvarigt. Föredra azitromycin. Monitorera levervärden och QT-tid."
     },
     "mech": "",
@@ -4177,7 +4177,7 @@
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med stor försiktighet vid Child-Pugh C. Välj hellre säkrare alternativ. Om metformin används: 50% av normaldosen. Hög risk för laktacidos – kräver tätt monitorering."
     },
     "mech": "",
@@ -4237,7 +4237,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas med försiktighet. Monitorera levervärden. Begränsad data vid Child-Pugh C."
     },
     "mech": "",
@@ -4796,14 +4796,14 @@
     "cat": "Hjärta/kärl",
     "sub": "Statin",
     "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera levervärden. OBS: Atorvastatin är kontraindicerat vid aktiv leversjukdom – vid kompenserad cirros utan aktiv inflammation kan det användas med försiktighet."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Kraftigt förhöjd exponering vid levercirros. Fallrapport om rabdomyolys. Välj simvastatin, rosuvastatin, pravastatin eller fluvastatin."
     },
     "B": {
-      "lbl": "Försiktighet",
-      "c": "yellow",
-      "txt": "Använd med försiktighet. Markant ökad plasmaexponering. Starta med lägsta dos. Monitorera levervärden regelbundet. Överväg pravastatin som alternativ."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering. Välj alternativ statin."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -4837,7 +4837,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med stor försiktighet. Hög risk för elektrolytrubbningar och prerenal AKI. Spironolakton och furosemid föredras vid ascites."
     },
     "mech": "",
@@ -4867,7 +4867,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med försiktighet. Hög risk för hyperkalemi. Monitorera tätt."
     },
     "mech": "",
@@ -4897,7 +4897,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med försiktighet. Furosemid i kombination med spironolakton är förstahandsval vid ascites."
     },
     "mech": "",
@@ -4927,7 +4927,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Otillräckliga data. Spironolakton föredras vid ascites. Monitorera tätt om eplerenon används."
     },
     "mech": "",
@@ -5006,19 +5006,19 @@
     "cat": "Magtarm",
     "sub": "Protonpumpshämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga specifika data vid levercirros. Sannolikt liknande profil som omeprazol – starta med lägsta effektiva dos. Max 40 mg/dag rekommenderas."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7×) vid alla Child-Pugh-klasser. Associerat med encefalopatiriskökning. Välj esomeprazol."
     },
     "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Använd lägsta effektiva dos. Monitorera levervärden."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7×) vid alla Child-Pugh-klasser. Associerat med encefalopatiriskökning. Välj esomeprazol."
     },
     "C": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data för Child-Pugh C. Esomeprazol med dosbegränsning föredras vid behov av PPI."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7×) vid alla Child-Pugh-klasser. Associerat med encefalopatiriskökning. Välj esomeprazol."
     },
     "mech": "",
     "refs": [
@@ -5036,19 +5036,19 @@
     "cat": "Magtarm",
     "sub": "Protonpumpshämmare",
     "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga specifika data. Starta med lägsta effektiva dos (15 mg/dag). Sannolikt liknande interaktionsprofil som omeprazol."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7× jämfört med friska) vid alla Child-Pugh-klasser. Välj esomeprazol som PPI vid levercirros."
     },
     "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Max 15–30 mg/dag. Esomeprazol med dosbegränsning föredras."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7× jämfört med friska) vid alla Child-Pugh-klasser. Välj esomeprazol som PPI vid levercirros."
     },
     "C": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Esomeprazol (max 20 mg/dag) föredras."
+      "lbl": "Kontraindicerat",
+      "c": "red",
+      "txt": "Kontraindicerat. Kraftigt förhöjd exponering (4–7× jämfört med friska) vid alla Child-Pugh-klasser. Välj esomeprazol som PPI vid levercirros."
     },
     "mech": "",
     "refs": [
@@ -5217,17 +5217,17 @@
     "sub": "Immunosuppressivum (AIH)",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Känd ökad risk för benmärgssuppression och hepatotoxicitet vid levercirros. Kan vara nödvändigt vid AIH-behandling. Starta med låg dos (0,5–1 mg/kg/dag). Monitorera CBC och levervärden tätt. TPMT-genotypning rekommenderas."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Ökad toxicitetsrisk. Använd om nödvändigt (AIH) med minimal dos. Tät monitorering av CBC och levervärden. Beakta mykofenolat som alternativ."
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kända biverkningar vid alla Child-Pugh-klasser. Ökad risk för benmärgssuppression och hepatotoxicitet. Använd om nödvändigt (AIH) med minimal dos och tät monitorering av blodstatus."
     },
     "mech": "",
@@ -5285,12 +5285,12 @@
     "sub": "Kumarin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Kan användas vid klar indikation (t.ex. mekanisk hjärtklaff, förmaksflimmer). Levercirros orsakar i sig förlängt PK(INR) – INR-värden är opålitliga som mått på antikoagulation. Starta med låg dos. Tät INR-monitorering krävs. Risk för blödning förhöjd."
     },
     "B": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd med stor försiktighet. INR är opålitligt vid leverdysfunktion pga nedsatt koagulationsfaktorsyntes. Tät monitorering. Överväg LMWH som alternativ vid trombos."
     },
     "C": {
@@ -5433,12 +5433,12 @@
     "sub": "Sömnmedel",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja med 3,75 mg. Bör prioriteras framför andra sömnmedel vid levercirros. Risk för encefalopati och förlängd halveringstid."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja med 3,75 mg. Tät monitorering för sedering och tecken på encefalopati."
     },
     "C": {
@@ -5493,12 +5493,12 @@
     "sub": "Bensodiazepin",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Föredra oxazepam eller lorazepam. Halveringstid hos friska 12–15 timmar – förlängs vid cirros."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Föredra oxazepam eller lorazepam. Tät monitorering för sedering och encefalopati."
     },
     "C": {
@@ -5523,12 +5523,12 @@
     "sub": "Sedativum",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja vid lägre gräns av dosintervall. OBS: biotillgängligheten ökar upp till 10× hos svårt leversjuka pga kraftigt minskad first-pass-metabolism."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja vid lägre gräns av dosintervall. Markant ackumulationsrisk. Tät monitorering för sedering och andningsdepression."
     },
     "C": {
@@ -5583,17 +5583,17 @@
     "sub": "Antihistamin",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos (2,5 mg/dag). Ingen dosjustering krävs enligt FASS, men ökad exponering förväntas. Munsönderfallande tablett (2,5 mg) finns."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos (2,5 mg/dag). Risk för ökad trötthet pga förlängd halveringstid."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Monitorera för sedering. Risk för förvärrad encefalopati vid antihistaminbehandling."
     },
     "mech": "",
@@ -5613,17 +5613,17 @@
     "sub": "Antihistamin",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos (5 mg/dag). Tabletten kan delas. Risk för ökad trötthet."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos (5 mg/dag) eller varannan dag. Monitorera för sedering."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos eller varannan dag. Monitorera noggrant för sedering och encefalopati."
     },
     "mech": "",
@@ -5643,7 +5643,7 @@
     "sub": "Antihistamin",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Normal dos möjlig. Beakta antikolinerg effekt – kan förvärra hepatisk encefalopati. Använd lägsta effektiva dos."
     },
     "B": {
@@ -5716,12 +5716,12 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja med 50% av normaldos, max 50% av normaldos. Monitorera plasmakoncentration regelbundet."
     },
     "C": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja med 25% av normaldos, max 50% av normaldos. Tät monitorering av plasmakoncentration och biverkningar."
     },
     "mech": "",
@@ -5741,12 +5741,12 @@
     "sub": "SNRI",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Ökad exponering vid levercirros. Monitorera QT-tid, hyponatremi och blödningsrisk."
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Tät monitorering. Markant ökad exponering förväntas."
     },
     "C": {
@@ -5780,7 +5780,7 @@
     },
     "B": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Ökad exponering. Monitorera levervärden, hyponatremi och blödningsrisk."
     },
     "C": {
@@ -5809,7 +5809,7 @@
     "sub": "SSRI",
     "A": {
       "lbl": "Dosreduktion",
-      "c": "yellow",
+      "c": "green",
       "txt": "Använd 50% av normaldos. Lång halveringstid (4–6 dagar hos friska) förlängs ytterligare vid levercirros – risk för ackumulation. Välj sertralin om möjligt."
     },
     "B": {
@@ -5853,7 +5853,7 @@
     },
     "C": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Begränsad klinisk erfarenhet vid Child-Pugh C. Farmakokinetiken är gynnsam men försiktighet rekommenderas. Monitorera noga. Insulin föredras vid svår leverdysfunktion."
     },
     "mech": "",
@@ -5949,7 +5949,7 @@
     "sub": "Alkoholberoendebehandling",
     "A": {
       "lbl": "Försiktighet",
-      "c": "yellow",
+      "c": "green",
       "txt": "Börja med 50% av normaldos. Kan erbjudas noggrant selekterade Child-Pugh A-patienter efter risk-nyttadiskussion. Ska inte ges om AST/ALT >3× övre referensgränsen eller bilirubin >3. Risk för hepatotoxicitet och oförutsägbar farmakokinetik."
     },
     "B": {
