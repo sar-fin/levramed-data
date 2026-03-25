@@ -1205,8 +1205,8 @@
   },
   {
     "id": 45,
-    "name": "Tikagrelol",
-    "generic": "tikagrelol",
+    "name": "Tikagrelor",
+    "generic": "tikagrelor",
     "cat": "Koagulation",
     "sub": "Trombocythämmare",
     "A": {
@@ -1512,7 +1512,7 @@
     "A": {
       "lbl": "Försiktighet",
       "c": "green",
-      "txt": "Känd ökad risk vid Child-Pugh A. Undvik om möjligt – konverteras till morfin via CYP2D6, vilket kan vara opförutsägbart vid leverdysfunktion."
+      "txt": "Andrahandsval. Konverteras till morfin via CYP2D6, vilket är oförutsägbart vid leverdysfunktion. Välj morfin eller oxikodon om möjligt."
     },
     "B": {
       "lbl": "Kontraindicerat",
@@ -1662,12 +1662,12 @@
     "A": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data vid Child-Pugh A. Klassificerat som okänd säkerhet. Starta med reducerad dos (50 mg max var 8:e timme) och titrera försiktigt."
+      "txt": "Otillräckliga data. Okänd säkerhet. Starta med reducerad dos och titrera försiktigt. Välj alternativ opioid med bättre dokumentation."
     },
     "B": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data vid Child-Pugh B. Klassificerat som okänd säkerhet. Starta med 50 mg max var 8:e timme eller 50 mg en gång dagligen. Välj hellre alternativ opioid med bättre dokumentation."
+      "txt": "Otillräckliga data. Okänd säkerhet. Välj hellre alternativ opioid med bättre dokumentation. Om oundvikligt: starta med reducerad dos."
     },
     "C": {
       "lbl": "Kontraindicerat",
@@ -2834,12 +2834,12 @@
     "A": {
       "lbl": "Dosreduktion",
       "c": "green",
-      "txt": "Undvik om möjligt – föredra oxazepam eller lorazepam. Genomgår CYP-metabolism med aktiv metabolit (desmethyldiazepam) som ackumuleras. Om nödvändigt: starta med 50% av normaldos. Undvik långtidsanvändning."
+      "txt": "Andrahandsval – föredra oxazepam eller lorazepam. Genomgår CYP-metabolism med aktiv metabolit (desmethyldiazepam) som ackumuleras. Om nödvändigt: starta med 50% av normaldos. Undvik långtidsanvändning."
     },
     "B": {
       "lbl": "Dosreduktion",
       "c": "green",
-      "txt": "Undvik om möjligt. Om nödvändigt: starta med 25–50% av normaldos. Markant ackumulationsrisk för aktiv metabolit. Hög risk för prolongerad sedering och encefalopati."
+      "txt": "Andrahandsval – föredra oxazepam eller lorazepam. Om nödvändigt: starta med 25–50% av normaldos. Markant ackumulationsrisk för aktiv metabolit. Hög risk för prolongerad sedering och encefalopati."
     },
     "C": {
       "lbl": "Dosreduktion",
@@ -3038,7 +3038,7 @@
     "A": {
       "lbl": "Försiktighet",
       "c": "green",
-      "txt": "Undvik om möjligt – föredra SSRI. Starka antikolinerga effekter kan förvärra encefalopati. Om nödvändigt: starta med lägsta möjliga dos. Monitorera QT-tid och levervärden."
+      "txt": "Andrahandsval – föredra SSRI. Starka antikolinerga effekter kan förvärra encefalopati. Om nödvändigt: starta med lägsta möjliga dos. Monitorera QT-tid och levervärden."
     },
     "B": {
       "lbl": "Kontraindicerat",
@@ -3358,12 +3358,12 @@
     "A": {
       "lbl": "Försiktighet",
       "c": "green",
-      "txt": "Känd ökad risk. Undvik om möjligt – föredra kortverkande opioider. Lång och varierande halveringstid ökar ackumulationsrisken. Om nödvändigt: starta med låg dos och förlängt intervall."
+      "txt": "Andrahandsval – föredra kortverkande opioider. Känd ökad risk. Lång och varierande halveringstid ökar ackumulationsrisken. Om nödvändigt: starta med låg dos och förlängt intervall."
     },
     "B": {
       "lbl": "Försiktighet",
       "c": "green",
-      "txt": "Undvik om möjligt. Kraftig ackumulationsrisk och QT-förlängning. Hög risk för encefalopati och andningsdepression."
+      "txt": "Andrahandsval. Kraftig ackumulationsrisk och QT-förlängning. Hög risk för encefalopati och andningsdepression. Om nödvändigt: starta med låg dos och förlängt intervall."
     },
     "C": {
       "lbl": "Försiktighet",
@@ -3688,17 +3688,17 @@
     "A": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "B": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "C": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "mech": "",
     "refs": [
@@ -3718,17 +3718,17 @@
     "A": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "B": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "C": {
       "lbl": "Okänd säkerhet",
       "c": "yellow",
-      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj alternativ antibiotika om möjligt."
+      "txt": "Otillräckliga data. Klassificerat som okänd säkerhet vid levercirros – inga farmakokinetiska studier genomförda. Välj annan antibiotika om möjligt."
     },
     "mech": "",
     "refs": [
@@ -3928,7 +3928,7 @@
     "A": {
       "lbl": "Kan användas",
       "c": "green",
-      "txt": "Kan användas. Föredraget antidiabetikum vid svår levercirros. Insulinkrav kan vara opförutsägbara – nedsatt hepatisk glukoneogenes ökar hypoglykemirisk. Tät blodsockerkontroll."
+      "txt": "Kan användas. Föredraget antidiabetikum vid svår levercirros. Insulinkrav kan vara oförutsägbara – nedsatt hepatisk glukoneogenes ökar hypoglykemirisk. Tät blodsockerkontroll."
     },
     "B": {
       "lbl": "Kan användas",
@@ -4378,7 +4378,7 @@
     "A": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Undvik. Kraftig hepatisk metabolism – markant ökad plasmaexponering vid levercirros. Ej säkert vid levercirros."
+      "txt": "Undvik. Kraftig hepatisk metabolism ger markant ökad plasmaexponering vid levercirros."
     },
     "B": {
       "lbl": "Kontraindicerat",
@@ -5336,7 +5336,7 @@
     "C": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, bör undvikas. Välj sertralin om antidepressivum är indicerat."
+      "txt": "Kontraindicerat. Välj sertralin om antidepressivum är indicerat."
     },
     "mech": "",
     "refs": [
@@ -5370,7 +5370,7 @@
     "C": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, bör undvikas. Välj sertralin som alternativ."
+      "txt": "Kontraindicerat. Välj sertralin som alternativ."
     },
     "mech": "",
     "refs": [
@@ -5399,12 +5399,12 @@
     "B": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, bör undvikas. Kraftig ackumulationsrisk pga mycket lång halveringstid. Välj sertralin."
+      "txt": "Kontraindicerat. Kraftig ackumulationsrisk pga mycket lång halveringstid. Välj sertralin."
     },
     "C": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, bör undvikas. Kontraindicerat vid svår leverdysfunktion."
+      "txt": "Kontraindicerat vid svår leverdysfunktion."
     },
     "mech": "",
     "refs": [
@@ -5539,12 +5539,12 @@
     "B": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, bör undvikas. Signifikant risk för läkemedelsinducerad leverskada. Välj akamprosat eller naltrexon."
+      "txt": "Kontraindicerat. Signifikant risk för läkemedelsinducerad leverskada. Välj akamprosat eller naltrexon."
     },
     "C": {
       "lbl": "Kontraindicerat",
       "c": "red",
-      "txt": "Ej säker, ska undvikas. Kontraindicerat vid svår leverdysfunktion."
+      "txt": "Kontraindicerat vid svår leverdysfunktion."
     },
     "mech": "",
     "refs": [
