@@ -5528,9 +5528,9 @@
     "cat": "Övrigt",
     "sub": "Alkoholberoendebehandling",
     "A": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Börja med 50% av normaldos. Kan erbjudas noggrant selekterade Child-Pugh A-patienter efter risk-nyttadiskussion. Ska inte ges om AST/ALT >3× övre referensgränsen eller bilirubin >3. Risk för hepatotoxicitet och oförutsägbar farmakokinetik."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "ACG (2024) avråder från disulfiram vid alkoholrelaterad leversjukdom i alla stadier, inklusive kompenserad cirros. Rekommendationen är svag med mycket låg evidensgrad. Leverskadan är idiosynkratisk och oförutsägbar utifrån Child-Pugh-klass. Kan övervägas om akamprosat och naltrexon prövats utan effekt. Täta leverprovskontroller krävs."
     },
     "B": {
       "lbl": "Kontraindicerat",
