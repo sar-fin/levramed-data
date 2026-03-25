@@ -5562,25 +5562,29 @@
     "cat": "Övrigt",
     "sub": "Alkoholberoendebehandling",
     "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Exponering ~5× högre än normalt. Hög risk för leverskada."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Kan användas vid kompenserad cirros. Stor retrospektiv kohort (n=3 285, Thompson et al. 2024) visade inga fall av läkemedelsinducerad leverskada (DILI) vid RUCAM-bedömning. Monitorera levervärden. Kontraindicerat vid aktiv opioidanvändning."
     },
     "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat vid alla Child-Pugh-klasser. Klassificerat som onveilig i referensdatabasen. Markant ökad exponering och leverskaderisk."
+      "lbl": "Försiktighet",
+      "c": "green",
+      "txt": "Kan användas. Samma stora kohortstudie inkluderade patienter med dekompenserad cirros utan ökad DILI-risk. AASLD anger naltrexon som möjligt alternativ vid leversjukdom – till skillnad från disulfiram som är kontraindicerat. Täta kontroller av levervärden rekommenderas."
     },
     "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Exponering ~10× högre än normalt. Otillräckliga säkerhetsdata vid svår dekompenserad cirros. Välj akamprosat."
+      "lbl": "Okänd säkerhet",
+      "c": "yellow",
+      "txt": "Begränsad evidens specifikt för CTP-C. UK-riktlinjer avråder vid svår eller akut leversvikt. Nyare kohortstudier inkluderade dekompenserade patienter utan ökad DILI-risk men data är otillräckliga för ett starkt rekommendationsutlåtande. Individuell bedömning krävs."
     },
     "mech": "",
     "refs": [
       {
-        "t": "Ayyala et al. 2024, JHEP Reports – säkerhet av naltrexon vid levercirros",
+        "t": "Thompson et al. 2024, JHEP Reports – säkerhet av naltrexon vid levercirros",
         "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11220533/"
+      },
+      {
+        "t": "Ayyala et al. 2022, Hepatol Commun – naltrexon vid leversjukdom inkl. cirros",
+        "u": "https://pubmed.ncbi.nlm.nih.gov/36281979/"
       },
       {
         "t": "AASLD – How Do I Manage Alcohol Use Disorder in Hepatology Clinic",
@@ -5589,10 +5593,6 @@
       {
         "t": "Rabiee et al. 2023, Hepatol Commun – MAUD förbättrar överlevnad vid alkoholcirros",
         "u": "https://doi.org/10.1097/HC9.0000000000000093"
-      },
-      {
-        "t": "Bertolotti et al. 1997, J Hepatol – farmakokinetik för naltrexon vid cirros",
-        "u": "https://doi.org/10.1016/s0168-8278(97)80356-5"
       }
     ],
     "atc": "N07BB04"
