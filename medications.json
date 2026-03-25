@@ -1,35 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Benazepril",
-    "generic": "benazepril",
-    "cat": "Hjärta/kärl",
-    "sub": "ACE-hämmare",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Ökad risk för njurpåverkan och hypotension vid dekompenserad cirros."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "C09AA07"
-  },
-  {
     "id": 2,
     "name": "Captopril",
     "generic": "kaptopril",
@@ -328,36 +298,6 @@
       }
     ],
     "atc": "C09CA06"
-  },
-  {
-    "id": 12,
-    "name": "Eprosartan",
-    "generic": "eprosartan",
-    "cat": "Hjärta/kärl",
-    "sub": "ARB",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1 & 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "C09CA02"
   },
   {
     "id": 13,
@@ -748,36 +688,6 @@
       }
     ],
     "atc": "C08CA02"
-  },
-  {
-    "id": 26,
-    "name": "Lacidipin",
-    "generic": "lacidipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta med 2 mg en gång dagligen. Öka försiktigt efter kliniskt svar och biverkningar."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "C08CA09"
   },
   {
     "id": 27,
@@ -1204,36 +1114,6 @@
     "atc": "B01AC06"
   },
   {
-    "id": 41,
-    "name": "Karbasalatkalsium",
-    "generic": "karbasalatkalsium",
-    "cat": "Koagulation",
-    "sub": "Trombocythämmare",
-    "A": {
-      "lbl": "Lågdos",
-      "c": "green",
-      "txt": "Använd inte mer än lågdos för trombocythämning. Karbasalatkalsium är en prodrug till acetylsalicylsyra."
-    },
-    "B": {
-      "lbl": "Lågdos",
-      "c": "green",
-      "txt": "Använd inte mer än lågdos för trombocythämning."
-    },
-    "C": {
-      "lbl": "Lågdos",
-      "c": "green",
-      "txt": "Använd inte mer än lågdos för trombocythämning. Beakta ökad blödningsrisk."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "B01AC06"
-  },
-  {
     "id": 42,
     "name": "Klopidogrel",
     "generic": "klopidogrel",
@@ -1504,36 +1384,6 @@
     "atc": "B01AA07"
   },
   {
-    "id": 51,
-    "name": "Fenprokumon",
-    "generic": "fenprokumon",
-    "cat": "Koagulation",
-    "sub": "Kumarin",
-    "A": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Tätare monitorering krävs."
-    },
-    "C": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Rekommenderad startdosering: dag 1: 9 mg eller 6 mg; dag 2: 3 mg; dag 3: 1,5 mg; dag 4: kontrollera PK(INR). Hög blödningsrisk – tät monitorering."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "B01AA04"
-  },
-  {
     "id": 52,
     "name": "Alfentanil",
     "generic": "alfentanil",
@@ -1802,36 +1652,6 @@
       }
     ],
     "atc": "N02AB02"
-  },
-  {
-    "id": 61,
-    "name": "Piritramid",
-    "generic": "piritramid",
-    "cat": "Analgetika",
-    "sub": "Opioid",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Använd max 10 mg per tillfälle."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Använd max 10 mg per tillfälle."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Använd max 10 mg per tillfälle. Beakta ökad risk för encefalopati."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "N02AC03"
   },
   {
     "id": 62,
@@ -2254,36 +2074,6 @@
     "atc": "A10BB12"
   },
   {
-    "id": 76,
-    "name": "Tolbutamid",
-    "generic": "tolbutamid",
-    "cat": "Diabetes",
-    "sub": "Sulfonureid",
-    "A": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt. Risk för hypoglykemi."
-    },
-    "B": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Öka försiktigt."
-    },
-    "C": {
-      "lbl": "Dosreduktion",
-      "c": "green",
-      "txt": "Starta så lågt som möjligt. Beakta hög risk för hypoglykemi."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 2",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "A10BB03"
-  },
-  {
     "id": 77,
     "name": "Repaglinid",
     "generic": "repaglinid",
@@ -2672,36 +2462,6 @@
       }
     ],
     "atc": "J05AB04"
-  },
-  {
-    "id": 90,
-    "name": "Simeprevir",
-    "generic": "simeprevir",
-    "cat": "Antivirala",
-    "sub": "Hepatit C (NS3-4A proteashämmare)",
-    "A": {
-      "lbl": "Ingen dosanpassning",
-      "c": "green",
-      "txt": "Ingen dosanpassning behövs vid Child-Pugh A."
-    },
-    "B": {
-      "lbl": "Försiktighet",
-      "c": "green",
-      "txt": "Kända biverkningar vid Child-Pugh B. Markant ökad plasmaexponering. Använd med försiktighet och tät monitorering om behandling bedöms nödvändig."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Suppl. Table 1",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "J05AE14"
   },
   {
     "id": 91,
@@ -3650,36 +3410,6 @@
     "atc": "N02AA03"
   },
   {
-    "id": 120,
-    "name": "Nalbupin",
-    "generic": "nalbupin",
-    "cat": "Analgetika",
-    "sub": "Opioid",
-    "A": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta med reducerad dos och monitorera noggrant."
-    },
-    "B": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Starta med reducerad dos. Risk för encefalopati."
-    },
-    "C": {
-      "lbl": "Okänd säkerhet",
-      "c": "yellow",
-      "txt": "Otillräckliga data. Undvik om möjligt."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unknown)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "N02AF02"
-  },
-  {
     "id": 121,
     "name": "Ciprofloxacin",
     "generic": "ciprofloxacin",
@@ -4460,66 +4190,6 @@
     "atc": "J05AF05"
   },
   {
-    "id": 147,
-    "name": "Adefovir",
-    "generic": "adefovir dipivoxil",
-    "cat": "Antivirala",
-    "sub": "Hepatit B (nukleotidanalog)",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Observera: nefrotoxicitet är känd biverkan – monitorera njurfunktion. Tenofovir eller entecavir föredras."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion noggrant."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Tenofovir eller entecavir föredras pga bättre säkerhetsprofil."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "J05AF08"
-  },
-  {
-    "id": 148,
-    "name": "Telbivudin",
-    "generic": "telbivudin",
-    "cat": "Antivirala",
-    "sub": "Hepatit B (nukleosidanalog)",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion och CK-värden (myopati känd biverkan). Entecavir eller tenofovir föredras."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Monitorera njurfunktion och CK."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Entecavir eller tenofovir föredras."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Safe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "J05AF11"
-  },
-  {
     "id": 149,
     "name": "Sofosbuvir",
     "generic": "sofosbuvir",
@@ -4730,66 +4400,6 @@
     "atc": "C07AB12"
   },
   {
-    "id": 156,
-    "name": "Barnidipin",
-    "generic": "barnidipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt förhöjd plasmaexponering vid levercirros pga extensiv hepatisk metabolism och hög first-pass-effekt."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "C08CA12"
-  },
-  {
-    "id": 157,
-    "name": "Isradipin",
-    "generic": "isradipin",
-    "cat": "Hjärta/kärl",
-    "sub": "Ca-antagonist",
-    "A": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Undvik. Kraftigt förhöjd plasmaexponering pga extensiv hepatisk metabolism. Välj amlodipin eller nifedipin med dosreduktion."
-    },
-    "B": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "C": {
-      "lbl": "Kontraindicerat",
-      "c": "red",
-      "txt": "Kontraindicerat."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (Unsafe)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "C08CA03"
-  },
-  {
     "id": 158,
     "name": "Atorvastatin",
     "generic": "atorvastatin",
@@ -4968,36 +4578,6 @@
       }
     ],
     "atc": "A02BA03"
-  },
-  {
-    "id": 164,
-    "name": "Ranitidin",
-    "generic": "ranitidin",
-    "cat": "Magtarm",
-    "sub": "H2-receptorblockerare",
-    "A": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas utan dosanpassning. OBS: Ranitidin är sedan 2020 draget från marknaden i EU pga NDMA-föroreningar."
-    },
-    "B": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. OBS: Se produktstatus i aktuell region."
-    },
-    "C": {
-      "lbl": "Kan användas",
-      "c": "green",
-      "txt": "Kan användas. Famotidin föredras som H2-blockerare."
-    },
-    "mech": "",
-    "refs": [
-      {
-        "t": "Weersink et al. 2018, Drug Safety – Table 2 (No additional risks known)",
-        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5966501/"
-      }
-    ],
-    "atc": "A02BA02"
   },
   {
     "id": 165,
